@@ -66,7 +66,8 @@ def fetch_upcoming(conn) -> list[dict]:
                p.moneyline_pick, p.moneyline_win_prob, p.moneyline_confidence_tier,
                p.spread_price, p.spread_price_source, p.spread_price_book_count,
                p.min_current_season_games, g.game_type, g.stadium,
-               th.conference AS home_conference, ta.conference AS away_conference
+               th.conference AS home_conference, ta.conference AS away_conference,
+               th.division AS home_division, ta.division AS away_division
         FROM predictions p
         JOIN stats.games g ON p.game_id = g.game_id
         JOIN stats.teams th ON g.home_team = th.team
@@ -81,7 +82,7 @@ def fetch_upcoming(conn) -> list[dict]:
             "moneyline_pick", "moneyline_win_prob", "moneyline_confidence_tier",
             "spread_price", "spread_price_source", "spread_price_book_count",
             "min_current_season_games", "game_type", "stadium",
-            "home_conference", "away_conference"]
+            "home_conference", "away_conference", "home_division", "away_division"]
     return [dict(zip(cols, r)) for r in rows]
 
 
@@ -327,7 +328,8 @@ def render_pick_card(p: dict, result: dict | None = None, bankroll: float | None
     if p.get("home_conference") is not None or p.get("away_conference") is not None:
         teams_val = f'{_esc_attr(p["home_team"])}|{_esc_attr(p["away_team"])}'
         confs_val = f'{_esc_attr(p.get("home_conference"))}|{_esc_attr(p.get("away_conference"))}'
-        filter_attrs = f' data-teams="{teams_val}" data-confs="{confs_val}"'
+        divs_val = f'{_esc_attr(p.get("home_division"))}|{_esc_attr(p.get("away_division"))}'
+        filter_attrs = f' data-teams="{teams_val}" data-confs="{confs_val}" data-divs="{divs_val}"'
 
     kickoff = fmt_kickoff(p["gameday"], p["gametime"], p.get("stadium"))
     return f"""
@@ -529,13 +531,18 @@ def render_history_tab(results: list[dict], weekly: list[dict]) -> str:
 def render_upcoming_filters(upcoming: list[dict]) -> str:
     teams = sorted({t for p in upcoming for t in (p.get("home_team"), p.get("away_team")) if t})
     confs = sorted({c for p in upcoming for c in (p.get("home_conference"), p.get("away_conference")) if c})
+    # Sorts as AFC East/North/South/West, NFC East/North/South/West -- already
+    # the natural grouping (conference, then direction), no custom key needed.
+    divs = sorted({d for p in upcoming for d in (p.get("home_division"), p.get("away_division")) if d})
     if not teams:
         return ""
     team_options = "".join(f'<option value="{_esc_attr(t)}">{t}</option>' for t in teams)
     conf_options = "".join(f'<option value="{_esc_attr(c)}">{c}</option>' for c in confs)
+    div_options = "".join(f'<option value="{_esc_attr(d)}">{d}</option>' for d in divs)
     return f"""<div class="filter-row">
       <label>Team <select id="team-filter"><option value="">All Teams</option>{team_options}</select></label>
       <label>Conference <select id="conf-filter"><option value="">All Conferences</option>{conf_options}</select></label>
+      <label>Division <select id="div-filter"><option value="">All Divisions</option>{div_options}</select></label>
       <span id="filter-count" class="filter-count"></span>
     </div>
     <p id="filter-empty" class="empty" style="display:none">No games match this filter.</p>"""
@@ -779,25 +786,29 @@ def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankrol
 (function() {{
   var teamSel = document.getElementById('team-filter');
   var confSel = document.getElementById('conf-filter');
-  if (!teamSel || !confSel) return;  // no filter row rendered (no upcoming games this run)
+  var divSel = document.getElementById('div-filter');
+  if (!teamSel || !confSel || !divSel) return;  // no filter row rendered (no upcoming games this run)
   var cards = Array.prototype.slice.call(document.querySelectorAll('#upcoming-list .card'));
   var countEl = document.getElementById('filter-count');
   var emptyEl = document.getElementById('filter-empty');
 
   function applyFilters() {{
-    var team = teamSel.value, conf = confSel.value, visible = 0;
+    var team = teamSel.value, conf = confSel.value, div = divSel.value, visible = 0;
     cards.forEach(function(card) {{
       var teams = (card.dataset.teams || '').split('|');
       var confs = (card.dataset.confs || '').split('|');
-      var show = (!team || teams.indexOf(team) !== -1) && (!conf || confs.indexOf(conf) !== -1);
+      var divs = (card.dataset.divs || '').split('|');
+      var show = (!team || teams.indexOf(team) !== -1) && (!conf || confs.indexOf(conf) !== -1)
+        && (!div || divs.indexOf(div) !== -1);
       card.style.display = show ? '' : 'none';
       if (show) visible++;
     }});
-    countEl.textContent = (team || conf) ? (visible + ' of ' + cards.length + ' shown') : '';
+    countEl.textContent = (team || conf || div) ? (visible + ' of ' + cards.length + ' shown') : '';
     emptyEl.style.display = (visible === 0 && cards.length > 0) ? '' : 'none';
   }}
   teamSel.addEventListener('change', applyFilters);
   confSel.addEventListener('change', applyFilters);
+  divSel.addEventListener('change', applyFilters);
 }})();
 (function() {{
   var tabBtns = Array.prototype.slice.call(document.querySelectorAll('.tab-btn'));

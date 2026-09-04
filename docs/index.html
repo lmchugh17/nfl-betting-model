@@ -147,11 +147,12 @@
     <div class="filter-row">
       <label>Team <select id="team-filter"><option value="">All Teams</option><option value="ARI">ARI</option><option value="ATL">ATL</option><option value="BAL">BAL</option><option value="BUF">BUF</option><option value="CAR">CAR</option><option value="CHI">CHI</option><option value="CIN">CIN</option><option value="CLE">CLE</option><option value="DAL">DAL</option><option value="DEN">DEN</option><option value="DET">DET</option><option value="GB">GB</option><option value="HOU">HOU</option><option value="IND">IND</option><option value="JAX">JAX</option><option value="KC">KC</option><option value="LA">LA</option><option value="LAC">LAC</option><option value="LV">LV</option><option value="MIA">MIA</option><option value="MIN">MIN</option><option value="NE">NE</option><option value="NO">NO</option><option value="NYG">NYG</option><option value="NYJ">NYJ</option><option value="PHI">PHI</option><option value="PIT">PIT</option><option value="SEA">SEA</option><option value="SF">SF</option><option value="TB">TB</option><option value="TEN">TEN</option><option value="WAS">WAS</option></select></label>
       <label>Conference <select id="conf-filter"><option value="">All Conferences</option><option value="AFC">AFC</option><option value="NFC">NFC</option></select></label>
+      <label>Division <select id="div-filter"><option value="">All Divisions</option><option value="AFC East">AFC East</option><option value="AFC North">AFC North</option><option value="AFC South">AFC South</option><option value="AFC West">AFC West</option><option value="NFC East">NFC East</option><option value="NFC North">NFC North</option><option value="NFC South">NFC South</option><option value="NFC West">NFC West</option></select></label>
       <span id="filter-count" class="filter-count"></span>
     </div>
     <p id="filter-empty" class="empty" style="display:none">No games match this filter.</p>
     <div id="upcoming-list">
-    <div class="card" data-teams="SEA|NE" data-confs="NFC|AFC">
+    <div class="card" data-teams="SEA|NE" data-confs="NFC|AFC" data-divs="NFC West|AFC East">
       <div class="matchup">NE @ SEA</div>
       <div class="kickoff">Wed Sep 9, 11:20 PM EDT</div>
       <div class="prediction-line">Model: SEA by +5.6 (61% win prob) &middot; Market: SEA by 3.5</div>
@@ -163,7 +164,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">61%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">63%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">66%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">72%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">62%</span></div></details>
       
     </div>
-    <div class="card" data-teams="LA|SF" data-confs="NFC|NFC">
+    <div class="card" data-teams="LA|SF" data-confs="NFC|NFC" data-divs="NFC West|NFC West">
       <div class="matchup">SF @ LA</div>
       <div class="kickoff">Thu Sep 10, 6:35 AM EDT</div>
       <div class="prediction-line">Model: LA by +5.3 (64% win prob) &middot; Market: LA by 3.5</div>
@@ -175,7 +176,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">75%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">65%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">68%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">65%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">64%</span></div></details>
       
     </div>
-    <div class="card" data-teams="CAR|CHI" data-confs="NFC|NFC">
+    <div class="card" data-teams="CAR|CHI" data-confs="NFC|NFC" data-divs="NFC South|NFC North">
       <div class="matchup">CHI @ CAR</div>
       <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
       <div class="prediction-line">Model: CAR by -4.2 (38% win prob) &middot; Market: CHI by 2.5</div>
@@ -187,7 +188,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">27%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">36%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">29%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">38%</span></div></details>
       
     </div>
-    <div class="card" data-teams="CIN|TB" data-confs="AFC|NFC">
+    <div class="card" data-teams="CIN|TB" data-confs="AFC|NFC" data-divs="AFC North|NFC South">
       <div class="matchup">TB @ CIN</div>
       <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
       <div class="prediction-line">Model: CIN by +0.4 (52% win prob) &middot; Market: CIN by 3.5</div>
@@ -199,7 +200,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">52%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">51%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">45%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">56%</span></div></details>
       
     </div>
-    <div class="card" data-teams="DET|NO" data-confs="NFC|NFC">
+    <div class="card" data-teams="DET|NO" data-confs="NFC|NFC" data-divs="NFC North|NFC South">
       <div class="matchup">NO @ DET</div>
       <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
       <div class="prediction-line">Model: DET by +5.4 (61% win prob) &middot; Market: DET by 7.0</div>
@@ -211,7 +212,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">62%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">62%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">68%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">75%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">60%</span></div></details>
       
     </div>
-    <div class="card" data-teams="HOU|BUF" data-confs="AFC|AFC">
+    <div class="card" data-teams="HOU|BUF" data-confs="AFC|AFC" data-divs="AFC South|AFC East">
       <div class="matchup">BUF @ HOU</div>
       <div class="kickoff">Sun Sep 13, 2:00 PM EDT</div>
       <div class="prediction-line">Model: HOU by +0.7 (46% win prob) &middot; Market: BUF by 1.5</div>
@@ -223,7 +224,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">44%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">62%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">44%</span></div></details>
       
     </div>
-    <div class="card" data-teams="IND|BAL" data-confs="AFC|AFC">
+    <div class="card" data-teams="IND|BAL" data-confs="AFC|AFC" data-divs="AFC South|AFC North">
       <div class="matchup">BAL @ IND</div>
       <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
       <div class="prediction-line">Model: IND by -3.9 (37% win prob) &middot; Market: BAL by 3.5</div>
@@ -235,7 +236,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">25%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">36%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">33%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">29%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">39%</span></div></details>
       
     </div>
-    <div class="card" data-teams="JAX|CLE" data-confs="AFC|AFC">
+    <div class="card" data-teams="JAX|CLE" data-confs="AFC|AFC" data-divs="AFC South|AFC North">
       <div class="matchup">CLE @ JAX</div>
       <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
       <div class="prediction-line">Model: JAX by +4.0 (72% win prob) &middot; Market: JAX by 7.5</div>
@@ -247,7 +248,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">79%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">77%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">84%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">83%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">75%</span></div></details>
       
     </div>
-    <div class="card" data-teams="PIT|ATL" data-confs="AFC|NFC">
+    <div class="card" data-teams="PIT|ATL" data-confs="AFC|NFC" data-divs="AFC North|NFC South">
       <div class="matchup">ATL @ PIT</div>
       <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
       <div class="prediction-line">Model: PIT by +5.3 (55% win prob) &middot; Market: PIT by 3.5</div>
@@ -259,7 +260,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">57%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">69%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">68%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">52%</span></div></details>
       
     </div>
-    <div class="card" data-teams="TEN|NYJ" data-confs="AFC|AFC">
+    <div class="card" data-teams="TEN|NYJ" data-confs="AFC|AFC" data-divs="AFC South|AFC East">
       <div class="matchup">NYJ @ TEN</div>
       <div class="kickoff">Sun Sep 13, 2:00 PM EDT</div>
       <div class="prediction-line">Model: TEN by -2.7 (49% win prob) &middot; Market: TEN by 1.5</div>
@@ -271,7 +272,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">43%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">52%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">38%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">35%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">54%</span></div></details>
       
     </div>
-    <div class="card" data-teams="LAC|ARI" data-confs="AFC|NFC">
+    <div class="card" data-teams="LAC|ARI" data-confs="AFC|NFC" data-divs="AFC West|NFC West">
       <div class="matchup">ARI @ LAC</div>
       <div class="kickoff">Sun Sep 13, 7:25 PM EDT</div>
       <div class="prediction-line">Model: LAC by -3.1 (54% win prob) &middot; Market: LAC by 10.5</div>
@@ -283,7 +284,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">59%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">56%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">37%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">53%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">54%</span></div></details>
       
     </div>
-    <div class="card" data-teams="LV|MIA" data-confs="AFC|AFC">
+    <div class="card" data-teams="LV|MIA" data-confs="AFC|AFC" data-divs="AFC West|AFC East">
       <div class="matchup">MIA @ LV</div>
       <div class="kickoff">Sun Sep 13, 7:25 PM EDT</div>
       <div class="prediction-line">Model: LV by -3.6 (40% win prob) &middot; Market: LV by 3.5</div>
@@ -295,7 +296,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">22%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">47%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">54%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">37%</span></div></details>
       
     </div>
-    <div class="card" data-teams="MIN|GB" data-confs="NFC|NFC">
+    <div class="card" data-teams="MIN|GB" data-confs="NFC|NFC" data-divs="NFC North|NFC North">
       <div class="matchup">GB @ MIN</div>
       <div class="kickoff">Sun Sep 13, 5:25 PM EDT</div>
       <div class="prediction-line">Model: MIN by +8.8 (53% win prob) &middot; Market: MIN by 1.5</div>
@@ -307,7 +308,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">51%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">63%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">62%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">51%</span></div></details>
       
     </div>
-    <div class="card" data-teams="PHI|WAS" data-confs="NFC|NFC">
+    <div class="card" data-teams="PHI|WAS" data-confs="NFC|NFC" data-divs="NFC East|NFC East">
       <div class="matchup">WAS @ PHI</div>
       <div class="kickoff">Sun Sep 13, 4:25 PM EDT</div>
       <div class="prediction-line">Model: PHI by +6.4 (64% win prob) &middot; Market: PHI by 5.5</div>
@@ -319,7 +320,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">57%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">64%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">79%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">83%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">66%</span></div></details>
       
     </div>
-    <div class="card" data-teams="NYG|DAL" data-confs="NFC|NFC">
+    <div class="card" data-teams="NYG|DAL" data-confs="NFC|NFC" data-divs="NFC East|NFC East">
       <div class="matchup">DAL @ NYG</div>
       <div class="kickoff">Sun Sep 13, 8:20 PM EDT</div>
       <div class="prediction-line">Model: NYG by -6.9 (44% win prob) &middot; Market: DAL by 2.5</div>
@@ -331,7 +332,7 @@
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">40%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">43%</span></div></details>
       
     </div>
-    <div class="card" data-teams="KC|DEN" data-confs="AFC|AFC">
+    <div class="card" data-teams="KC|DEN" data-confs="AFC|AFC" data-divs="AFC West|AFC West">
       <div class="matchup">DEN @ KC</div>
       <div class="kickoff">Mon Sep 14, 9:15 PM EDT</div>
       <div class="prediction-line">Model: KC by +3.0 (46% win prob) &middot; Market: KC by 3.0</div>
@@ -439,32 +440,36 @@
     calculation (about 1.7 points of expected margin), an unvalidated placeholder rather than a measured
     home-field value, same caveat as the confidence tiers above -- except in 2020, when it's zeroed out
     entirely to reflect the season played with no/minimal fans leaguewide.</p>
-    <p>Generated 2026-09-04 21:12 UTC.</p>
+    <p>Generated 2026-09-04 22:19 UTC.</p>
   </footer>
 </div>
 <script>
 (function() {
   var teamSel = document.getElementById('team-filter');
   var confSel = document.getElementById('conf-filter');
-  if (!teamSel || !confSel) return;  // no filter row rendered (no upcoming games this run)
+  var divSel = document.getElementById('div-filter');
+  if (!teamSel || !confSel || !divSel) return;  // no filter row rendered (no upcoming games this run)
   var cards = Array.prototype.slice.call(document.querySelectorAll('#upcoming-list .card'));
   var countEl = document.getElementById('filter-count');
   var emptyEl = document.getElementById('filter-empty');
 
   function applyFilters() {
-    var team = teamSel.value, conf = confSel.value, visible = 0;
+    var team = teamSel.value, conf = confSel.value, div = divSel.value, visible = 0;
     cards.forEach(function(card) {
       var teams = (card.dataset.teams || '').split('|');
       var confs = (card.dataset.confs || '').split('|');
-      var show = (!team || teams.indexOf(team) !== -1) && (!conf || confs.indexOf(conf) !== -1);
+      var divs = (card.dataset.divs || '').split('|');
+      var show = (!team || teams.indexOf(team) !== -1) && (!conf || confs.indexOf(conf) !== -1)
+        && (!div || divs.indexOf(div) !== -1);
       card.style.display = show ? '' : 'none';
       if (show) visible++;
     });
-    countEl.textContent = (team || conf) ? (visible + ' of ' + cards.length + ' shown') : '';
+    countEl.textContent = (team || conf || div) ? (visible + ' of ' + cards.length + ' shown') : '';
     emptyEl.style.display = (visible === 0 && cards.length > 0) ? '' : 'none';
   }
   teamSel.addEventListener('change', applyFilters);
   confSel.addEventListener('change', applyFilters);
+  divSel.addEventListener('change', applyFilters);
 })();
 (function() {
   var tabBtns = Array.prototype.slice.call(document.querySelectorAll('.tab-btn'));
