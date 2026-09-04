@@ -693,8 +693,58 @@ just the sport key.
   third-party benchmark shown alongside the model's own calibration.
 - Needs Polymarket's NFL tag/series slug — confirm via `curl` against the live
   Gamma API, don't trust doc summaries (CFB discipline).
-- **Check:** a settled 2026 game shows a Polymarket pre-game prob + a computed
-  Brier score.
+- **DONE (2026-09-04).**
+- **Confirmed via live `curl`, not assumed from the CFB pattern: `tag_slug=nfl`
+  is NOT game-only** (unlike CFB's `cfb` tag) — it returns a mix of per-game
+  moneylines, season-long props ("Tush Push banned for 2026?"), player
+  futures, and division-rivalry "Season Series Winner" bets (an "X vs. Y"-
+  titled prop easy to mistake for a real game). The actual per-game markets
+  additionally carry a `games` tag — `fetch_nfl_events()` filters on that,
+  a filtering step CFB never needed.
+- **Real bug found and fixed via the same live-`curl` discipline, on the
+  Super Bowl specifically:** Polymarket titles that one event with **city**
+  names ("Seattle vs. New England" — presumably to sidestep "Super Bowl"
+  trademark enforcement, the same "Big Game" pattern other sportsbooks use)
+  while its own moneyline market's `question` field still uses **nicknames**
+  ("Seahawks vs. Patriots") — breaking the exact `question == title` match
+  the CFB-ported `extract_moneyline()` relied on, confirmed true for every
+  regular-season event tested. Added a fallback: when the exact match fails,
+  take the first market that "looks like" a moneyline (question has no
+  spread/total/quarter-half marker, outcomes aren't Over/Under/Yes/No).
+  Verified against the real Super Bowl event — the fallback correctly
+  isolates the "Seahawks vs. Patriots" market out of ~100+ markets on that
+  event (spreads at every line, quarter/half splits, player TD props, exact-
+  margin bets) without the CFB build ever having to handle that volume.
+- **Second real finding, also city-name-related:** `team_names.build_name_lookup`
+  (Tasks 2/6) only indexed full names ("Seattle Seahawks") and nicknames
+  ("Seahawks") — the Super Bowl's city-only names ("Seattle", "New England")
+  didn't resolve at all. Extended it to also index each team's bare
+  city/market name, derived from `team_name` minus the `team_nick` suffix,
+  **but only when that city is unique across all 32 teams** — "Los Angeles"
+  is deliberately never added as a key (Rams and Chargers share it), rather
+  than silently resolving to whichever team the loop happened to see last.
+- **A real, honest limitation, not a shortcut:** the acceptance check as
+  written ("a settled 2026 game shows a pre-game prob + Brier score") can't
+  be satisfied with genuine end-to-end data yet, for two compounding reasons:
+  2026's season hasn't started (no settled games exist), AND — discovered
+  while trying to substitute the real, already-completed 2025 Super Bowl the
+  way Tasks 11/12 substituted recent real games — **Polymarket's API doesn't
+  retain a closed market's pre-game price at all**; a closed event's
+  `outcomePrices` are the final *resolved* 0/1 values (confirmed: fetching
+  the settled Super Bowl market returns `["1", "0"]`, not its actual pre-game
+  odds). This is exactly why the CFB build's own design pulls and stores the
+  probability **before** kickoff rather than trying to reconstruct it
+  afterward — confirmed here to be a real technical necessity, not just a
+  stylistic choice. Verified everything ELSE for real instead: the live pull
+  against genuinely open 2026 markets (25 of 41 fetched game events matched
+  and written, zero unmatched team names, e.g. real captured
+  `2026_01_NE_SEA` → `home_prob=0.63` for SEA, matching the model's own lean
+  toward SEA); and the Brier formula itself against that real stored
+  probability with a clearly-labeled hypothetical outcome (not written to the
+  DB). Genuine end-to-end settled-game grading will happen naturally once
+  Week 1 completes (2026-09-14/15, days away) — no code changes needed for
+  that, since Task 12's `build_site.py` already reads `polymarket_odds`
+  through the always-live `prediction_results` join.
 
 ## Task 14 — GitHub Actions data pull (`.github/workflows/weekly_data_pull.yml`)
 

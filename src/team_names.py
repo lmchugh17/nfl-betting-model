@@ -65,14 +65,33 @@ _NAME_OVERRIDES = {
 
 def build_name_lookup(teams_df) -> dict:
     """{normalized external name -> canonical abbr} from an nflverse teams frame
-    (columns team_abbr, team_name, team_nick). Covers full name, nickname, and
-    "city nick"; relocation abbrs fold to the current franchise."""
+    (columns team_abbr, team_name, team_nick). Covers full name ("Seattle
+    Seahawks"), nickname ("Seahawks"), and bare city/market name ("Seattle") --
+    the last one matters because Polymarket's Super Bowl event specifically
+    uses city-only names ("Seattle vs. New England") even though its regular-
+    season events use nicknames ("Patriots vs. Seahawks") -- confirmed
+    empirically 2026-09-04, not assumed from the regular-season pattern.
+    City names are only added when unique across all 32 teams -- "Los Angeles"
+    is deliberately skipped (Rams and Chargers share it) rather than silently
+    mapping to whichever team happened to be seen last. Relocation abbrs fold
+    to the current franchise."""
     lookup = {}
+    city_counts: dict = {}
+    cities: dict = {}
     for _, row in teams_df.iterrows():
         abbr = franchise_id(row["team_abbr"])
-        for key in (row.get("team_name"), row.get("team_nick")):
+        name, nick = row.get("team_name"), row.get("team_nick")
+        for key in (name, nick):
             if isinstance(key, str) and key:
                 lookup[normalize(key)] = abbr
+        if isinstance(name, str) and isinstance(nick, str) and name.endswith(nick):
+            city = name[: -len(nick)].strip()
+            if city:
+                city_counts[normalize(city)] = city_counts.get(normalize(city), 0) + 1
+                cities[normalize(city)] = abbr
+    for city_key, count in city_counts.items():
+        if count == 1:
+            lookup[city_key] = cities[city_key]
     lookup.update({normalize(k): v for k, v in _NAME_OVERRIDES.items()})
     return lookup
 
