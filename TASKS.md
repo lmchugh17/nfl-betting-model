@@ -892,6 +892,27 @@ for upcoming outdoor games; (4) `prune_live_data.py`; (5) rebuild `game_features
   the first real retune (they were all starting-point guesses).
 - Update [[project_nfl_betting_model]] memory with actual holdout numbers and any
   constant changes.
+- **IN PROGRESS (2026-09-04) — genuinely time-gated, not skippable.** 0
+  completed 2026 games exist as of this task starting (season opens
+  2026-09-09); there is nothing real to reconcile yet, so faking this check
+  would defeat its purpose. Verified `scripts/reconcile_predictions.py` itself
+  works correctly against the current (backtest-only) state: 3/40 toward the
+  retrain-review threshold, all 3 from Task 11's own backtest predictions, not
+  live picks.
+  **Scheduled a one-time cloud check-in** (`trig_01BD3dndardikGAxUZxtA4n2`,
+  fires 2026-09-30T15:00:00Z — after 3 full real weeks, comfortably past the
+  40-game threshold) that will run `reconcile_predictions.py`, compute margin
+  error vs the market and Brier score vs Polymarket (same math as
+  `build_site.py`'s own charts), give a qualitative read on whether the
+  starting-point ELO/window constants look obviously off, write it all to a
+  new `CALIBRATION_REVIEW_2026.md` at the repo root, commit + push it, and
+  push-notify the user with a summary. **Deliberately diagnostic-only** — it
+  does not retrain or change any constants itself; that decision (and the
+  memory update this task also calls for) needs a real follow-up conversation,
+  same discipline as every other consequential decision in this build.
+  Also flipped the repo public and enabled GitHub Pages this session (user
+  request, unrelated to Task 16 itself) — live at
+  https://lmchugh17.github.io/nfl-betting-model/.
 
 ---
 
