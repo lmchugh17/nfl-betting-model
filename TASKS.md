@@ -138,11 +138,18 @@ with conference/division/franchise mapping.
   rows (future rows have null scores — that is the upcoming slate for prediction).
 - Normalise `season_type`: `REG`→`REG`, `{WC,DIV,CON,SB}`→`POST`. (Preseason is
   not in this table; Task 4 handles preseason separately for injuries only.)
-- **Check:** row counts by season match nflverse (285/season for 2021–2024, 267
-  for 2016–2020); spot-check 3 known games (SB LVIII: KC 25 SF 22 OT; a 2016
-  `SD` home game exists and maps to franchise `LAC`; Week 18 2026 rows present
-  with null scores). `spread_line`/`total_line` non-null for ≥ 99% of 2016+
-  completed games.
+- **DONE (2026-09-03).** `src/nflverse_client.py` (Polars→pandas wrappers,
+  filesystem cache at `data/cache/`, `cache_dir` must be a `Path`),
+  `src/team_names.py` (`FRANCHISE_ALIASES` STL→LA / SD→LAC / OAK→LV / LAR→LA —
+  **nflverse `schedules` uses `LA` not `LAR` for the Rams**; `build_name_lookup`
+  for Odds-API/Polymarket names), `scripts/backfill_schedules.py`.
+  Verified: 7,548 schedule rows → 7,276 completed + 272 upcoming; 35 teams with
+  correct `franchise_id` folding; season counts match nflverse (267 for 2016–19,
+  269 for 2020, 285 for 2021–25); SB LVIII `2023_22_SF_KC` KC 25 SF 22 at
+  Allegiant `is_dome=1` `neutral_site=1`; 2016 `SD` home games fold to franchise
+  `LAC`; 2026 Week 18 rows present with null scores; **0 of 2,761** 2016+
+  completed games missing `spread_line`/`total_line`, 1 missing a moneyline.
+  Dome/closed/open-roof games correctly carry null `temp`/`wind`.
 
 ## Task 3 — Play-by-play → `team_game_epa` aggregation (`scripts/backfill_epa.py`, `src/epa_features.py`)
 
