@@ -145,7 +145,7 @@
 
   <div id="tab-upcoming" class="tab-panel">
     <div class="filter-row">
-      <label>Team <select id="team-filter"><option value="">All Teams</option><option value="LA">LA</option><option value="NE">NE</option><option value="SEA">SEA</option><option value="SF">SF</option></select></label>
+      <label>Team <select id="team-filter"><option value="">All Teams</option><option value="ARI">ARI</option><option value="ATL">ATL</option><option value="BAL">BAL</option><option value="BUF">BUF</option><option value="CAR">CAR</option><option value="CHI">CHI</option><option value="CIN">CIN</option><option value="CLE">CLE</option><option value="DAL">DAL</option><option value="DEN">DEN</option><option value="DET">DET</option><option value="GB">GB</option><option value="HOU">HOU</option><option value="IND">IND</option><option value="JAX">JAX</option><option value="KC">KC</option><option value="LA">LA</option><option value="LAC">LAC</option><option value="LV">LV</option><option value="MIA">MIA</option><option value="MIN">MIN</option><option value="NE">NE</option><option value="NO">NO</option><option value="NYG">NYG</option><option value="NYJ">NYJ</option><option value="PHI">PHI</option><option value="PIT">PIT</option><option value="SEA">SEA</option><option value="SF">SF</option><option value="TB">TB</option><option value="TEN">TEN</option><option value="WAS">WAS</option></select></label>
       <label>Conference <select id="conf-filter"><option value="">All Conferences</option><option value="AFC">AFC</option><option value="NFC">NFC</option></select></label>
       <span id="filter-count" class="filter-count"></span>
     </div>
@@ -154,25 +154,193 @@
     <div class="card" data-teams="SEA|NE" data-confs="NFC|AFC">
       <div class="matchup">NE @ SEA</div>
       <div class="kickoff">Wed Sep 9, 11:20 PM EDT</div>
-      <div class="prediction-line">Model: SEA by +6.8 (58% win prob) &middot; Market: SEA by 3.5</div>
-      <div class="pick-line">Moneyline pick: <strong>SEA</strong> (58% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>SEA -3.5 <span class="odds">(-108)</span></strong> <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
-      <div class="wager-line">Recommended wager: <strong>$22.14</strong> (4.3% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 60%</div>
-      
-      <ul class="bullets"><li>Pre-game ELO&Dagger; gives SEA a 69% win probability.</li><li>NE has the edge in recent explosive-play rate (16% vs 14%, last 8 games).</li><li>SEA carries a 100-point ELO&Dagger; advantage over NE (1642 vs 1543).</li><li>NE is traveling west across 3+ time zones for this game.</li><li>SEA has the edge in recent defensive success rate allowed (36% vs 42%, last 8 games).</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">54%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">57%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">65%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">78%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">58%</span></div></details>
+      <div class="prediction-line">Model: SEA by +5.6 (61% win prob) &middot; Market: SEA by 3.5</div>
+      <div class="pick-line">Moneyline pick: <strong>SEA</strong> (61% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>SEA -3.5 <span class="odds">(-108)</span></strong> <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$12.15</strong> (2.3% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 56%</div>
+      <div class="tldr">Model picks Seattle over New England, driven by a commanding 112-point Elo edge that alone projects the Seahawks as 71% favorites.</div>
+      <ul class="bullets"><li>Seattle holds a 112-point Elo rating edge over New England (1657 vs. 1545), which projects a 71% pregame win probability for the Seahawks.</li><li>New England actually has better recent form in a couple of areas: a 64% red-zone touchdown rate over its last 8 games (vs. 43% for Seattle) and a slightly better rushing EPA per play (-0.002 vs. -0.041).</li><li>Seattle is playing under a new head coach this season, adding some uncertainty to the pick.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">61%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">63%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">66%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">72%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">62%</span></div></details>
       
     </div>
     <div class="card" data-teams="LA|SF" data-confs="NFC|NFC">
       <div class="matchup">SF @ LA</div>
       <div class="kickoff">Thu Sep 10, 6:35 AM EDT</div>
-      <div class="prediction-line">Model: LA by +7.9 (66% win prob) &middot; Market: LA by 3.5</div>
-      <div class="pick-line">Moneyline pick: <strong>LA</strong> (66% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>LA -3.5 <span class="odds">(-110)</span></strong> <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
-      <div class="wager-line">Recommended wager: <strong>$29.66</strong> (5.7% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 63%</div>
+      <div class="prediction-line">Model: LA by +5.3 (64% win prob) &middot; Market: LA by 3.5</div>
+      <div class="pick-line">Moneyline pick: <strong>LA</strong> (64% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>LA -3.5 <span class="odds">(-110)</span></strong> <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$8.59</strong> (1.7% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 56%</div>
+      <div class="tldr">The Rams are the pick over San Francisco, backed by a 55-point Elo edge and a clear passing-efficiency advantage in this international opener at Melbourne.</div>
+      <ul class="bullets"><li>LA carries a 55-point Elo rating edge over San Francisco (1614 vs. 1559).</li><li>This is an international game, played at the Melbourne Cricket Ground.</li><li>The Rams have been playing faster recently (27.2s vs. 29.3s per play) and have a big passing-EPA edge over the 49ers (+0.258 vs. +0.101 over the last 8 games).</li><li>LA is also breaking in a new head coach this season.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">75%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">65%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">68%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">65%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">64%</span></div></details>
       
-      <ul class="bullets"><li>LA carries a 60-point ELO&Dagger; advantage over SF (1619 vs 1559).</li><li>LA has been playing at a faster pace recently (27.3s vs 29.3s per play).</li><li>LA has the edge in recent pass-rush pressure rate (20% vs 11%, last 8 games).</li><li>LA has the edge in recent offensive success rate (51% vs 45%, last 8 games).</li><li>SF is traveling west across 7+ time zones for this game.</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">78%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">64%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">72%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">65%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">66%</span></div></details>
+    </div>
+    <div class="card" data-teams="CAR|CHI" data-confs="NFC|NFC">
+      <div class="matchup">CHI @ CAR</div>
+      <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: CAR by -4.2 (38% win prob) &middot; Market: CHI by 2.5</div>
+      <div class="pick-line">Moneyline pick: <strong>CHI</strong> (62% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>CHI -2.5 <span class="odds">(-116)</span></strong> <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$3.85</strong> (0.7% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 55%</div>
+      <div class="tldr">Model likes Chicago on the road over Carolina, pointing to a 120-point Elo edge and a much stronger recent rushing game.</div>
+      <ul class="bullets"><li>Chicago has a notably better recent rushing EPA per play than Carolina (+0.007 vs. -0.182 over the last 8 games).</li><li>Chicago carries a 120-point Elo ratings edge over Carolina, and pre-game Elo gives Carolina just a 39% win probability at home.</li><li>The Bears have also been playing at a faster pace recently (27.0s vs. 29.2s per play) and hold a slight edge in explosive-play rate (13% vs. 11%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">27%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">36%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">29%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">38%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="CIN|TB" data-confs="AFC|NFC">
+      <div class="matchup">TB @ CIN</div>
+      <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: CIN by +0.4 (52% win prob) &middot; Market: CIN by 3.5</div>
+      <div class="pick-line">Moneyline pick: <strong>CIN</strong> (52% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>TB +3.5 <span class="odds">(-110)</span></strong> <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$18.64</strong> (3.6% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 59%</div>
+      <div class="tldr">Model takes Tampa Bay to cover on the road against Cincinnati -- a near pick'em game where TB's 34-point Elo edge outweighs a market line favoring the Bengals by 3.5.</div>
+      <ul class="bullets"><li>Tampa Bay carries a 34-point Elo rating edge over Cincinnati, despite the market favoring the Bengals by 3.5 points.</li><li>Cincinnati does have a slight recent edge in offensive success rate (47% vs. 44% over the last 8 games), and pre-game Elo gives it a 51% win probability.</li><li>Cincinnati is playing under a new head coach this season and has leaned more pass-heavy in neutral situations recently (62% vs. 55%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">52%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">51%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">45%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">56%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="DET|NO" data-confs="NFC|NFC">
+      <div class="matchup">NO @ DET</div>
+      <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: DET by +5.4 (61% win prob) &middot; Market: DET by 7.0</div>
+      <div class="pick-line">Moneyline pick: <strong>DET</strong> (61% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>NO +7.0 <span class="odds">(-110)</span></strong> <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$7.06</strong> (1.4% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 55%</div>
+      <div class="tldr">Model takes the points with New Orleans at Detroit -- the Lions are still the better team by a wide Elo margin, but not by as much as the market's 7-point line implies.</div>
+      <ul class="bullets"><li>Detroit carries a big 172-point Elo rating edge over New Orleans (1599 vs. 1427), and pre-game Elo alone gives the Lions a 77% win probability.</li><li>Detroit also has a slight passing-EPA edge (+0.081 vs. +0.061 over the last 8 games), while New Orleans is marginally better in rushing EPA (-0.116 vs. -0.134).</li><li>Detroit is playing under a new head coach this season.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">62%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">62%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">68%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">75%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">60%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="HOU|BUF" data-confs="AFC|AFC">
+      <div class="matchup">BUF @ HOU</div>
+      <div class="kickoff">Sun Sep 13, 2:00 PM EDT</div>
+      <div class="prediction-line">Model: HOU by +0.7 (46% win prob) &middot; Market: BUF by 1.5</div>
+      <div class="pick-line">Moneyline pick: <strong>BUF</strong> (54% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>HOU +1.5 <span class="odds">(-110)</span></strong> <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$11.98</strong> (2.3% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 57%</div>
+      <div class="tldr">Model takes Houston getting the points at home against Buffalo -- Buffalo still rates out ahead on paper, but the market line overstates that edge versus the model's own projected margin.</div>
+      <ul class="bullets"><li>Buffalo holds a 76-point Elo ratings edge over Houston and has been the more efficient team recently: better rushing EPA (+0.070 vs. -0.167) and a higher offensive success rate (50% vs. 41%) over the last 8 games.</li><li>Pre-game Elo alone gives Houston just a 45% win probability, and Buffalo also leads in recent explosive-play rate (14% vs. 10%).</li><li>Even with those edges for Buffalo, the model's projected margin is close to even, making Houston the value side against a market line favoring the Bills by 1.5.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">44%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">62%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">44%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="IND|BAL" data-confs="AFC|AFC">
+      <div class="matchup">BAL @ IND</div>
+      <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: IND by -3.9 (37% win prob) &middot; Market: BAL by 3.5</div>
+      <div class="pick-line">Moneyline pick: <strong>BAL</strong> (63% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>BAL -3.5 <span class="odds">(-105)</span></strong> <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$0.01</strong> (0.0% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 51%</div>
+      <div class="tldr">Model sticks with Baltimore on the road over Indianapolis, powered by a 128-point Elo edge and a big rushing-efficiency advantage.</div>
+      <ul class="bullets"><li>Baltimore carries a 128-point Elo rating edge over Indianapolis, and pre-game Elo gives the Colts just a 38% win probability at home.</li><li>The Ravens have a large rushing-EPA edge over the Colts recently (+0.111 vs. -0.116 over the last 8 games) and a better explosive-play rate (14% vs. 11%).</li><li>Indianapolis does have the better recent red-zone touchdown rate (69% vs. 40%), the one factor working in the Colts' favor here.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">25%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">36%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">33%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">29%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">39%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="JAX|CLE" data-confs="AFC|AFC">
+      <div class="matchup">CLE @ JAX</div>
+      <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: JAX by +4.0 (72% win prob) &middot; Market: JAX by 7.5</div>
+      <div class="pick-line">Moneyline pick: <strong>JAX</strong> (72% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>CLE +7.5 <span class="odds">(-110)</span></strong> <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$22.29</strong> (4.3% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 61%</div>
+      <div class="tldr">Model takes Cleveland plus the points at Jacksonville -- the Jaguars are clearly the better team, but not by as much as the market's 7.5-point spread suggests.</div>
+      <ul class="bullets"><li>Jacksonville is playing at a much higher offensive level recently, with a huge EPA-per-play edge over Cleveland (+0.080 vs. -0.231 over the last 8 games) and a big red-zone touchdown rate advantage (75% vs. 29%).</li><li>Jacksonville carries a 140-point Elo rating edge over Cleveland, and pre-game Elo gives the Jaguars a 74% win probability.</li><li>Jacksonville has also leaned more pass-heavy in neutral game script recently (64% vs. 47%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">79%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">77%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">84%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">83%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">75%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="PIT|ATL" data-confs="AFC|NFC">
+      <div class="matchup">ATL @ PIT</div>
+      <div class="kickoff">Sun Sep 13, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: PIT by +5.3 (55% win prob) &middot; Market: PIT by 3.5</div>
+      <div class="pick-line">Moneyline pick: <strong>PIT</strong> (55% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>PIT -3.5 <span class="odds">(-120)</span></strong> <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$2.75</strong> (0.5% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 56%</div>
+      <div class="tldr">Model likes Pittsburgh at home over Atlanta, with a 76-point Elo edge and better defensive efficiency outweighing Atlanta's passing-game advantage.</div>
+      <ul class="bullets"><li>Pittsburgh carries a 76-point Elo rating edge over Atlanta, and pre-game Elo gives the Steelers a 66% win probability.</li><li>Pittsburgh has been slightly better defensively, allowing a lower success rate to opponents recently (42% vs. 43%).</li><li>Atlanta does have the passing-game edge, though -- better overall offensive EPA (-0.002 vs. -0.058) and passing EPA (+0.073 vs. -0.080) over the last 8 games.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">57%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">69%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">68%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">52%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="TEN|NYJ" data-confs="AFC|AFC">
+      <div class="matchup">NYJ @ TEN</div>
+      <div class="kickoff">Sun Sep 13, 2:00 PM EDT</div>
+      <div class="prediction-line">Model: TEN by -2.7 (49% win prob) &middot; Market: TEN by 1.5</div>
+      <div class="pick-line">Moneyline pick: <strong>NYJ</strong> (51% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>NYJ +1.5 <span class="odds">(-110)</span></strong> <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$27.66</strong> (5.3% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 63%</div>
+      <div class="tldr">Model takes the Jets outright over Tennessee -- despite the Titans' pass-rush and explosive-play edges, Tennessee has barely covered spreads recently and the model's own numbers favor New York.</div>
+      <ul class="bullets"><li>The Jets have been playing at a faster pace recently (27.1s vs. 28.9s per play).</li><li>Tennessee does have the edge in recent pass-rush pressure rate (15% vs. 9%) and explosive-play rate (9% vs. 7%) over the last 8 games.</li><li>Tennessee is playing under a new head coach this season and has covered the spread in just 12% of its last 8 games.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">43%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">52%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">38%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">35%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">54%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="LAC|ARI" data-confs="AFC|NFC">
+      <div class="matchup">ARI @ LAC</div>
+      <div class="kickoff">Sun Sep 13, 7:25 PM EDT</div>
+      <div class="prediction-line">Model: LAC by -3.1 (54% win prob) &middot; Market: LAC by 10.5</div>
+      <div class="pick-line">Moneyline pick: <strong>LAC</strong> (54% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>ARI +10.5 <span class="odds">(-110)</span></strong> <span class="tier tier-high">HIGH Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$88.94</strong> (17.1% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 85%</div>
+      <div class="tldr">Model takes Arizona getting 10.5 points at the Chargers -- the market's line is far wider than the model's own projected margin, which has this as a close game.</div>
+      <ul class="bullets"><li>The market favors the Chargers by 10.5 points, but the model's own projected margin has this as a much closer game.</li><li>Arizona has the better recent explosive-play rate on offense (13% vs. 9% over the last 8 games), while the Chargers have the better explosive-play rate allowed (11% vs. 15%).</li><li>The Chargers do carry a 136-point Elo ratings edge, and pre-game Elo alone gives them a 73% win probability.</li><li>Arizona has leaned more pass-heavy in neutral game script recently (75% vs. 59%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">59%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">56%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">37%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">53%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">54%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="LV|MIA" data-confs="AFC|AFC">
+      <div class="matchup">MIA @ LV</div>
+      <div class="kickoff">Sun Sep 13, 7:25 PM EDT</div>
+      <div class="prediction-line">Model: LV by -3.6 (40% win prob) &middot; Market: LV by 3.5</div>
+      <div class="pick-line">Moneyline pick: <strong>MIA</strong> (60% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>MIA +3.5 <span class="odds">(-113)</span></strong> <span class="tier tier-high">HIGH Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$48.69</strong> (9.4% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 71%</div>
+      <div class="tldr">Model takes Miami, the road underdog, to win outright at Las Vegas -- a 122-point Elo edge points to a Dolphins win despite the Raiders being favored by the market.</div>
+      <ul class="bullets"><li>Miami carries a 122-point Elo rating edge over Las Vegas, and pre-game Elo gives the Raiders just a 38% win probability at home.</li><li>Miami also has the better recent rushing EPA per play (-0.043 vs. -0.308 over the last 8 games).</li><li>Las Vegas has leaned much more pass-heavy recently, both in neutral game script (62% vs. 46%) and overall (68% vs. 50%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">22%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">47%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">54%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">37%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="MIN|GB" data-confs="NFC|NFC">
+      <div class="matchup">GB @ MIN</div>
+      <div class="kickoff">Sun Sep 13, 5:25 PM EDT</div>
+      <div class="prediction-line">Model: MIN by +8.8 (53% win prob) &middot; Market: MIN by 1.5</div>
+      <div class="pick-line">Moneyline pick: <strong>MIN</strong> (53% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>MIN -1.5 <span class="odds">(-110)</span></strong> <span class="tier tier-high">HIGH Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$50.83</strong> (9.8% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 71%</div>
+      <div class="tldr">Model backs Minnesota to cover at home over Green Bay -- projected to win by nearly 9 points, well beyond the market's 1.5-point line, mostly on the strength of a big defensive-efficiency edge.</div>
+      <ul class="bullets"><li>Minnesota has been much better defensively recently -- a strong defensive EPA per play allowed (-0.181 vs. +0.055 over the last 8 games) and a lower explosive-play rate allowed (9% vs. 13%).</li><li>Green Bay does have the edge in recent passing EPA (+0.232 vs. -0.204) and explosive-play rate (14% vs. 11%), plus a 19-point Elo ratings edge over Minnesota.</li><li>Despite Green Bay's offensive edges, the model's projected margin (Vikings by nearly 9) is well beyond the market's 1.5-point line.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">51%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">63%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">62%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">51%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="PHI|WAS" data-confs="NFC|NFC">
+      <div class="matchup">WAS @ PHI</div>
+      <div class="kickoff">Sun Sep 13, 4:25 PM EDT</div>
+      <div class="prediction-line">Model: PHI by +6.4 (64% win prob) &middot; Market: PHI by 5.5</div>
+      <div class="pick-line">Moneyline pick: <strong>PHI</strong> (64% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>PHI -5.5 <span class="odds">(-110)</span></strong> <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$1.02</strong> (0.2% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 53%</div>
+      <div class="tldr">Model backs Philadelphia at home over Washington, essentially in line with the market -- a 186-point Elo edge and strong defensive efficiency make the Eagles the clear favorite.</div>
+      <ul class="bullets"><li>Philadelphia carries a massive 186-point Elo rating edge over Washington, and pre-game Elo gives the Eagles a 79% win probability.</li><li>The Eagles have been much stingier defensively recently -- a lower explosive-play rate allowed (9% vs. 15%) and better defensive EPA per play allowed (-0.066 vs. +0.184) over the last 8 games.</li><li>Philadelphia has also leaned more pass-heavy in neutral game script recently (65% vs. 48%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">57%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">64%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">79%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">83%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">66%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="NYG|DAL" data-confs="NFC|NFC">
+      <div class="matchup">DAL @ NYG</div>
+      <div class="kickoff">Sun Sep 13, 8:20 PM EDT</div>
+      <div class="prediction-line">Model: NYG by -6.9 (44% win prob) &middot; Market: DAL by 2.5</div>
+      <div class="pick-line">Moneyline pick: <strong>DAL</strong> (56% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>DAL -2.5 <span class="odds">(-110)</span></strong> <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="wager-line">Recommended wager: <strong>$29.24</strong> (5.6% of $518.68 paper bankroll, 25% Kelly) &middot; cover probability 63%</div>
+      <div class="tldr">Model takes Dallas to cover a bigger number than the market gives at the Giants -- the Cowboys' 81-point Elo edge and better offensive efficiency point to a win larger than the posted 2.5-point line.</div>
+      <ul class="bullets"><li>Dallas carries an 81-point Elo rating edge over the Giants, and pre-game Elo gives New York only a 44% win probability.</li><li>Dallas has the better recent offensive success rate (47% vs. 42%) and has been playing at a faster pace (26.7s vs. 27.9s per play) over the last 8 games.</li><li>Dallas has also leaned more pass-heavy overall recently (61% vs. 56%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">40%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">43%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="KC|DEN" data-confs="AFC|AFC">
+      <div class="matchup">DEN @ KC</div>
+      <div class="kickoff">Mon Sep 14, 9:15 PM EDT</div>
+      <div class="prediction-line">Model: KC by +3.0 (46% win prob) &middot; Market: KC by 3.0</div>
+      <div class="pick-line">Moneyline pick: <strong>DEN</strong> (54% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>KC -3.0 <span class="odds">(-110*)</span></strong> <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      
+      <div class="tldr">Essentially no edge in Denver at Kansas City -- the model's number (Chiefs by 3) matches the market almost exactly, so this is a pure toss-up pick with no real betting value.</div>
+      <ul class="bullets"><li>Denver actually carries a 17-point Elo rating edge over Kansas City, and has the better recent explosive-play rate (10% vs. 8%) and red-zone touchdown rate (53% vs. 36%).</li><li>Kansas City has been playing at a faster pace recently (27.1s vs. 29.0s per play) and has a slightly better explosive-play rate allowed (9% vs. 11%).</li><li>The model's projected margin (Chiefs by 3.0) lines up almost exactly with the market's own 3-point line, leaving essentially zero edge either way.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">53%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">47%</span></div></details>
       
     </div></div>
   </div>
@@ -271,7 +439,7 @@
     calculation (about 1.7 points of expected margin), an unvalidated placeholder rather than a measured
     home-field value, same caveat as the confidence tiers above -- except in 2020, when it's zeroed out
     entirely to reflect the season played with no/minimal fans leaguewide.</p>
-    <p>Generated 2026-09-04 19:53 UTC.</p>
+    <p>Generated 2026-09-04 21:12 UTC.</p>
   </footer>
 </div>
 <script>
