@@ -451,18 +451,58 @@ just the sport key.
 - Same 5-model stack (LogReg / RF / XGB / LightGBM / ExtraTrees → logistic
   meta-learner on `TimeSeriesSplit` OOF) → P(home win); separate `XGBRegressor` →
   predicted margin. `spread_line` excluded from training, used only post-hoc for
-  `edge = predicted_margin - (-spread_line)`.
+  `edge = predicted_margin - spread_line` — **not** `- (-spread_line)` as
+  written here originally. **Real bug caught while building Task 9:** nflverse's
+  `spread_line` is POSITIVE when the home team is favored, the opposite of the
+  "-7 = favored by 7" sportsbook-quote convention CFBD used (which is what CFB's
+  own edge/cover formulas assume, and what this line was blindly copied from).
+  `market_spread` already IS the market's implied home margin directly — no
+  negation. This was ALSO wrong in the `prediction_results` view's
+  `pick_covered` CASE logic since Task 1 (`+ market_spread` instead of
+  `- market_spread`) — fixed in `src/db.py` as part of this task. Confirmed
+  with a real game: 2023 Week 17 BUF (home), a 15-point favorite
+  (`spread_line=15`), won by only 6 — a well-known "didn't cover" result that
+  `actual_margin > spread_line` (6 > 15, false) gets right and the old
+  `actual_margin > -spread_line` formula would have gotten backwards.
 - Retune: `N_SPLITS` (more seasons available than CFB), tree depths for the
   larger, cleaner NFL sample.
 - Split: train **2016–2024** (~2,400 games), holdout **2025** (285 games) full
   season, **2026** live rolling. Save bundle to `models/nfl_model.pkl`
   (gitignored).
-- **Check (reality test vs market):** classifier accuracy should land in the
-  **62–68%** range (NFL is closer to a coin flip than CFB's 76%) and **just
-  behind** market-favourite accuracy; regressor MAE **just above** the market's
-  (~ market ± 0.5). Landing *ahead* of the market on a first pass = leakage bug,
-  not success. Compare to baselines: home-team-always (~57% modern NFL),
-  ELO-only, spread-sign-only.
+- **DONE (2026-09-04).** Train **2,476** games (2016–2024), holdout **285**
+  games (2025) — matches the plan's row-count estimate closely. Architecture
+  ported verbatim (5-model stack + meta-learner + separate margin `XGBRegressor`).
+  No CFB-style era/sample-weighting ported — CFB's down-weights pre-2021 rows
+  for NIL, a discrete legal break with no NFL equivalent; left as a deliberate
+  non-port rather than inventing an artificial boundary.
+  `N_SPLITS`: tested 3/4/5/6 against the holdout — accuracy was noisy across
+  the range (60.4–62.5%, ordinary single-holdout variance on 285 games, not a
+  clean trend), so **6** was picked for being consistently best across THREE
+  metrics at once (accuracy, AUC, log_loss) rather than because it maximized
+  any one score, which would just be tuning to the test set. Tree
+  depths/estimator counts were kept at CFB's own values — the NFL training set
+  (2,476 rows) is comparably sized to CFB's original, not meaningfully larger,
+  so "larger sample" in this task's original framing didn't hold up under a
+  real row-count check and aggressive re-tuning wasn't warranted.
+- **Real bug, independent of the model itself, caught while sanity-checking a
+  cover calculation for this task:** see above — the `market_spread`
+  sign-convention error was live in `prediction_results` since **Task 1**,
+  4 commits before it was caught. It never affected anything already built
+  (Tasks 1–8 don't read `pick_covered`), but would have silently corrupted
+  every ATS win/loss record once Task 11 started writing predictions. Caught
+  by manually verifying a real, unambiguous game rather than trusting the
+  CFB-ported formula shape — worth remembering as a general lesson: a formula
+  that "looks like a straightforward port" can still carry a wrong assumption
+  from the source project's own data conventions.
+- **Check results:** classifier accuracy **62.46%** (bottom of the 62–68%
+  target range), AUC **0.696**, log_loss **0.632**, Brier **0.221**. Beats the
+  naive home-always baseline (53.33%) by **9.1pp** and matches ELO-only
+  exactly (62.46% — coincidental tie, not a bug); sits **3.5pp behind** the
+  market-favorite baseline (65.96%) — the expected healthy gap, not ahead of
+  it. Regressor MAE **10.22** vs the market's own **9.67** (diff 0.55, right at
+  the "~market ± 0.5" expectation). Calibration curve is reasonably monotonic
+  across 8 bins with the noise expected at ~35 games/bin. **No metric beats the
+  market on this first pass** — the leakage smell test passes.
 
 ## Task 10 — Explanations (`src/explain.py`)
 

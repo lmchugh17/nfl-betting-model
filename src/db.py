@@ -270,7 +270,7 @@ CREATE TABLE IF NOT EXISTS predictions (
     -- spread (ATS) pick
     market_spread REAL,                 -- spread_line snapshot at prediction time
     pick_team TEXT,                     -- the ATS pick
-    edge REAL,                          -- predicted_margin - (-market_spread)
+    edge REAL,                          -- predicted_margin - market_spread (nflverse: + = home favored)
     confidence_tier TEXT,
     cover_probability REAL,
     kelly_fraction REAL,
@@ -316,13 +316,20 @@ SELECT
     CASE WHEN p.moneyline_pick IS NULL THEN NULL
          WHEN p.moneyline_pick = (CASE WHEN g.home_score > g.away_score THEN p.home_team ELSE p.away_team END)
          THEN 1 ELSE 0 END AS moneyline_pick_won,
+    -- nflverse's spread_line is POSITIVE when the HOME team is favored (opposite
+    -- of the common "-7 = favored by 7" sportsbook quoting convention CFB's
+    -- CFBD-sourced spread used) -- so "cover" is actual_margin compared against
+    -- market_spread DIRECTLY, not against its negation. Confirmed against a real
+    -- game: 2023 Wk17 BUF (home) favored by 15 (spread_line=15), won by only 6 --
+    -- a well-known "didn't cover" case (6 > 15 is false), which the formula below
+    -- gets right and a "+ market_spread" formula would have gotten backwards.
     CASE
         WHEN p.pick_team IS NULL OR p.market_spread IS NULL THEN NULL
-        WHEN (g.home_score - g.away_score) + p.market_spread = 0 THEN NULL  -- push
+        WHEN (g.home_score - g.away_score) - p.market_spread = 0 THEN NULL  -- push
         WHEN p.pick_team = p.home_team THEN
-            CASE WHEN (g.home_score - g.away_score) + p.market_spread > 0 THEN 1 ELSE 0 END
+            CASE WHEN (g.home_score - g.away_score) - p.market_spread > 0 THEN 1 ELSE 0 END
         WHEN p.pick_team = p.away_team THEN
-            CASE WHEN (g.home_score - g.away_score) + p.market_spread < 0 THEN 1 ELSE 0 END
+            CASE WHEN (g.home_score - g.away_score) - p.market_spread < 0 THEN 1 ELSE 0 END
     END AS pick_covered,
     ABS(p.predicted_margin - (g.home_score - g.away_score)) AS margin_error
 FROM predictions p
