@@ -246,14 +246,49 @@ reliable*, unlike CFB's noisy ESPN scrape).
 
 - Historical weather backfill is **not needed** — `games.csv` already carries
   `temp`/`wind`/`roof` for all past games. This task is upcoming-only.
-- Map `stadium_id` → lat/long (small static table, ~30 stadiums; build once).
-- Open-Meteo forecast endpoint (no key, ~16 days out), keyed to stadium lat/long +
-  `gametime`. `roof ∈ {closed, dome}` → skip, write `is_dome=1`, null metrics.
-- Write into `games.temp` / `games.wind` for upcoming rows so downstream features
-  read one column path whether historical or forecast.
-- **Check:** run in-season, a known cold-weather Week 15 outdoor game (GB, BUF,
-  CLE) gets a plausible sub-40°F forecast; a SoFi/Allegiant/dome game gets
-  `is_dome=1`.
+- **DONE (2026-09-04).** `src/stadiums.py` — static Python dict (not a DB table;
+  dropped the planned `stadiums` table), 39 venues, keyed by **venue name**, not
+  `stadium_id`. Two real reasons this had to be name-keyed: (1) an international
+  "home" game keeps its usual franchise `stadium_id` while only the venue *name*
+  changes — `2026_05_PHI_JAX` is `stadium_id='JAX00'` but
+  `stadium='Tottenham Hotspur Stadium'` (Jacksonville's London home-game deal);
+  keying on `stadium_id` would have put that game's forecast in Jacksonville.
+  (2) The same physical stadium gets tagged under different `stadium_id`s
+  depending which team is designated home (Tottenham Hotspur Stadium as both
+  `JAX00` and `LON02`) — name-keying unifies these automatically.
+  `NAME_ALIASES` folds sponsorship renames (Highmark/New Era, Huntington
+  Bank/FirstEnergy, etc.) to one canonical entry.
+- **Real data-quality finding:** nflverse's own `roof` column is unreliable for
+  several international venues — Melbourne Cricket Ground (a fully open cricket
+  ground, no roof) is tagged `'dome'`; Stade de France (open-air field) is
+  tagged `'dome'`; Allianz Arena/FC Bayern Munich Stadium (the same physical
+  building) is tagged `'outdoors'` in one row and `'dome'` in another. Added
+  `FORCE_ROOF_OVERRIDE` — for these three venues only, `stadiums.py`'s
+  hand-verified `roof_default` **overrides** `games.roof` instead of just
+  filling nulls. Domestic US stadiums keep trusting nflverse's own `roof` (it
+  checks out against reality there — AT&T/NRG/Lucas Oil retractable roofs
+  correctly vary game to game).
+  Also confirmed **`roof` is null on several upcoming rows even for known
+  domestic dome/retractable stadiums** (ATL/DAL/HOU/IND/PHO) until nflverse
+  finalizes the schedule closer to kickoff — `roof_default` fills these too, so
+  `is_dome` is always derivable regardless of source-data gaps.
+- `src/weather_client.py` (Open-Meteo forecast endpoint, ported near-verbatim,
+  historical/archive functions dropped since not needed), `scripts/pull_weather_forecast.py`
+  — writes straight into `games.temp`/`games.wind`/`weather_source` (no separate
+  weather table, unlike CFB's `game_weather`) for rows within the horizon and
+  still upcoming; a completed game gets nflverse's own recorded conditions on
+  the next `backfill_schedules.py` run, overwriting the forecast automatically.
+  `gametime` is confirmed **local to the stadium** (a 13:00 slate shows 13:00 for
+  both Eastern- and Central-zone home teams), so `kickoff_utc_iso()` localizes
+  via each stadium's IANA timezone before matching Open-Meteo's UTC hourly series.
+- **Verified (2026-09-04, live run):** 31 upcoming games fall within the 16-day
+  horizon; 7 had `is_dome` set via fallback/override (6 null-roof domestic +
+  Melbourne); 11 outdoor games got a forecast (temp 52–99°F, wind 2–13 mph — all
+  plausible for mid-September); Melbourne (season-opener, 2026-09-10, spring
+  there) correctly resolved to `is_dome=0` with a 52.1°F forecast, not the
+  dome nflverse's own data implies. The literal "known cold-weather Week 15"
+  check isn't reachable at build time (3+ months outside the forecast horizon)
+  — deferred to an in-season check once the weekly pull is live.
 
 ## Task 6 — Live odds pull (`scripts/pull_odds.py`, `src/odds_client.py`)
 

@@ -232,17 +232,10 @@ CREATE TABLE IF NOT EXISTS polymarket_odds (
     away_prob REAL
 );
 
--- Static stadium reference: lat/long + timezone for the Open-Meteo forecast pull
--- (Task 5) and the cross-country-travel / time-zone situational feature (Task 8).
--- ~30 rows, populated once.
-CREATE TABLE IF NOT EXISTS stadiums (
-    stadium_id TEXT PRIMARY KEY,
-    name TEXT,
-    latitude REAL,
-    longitude REAL,
-    timezone TEXT,
-    roof_default TEXT
-);
+-- No stadiums table: lat/long/timezone/roof_default live in src/stadiums.py as a
+-- static Python dict keyed by venue NAME (not nflverse's stadium_id) -- see that
+-- module's docstring for why (an international "home" game keeps its usual
+-- franchise stadium_id but the venue name changes, e.g. 2026 Wk5 JAX@Tottenham).
 
 -- Indexes for the availability lookups (src/availability.py hits these per
 -- team-week when building features) and the EPA rolling joins.
@@ -379,6 +372,7 @@ def _drop_stale_tables(conn: sqlite3.Connection) -> None:
 
     rules = {
         "depth_charts": lambda c: bool(c),                       # table removed from schema
+        "stadiums": lambda c: bool(c),                           # moved to src/stadiums.py
         "injuries": lambda c: c and "report_primary_injury" not in c,
         "snap_counts": lambda c: c and "st_snaps" in c,          # rebuilt without st_* columns
     }
