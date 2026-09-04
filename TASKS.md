@@ -97,11 +97,20 @@ trusting cron (CFB lesson: a failed push is silent and lossy).
   snapshots), just `sport='americanfootball_nfl'`.
 - `predictions` / `prediction_results`: copy CFB **verbatim** including the SHAP
   `highlights_json` / `tldr` / `bullets_json` / `model_breakdown_json` /
-  `cover_probability` / `kelly_fraction` columns and the always-live SQL view. Add
+  `cover_probability` / `kelly_fraction` columns and the always-live view. Add
   moneyline-pick vs spread-pick as **two separate tracked fields** (CFB added this
-  later — port it in from the start).
-- **Check:** `python -m src.db` creates both files; `PRAGMA table_info` matches
-  spec; re-running is a no-op.
+  later — port it in from the start). Drop CFB's `low_sample_team*` columns (no
+  NFL equivalent — memory note). Keep `min_current_season_games`.
+- **DONE (2026-09-03).** `src/db.py`: `get_stats_connection()` /
+  `get_pred_connection()` / `init_all()`. **`prediction_results` is a per-connection
+  `CREATE TEMP VIEW`, not a persistent view** — SQLite forbids a persistent view
+  from referencing an ATTACHed DB, and `nfl_predictions.db` must join
+  `stats.games` across the split. `get_pred_connection()` attaches `nfl_stats.db`
+  as `stats` and recreates the temp view every connection (also kills the CFB
+  stale-view bug for free). Verified: both files init idempotently (52-col
+  `games`, 9 stats tables), cross-DB view returns correct
+  `actual_margin`/`moneyline_pick_won`/`pick_covered`/`margin_error`, no
+  persistent view leaks into the pred DB file.
 
 ## Task 2 — Schedules → `teams` + `games` backfill (`scripts/backfill_schedules.py`, `src/nflverse_client.py`, `src/team_names.py`)
 

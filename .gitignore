@@ -16,6 +16,10 @@ data/*.csv
 models/
 .DS_Store
 
+# SQLite WAL sidecar files -- transient, never commit
+data/*.db-wal
+data/*.db-shm
+
 # Note: data/nfl_stats.db and data/nfl_predictions.db are deliberately NOT
 # ignored. The two-DB split means only GitHub Actions ever writes nfl_stats.db
 # and only the scheduled Claude routine writes nfl_predictions.db, so committing
