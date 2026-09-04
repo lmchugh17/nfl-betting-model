@@ -1,0 +1,433 @@
+# NFL Betting Model — Task List
+
+Companion to [MAP.md](MAP.md). This is the build order: each task is self-contained,
+has an acceptance check, and names the CFB file it ports from. Follow
+[[feedback_incremental_changes]] — build one piece, verify it against known real
+data, then move to the next.
+
+**Source of truth for data:** [nflverse](https://nflreadr.nflverse.com/) via
+**`nflreadpy`** (the `nfl_data_py` package is deprecated as of 2025 — nflverse
+tells new projects to use `nflreadpy`). `nflreadpy` is Polars-based and needs
+Python ≥ 3.10; call `.to_pandas()` at every load boundary so the rest of the code
+stays pandas like CFB.
+
+**Verified facts baked into this plan (checked 2026-09-03):**
+- `games.csv` (Lee Sharpe / `load_schedules()`) covers **1999 → present, plus the
+  full upcoming schedule** (2026 Week 18 already listed with null scores/lines) —
+  so it is both the training table and the upcoming-slate table.
+- Exact `games.csv` columns: `game_id, season, game_type, week, gameday, weekday,
+  gametime, away_team, away_score, home_team, home_score, location, result, total,
+  overtime, old_game_id, gsis, nfl_detail_id, pfr, pff, espn, ftn, away_rest,
+  home_rest, away_moneyline, home_moneyline, spread_line, away_spread_odds,
+  home_spread_odds, total_line, under_odds, over_odds, div_game, roof, surface,
+  temp, wind, away_qb_id, home_qb_id, away_qb_name, home_qb_name, away_coach,
+  home_coach, referee, stadium_id, stadium`.
+- Betting odds coverage: `spread_line` / `total_line` present from 1999;
+  moneylines + spread/total juice **~complete from 2010 on** (2669/2670 rows in
+  the 2010s), so the **2016+ window has full odds**. `temp`/`wind` populated only
+  for `roof ∈ {outdoors, open}`.
+- nflverse start years: pbp 1999, injuries 2009, depth_charts 2001, snap_counts
+  2012, participation 2016, nextgen_stats 2016, officials 2015, rosters_weekly
+  2002, ftn_charting 2022.
+- `game_type` values: `REG`, `WC`, `DIV`, `CON`, `SB` (no preseason in
+  `games.csv` — preseason must be pulled separately if wanted; see Task 4).
+- `week`: 1–18 regular season (1–17 before 2021), then 19=WC, 20=DIV, 21=CON,
+  22=SB. 2021+ = 18 weeks / 17 games; 1999–2020 = 17 weeks / 16 games.
+
+**Train/holdout split (updated — a year passed since MAP was written):**
+train **2016–2024**, holdout **2025** (full season), **2026 as the live rolling
+test**. Mirrors CFB's full-season-holdout approach.
+
+**GitHub account / hosting:** new repo `github.com/lmchugh17/nfl-betting-model`,
+Pages from `/docs` on `master`. `gh` CLI not set up on this Mac — Task 0 handles
+that. Verify the Claude GitHub App can push with a manual routine run before
+trusting cron (CFB lesson: a failed push is silent and lossy).
+
+---
+
+## Task 0 — Repo + tooling prerequisites
+
+**Goal:** empty scaffolded repo, local Python env, `gh` working.
+
+- `~/Documents/Luke/Claude/NFL Betting Model/` → `git init`, `.venv` (Python
+  3.12), `.gitignore` (`.venv/`, `.env`, `data/*.db`, `data/*.parquet`,
+  `__pycache__/`, `.DS_Store`, `models/*.pkl`; **negate** the archive CSVs:
+  `!data/live_odds_archive.csv`).
+- `requirements.txt`: `nflreadpy`, `pandas`, `numpy`, `scikit-learn`, `xgboost`,
+  `lightgbm`, `shap`, `requests`, `python-dotenv`. (`brew install libomp` first —
+  xgboost needs it on this Mac, per the CFB build.)
+- `.env.example`: `ODDS_API_KEY=` (that is the only secret — nflverse + Open-Meteo
+  need no key). Real `.env` reuses the CFB Odds API key.
+- Install/auth `gh` CLI (`brew install gh` → `gh auth login` as `lmchugh17`).
+- Create the GitHub repo (private to start), push the empty scaffold.
+- **Check:** `gh repo view lmchugh17/nfl-betting-model` works; `python -c "import
+  nflreadpy, xgboost, lightgbm, shap"` clean.
+
+## Task 1 — DB schema (`src/db.py`)
+
+**Ports from:** CFB `src/db.py`.
+
+**Goal:** two SQLite files, schema created idempotently.
+
+- **`data/nfl_stats.db`** — written only by GitHub Actions. Tables: `teams`,
+  `games`, `team_game_epa`, `injuries`, `depth_charts`, `snap_counts`,
+  `live_odds`, `game_features`.
+- **`data/nfl_predictions.db`** — written only by the Claude routine. Tables:
+  `predictions`; view `prediction_results`. This DB `ATTACH`es `nfl_stats.db`
+  read-only for the join, or the view is built in a thin wrapper that opens both.
+- `teams`: 32 rows. PK `team` (abbr, e.g. `KC`). Cols: `full_name`, `conference`
+  (`AFC`/`NFC`), `division` (`AFC West` …), `franchise_id` (folds `OAK`+`LV`,
+  `SD`+`LAC`, `STL`+`LAR`), `espn_id` (for optional injury cross-check).
+- `games`: near 1:1 with `games.csv` (columns listed above) + derived
+  `home_margin`, `home_win`, `season_type` normalised to `PRE`/`REG`/`POST`. This
+  table **absorbs** CFB's separate `lines` and `game_weather` tables.
+- `team_game_epa`: PK `(game_id, team)`. Cols (all "for this team in this game"):
+  `off_epa_play`, `def_epa_play`, `off_pass_epa`, `off_rush_epa`,
+  `off_early_down_epa`, `off_success_rate`, `def_success_rate`,
+  `explosive_play_rate`, `def_explosive_rate`, `rz_td_pct`, `pressure_rate_def`,
+  `plays`, `sec_per_play` (pace), `pass_rate`, `neutral_pass_rate`.
+- `injuries`: PK `(season, week, team, gsis_id)`. Cols `player_name`, `position`,
+  `report_status`, `practice_status`, `date_modified`, `scraped_at`. Same
+  append-safe + prune design as CFB (retention plan **from day one**, not bolted
+  on — architecture lesson).
+- `depth_charts`: PK `(season, week, team, position, depth_team)` → `gsis_id`,
+  `player_name`. `snap_counts`: PK `(game_id, pfr_player_id)` → `offense_snaps`,
+  `offense_pct`, `defense_pct`.
+- `live_odds`: copy CFB verbatim (PK includes `scraped_at` → append-only
+  snapshots), just `sport='americanfootball_nfl'`.
+- `predictions` / `prediction_results`: copy CFB **verbatim** including the SHAP
+  `highlights_json` / `tldr` / `bullets_json` / `model_breakdown_json` /
+  `cover_probability` / `kelly_fraction` columns and the always-live SQL view. Add
+  moneyline-pick vs spread-pick as **two separate tracked fields** (CFB added this
+  later — port it in from the start).
+- **Check:** `python -m src.db` creates both files; `PRAGMA table_info` matches
+  spec; re-running is a no-op.
+
+## Task 2 — Schedules → `teams` + `games` backfill (`scripts/backfill_schedules.py`, `src/nflverse_client.py`, `src/team_names.py`)
+
+**Ports from:** CFB `scripts/backfill.py`, `src/cfbd_client.py`, `src/team_names.py`.
+
+**Goal:** `games` fully populated 1999–2026 (all `game_type`s), `teams` populated
+with conference/division/franchise mapping.
+
+- `src/nflverse_client.py`: thin wrappers — `schedules()`, `pbp(years)`,
+  `injuries(years)`, `depth_charts(years)`, `snap_counts(years)`,
+  `rosters_weekly(years)` — each returns a pandas DataFrame (`.to_pandas()` at the
+  boundary). Local parquet cache under `data/cache/` so re-runs during dev don't
+  re-download.
+- `src/team_names.py`: generalise CFB's `build_school_only_lookup()` to any
+  plain-name source. Needed because The Odds API returns full names
+  ("Kansas City Chiefs"), nflverse uses abbreviations (`KC`), ESPN differs again.
+  Build `ODDS_API_NAME → team` and `ESPN_NAME → team` maps. Relocation aliases:
+  `{OAK, LV} → franchise LV`, `{SD, LAC} → franchise LAC`, `{STL, LAR} → franchise
+  LAR`; also `LA`→`LAR` (nflverse historical quirk), `WAS`/`WSH`.
+- `teams` seed: hardcode the 32-row table (abbr, name, conf, div, franchise_id) —
+  it changes maybe once a decade; don't scrape it. `espn_id` via a one-off manual
+  map.
+- Backfill: `load_schedules()` → filter to `season >= 1999` → insert every row
+  into `games` (`INSERT OR REPLACE` on `game_id`). Keep completed **and** future
+  rows (future rows have null scores — that is the upcoming slate for prediction).
+- Normalise `season_type`: `REG`→`REG`, `{WC,DIV,CON,SB}`→`POST`. (Preseason is
+  not in this table; Task 4 handles preseason separately for injuries only.)
+- **Check:** row counts by season match nflverse (285/season for 2021–2024, 267
+  for 2016–2020); spot-check 3 known games (SB LVIII: KC 25 SF 22 OT; a 2016
+  `SD` home game exists and maps to franchise `LAC`; Week 18 2026 rows present
+  with null scores). `spread_line`/`total_line` non-null for ≥ 99% of 2016+
+  completed games.
+
+## Task 3 — Play-by-play → `team_game_epa` aggregation (`scripts/backfill_epa.py`, `src/epa_features.py`)
+
+**Ports from:** nothing — new capability (CFB had only box scores). Aggregation
+pattern mirrors CFB `src/box_score_features.py`.
+
+**Goal:** `team_game_epa` populated for every 2016+ regular + postseason game.
+**Raw pbp is never stored.**
+
+- `src/epa_features.py`: given a pbp DataFrame for a set of games, return one row
+  per (game, team) with the `team_game_epa` columns. Filter to `play_type ∈
+  {pass, run}` for EPA/play; use `qb_epa` for the pass split; `success = epa > 0`;
+  explosive = `yards_gained >= 20` (pass) / `>= 12` (rush) — **but tune these
+  thresholds against the real distribution, don't assume** (weather-threshold
+  lesson). "early down" = `down ∈ {1,2}`. Neutral pass rate = `wp` between .20 and
+  .80 and `half_seconds_remaining > 120`.
+- `scripts/backfill_epa.py`: loop seasons 2016→2026, `load_pbp([year])`, aggregate,
+  write, **discard the raw frame**. ~2–3 GB transient per season; fine on the
+  Actions runner, never committed.
+- **Check:** total rows ≈ (games × 2); 2023 KC offense EPA/play ranks top-5
+  (Mahomes); 2023 team defensive EPA leaders look sane (49ers, Ravens, Browns,
+  Jets top the list). Correlate `off_epa_play - opp def_epa_play` against actual
+  margin — expect ~0.5–0.6, weaker than `spread_line`'s own correlation (healthy;
+  beating the market on a first pass = leakage bug).
+
+## Task 4 — Injuries + depth charts + snap counts (`scripts/backfill_availability.py`, `scripts/scrape_injuries.py`, `src/availability.py`)
+
+**Ports from:** CFB `scripts/scrape_injuries.py` (but NFL data is *official and
+reliable*, unlike CFB's noisy ESPN scrape).
+
+**Goal:** `injuries`, `depth_charts`, `snap_counts` backfilled; a function that
+returns each team's projected-starter availability for a given (season, week).
+
+- Backfill `load_injuries([2016..2026])` → `injuries`; `load_depth_charts` →
+  `depth_charts`; `load_snap_counts` → `snap_counts`.
+- `src/availability.py`:
+  - `starters_for(season, week, team)` — from `depth_charts` (`depth_team == 1`),
+    fallback to prior week if the current week isn't posted yet.
+  - `snap_share(gsis_id, season, up_to_week)` — trailing offensive/defensive snap
+    % from `snap_counts`, to weight injury burden.
+  - `injury_burden(season, week, team)` — count of `report_status == 'Out'` (and a
+    lighter weight for `Doubtful`) among starters, weighted by each player's
+    trailing snap share. Position multipliers (QB >> everything, then OL/edge/CB).
+  - `qb_availability(season, week, team)` — is `games.{home,away}_qb_id` for this
+    game the team's usual Week-1 / most-snaps starter? Returns a flag +
+    (better) the projected starter's trailing `qb_epa`/dropback vs a
+    replacement-level constant.
+- **Preseason injuries:** `load_injuries()` includes `game_type == 'PRE'` rows —
+  keep them in the `injuries` table so a preseason ACL tear is visible in Week 1,
+  **but** they never touch ratings/EPA/training (those are `REG`+`POST` only).
+- `scripts/scrape_injuries.py` — live in-season refresh via `load_injuries([2026])`
+  (nflverse updates it through the week); optional ESPN cross-check only if
+  nflverse lag becomes a problem.
+- **Check:** 2023 Week 1, `NYJ` shows Aaron Rodgers active then `report_status`
+  reflects the Week 2 Achilles; `injury_burden` for a team resting starters in a
+  Week 18 dead-rubber spikes; `qb_availability` flag fires for known backup starts
+  (e.g. 2022 SF Week 15 Brock Purdy after Garoppolo).
+
+## Task 5 — Weather forecast for upcoming games (`scripts/pull_weather_forecast.py`, `src/weather_client.py`)
+
+**Ports from:** CFB `scripts/pull_weather_forecast.py`, `src/weather_client.py` —
+**near-verbatim**.
+
+**Goal:** forecast `temp`/`wind` for upcoming **outdoor** games (nflverse
+`games.csv` only fills `temp`/`wind` *after* kickoff).
+
+- Historical weather backfill is **not needed** — `games.csv` already carries
+  `temp`/`wind`/`roof` for all past games. This task is upcoming-only.
+- Map `stadium_id` → lat/long (small static table, ~30 stadiums; build once).
+- Open-Meteo forecast endpoint (no key, ~16 days out), keyed to stadium lat/long +
+  `gametime`. `roof ∈ {closed, dome}` → skip, write `is_dome=1`, null metrics.
+- Write into `games.temp` / `games.wind` for upcoming rows so downstream features
+  read one column path whether historical or forecast.
+- **Check:** run in-season, a known cold-weather Week 15 outdoor game (GB, BUF,
+  CLE) gets a plausible sub-40°F forecast; a SoFi/Allegiant/dome game gets
+  `is_dome=1`.
+
+## Task 6 — Live odds pull (`scripts/pull_odds.py`, `src/odds_client.py`)
+
+**Ports from:** CFB `scripts/pull_odds.py`, `src/odds_client.py` — near-verbatim,
+just the sport key.
+
+**Goal:** intra-week line-movement snapshots in `live_odds`.
+
+- The Odds API, `sport=americanfootball_nfl`, markets `spreads,totals,h2h`,
+  region `us`, **reuse the existing CFB account key**. 3 credits/pull.
+- NFL slate is ~14–16 games/week (vs CFB ~60) → pulls are cheap. Cadence: Wed /
+  Fri / Sat / Sun-AM (~12 credits/week, ~220/season — well within free tier,
+  leaves headroom for CFB on the same key).
+- Append-only into `live_odds` (PK includes `scraped_at`), team-name match via
+  `src/team_names.py` Odds-API map.
+- `src/spread_pricing.py` (port from CFB): real per-book median price for the
+  pick side, used in the Kelly calc instead of assumed −110. For the NFL we also
+  have closing juice in `games.{away,home}_spread_odds` for backtests.
+- **Check:** one pull writes ~14–16 games × N books; team names 100% matched;
+  a second pull hours later shows at least one line that moved.
+
+## Task 7 — `scripts/prune_live_data.py`
+
+**Ports from:** CFB `scripts/prune_live_data.py` — verbatim.
+
+- Retention windows: `live_odds` 3 days past `commence_time`, `injuries` 21 days.
+- Archive pruned rows to append-only `data/live_odds_archive.csv` /
+  `data/injuries_archive.csv` (git-tracked via `.gitignore` negation — CFB caught
+  this: Actions runners have no persistent disk, un-negated archives vanish).
+- **Check:** run twice — second run is a no-op; archive CSVs grow, DB shrinks.
+
+## Task 8 — Feature engineering (`scripts/build_features.py` + `src/` modules)
+
+**Ports from:** CFB `scripts/build_features.py`, `src/elo.py`,
+`src/opponent_adjustment.py`, `src/ats_and_situational.py`,
+`src/weather_features.py`.
+
+**Goal:** `game_features` table, one row per completed 2016+ `REG`/`POST` game.
+
+- **`src/elo.py`** — port the formula, recalibrate (all need backtesting;
+  starting points): `K_FACTOR` 40 → **20**; `SEASON_REGRESSION_FACTOR` 0.6 →
+  **0.80** (low NFL roster turnover); `HOME_ADVANTAGE_ELO` 65 → **40** (~1.7 pts,
+  and declining) with a **2020 no-fans downweight/flag**. Ratings key on
+  `franchise_id`, not `team`.
+- **`src/opponent_adjustment.py`** — port iterative SRS as-is. Less load-bearing
+  (17-game formula-balanced schedule) but cheap; keep it.
+- **`src/epa_features.py`** rolling form — trailing-N-game EPA aggregates per team
+  (off/def EPA/play, pass vs rush, early-down, success rate, explosive rate),
+  opponent-adjusted by the same SRS-style pass used for CFB box scores. Window:
+  start at **8 games**, tune (17-game season affords a longer window than CFB's
+  4). Season-boundary carryover regressed like ELO.
+- **`src/ats_and_situational.py`** — port directly. NFL bonus: **divisional teams
+  play twice/season**, so same-season H2H (Week 3 → Week 15 rematch) is strong
+  signal — H2H features matter more than in CFB. Situational flags to add:
+  short week (`rest <= 4`, Thursday), off bye (`rest >= 13`), **opponent** off
+  bye, prime-time (from `gametime`/`weekday`), `div_game`, ≥ 2 time-zone travel
+  (stadium long/long delta), international game (`location`/`stadium_id`).
+- **`src/weather_features.py`** — port as-is (already sport-agnostic).
+  **Re-tune adverse thresholds against NFL 2016–2025 history** — do not reuse
+  CFB's 40°F/20mph/0.1in. Pull the real distribution, pick thresholds leaving
+  enough same-condition history per franchise to be learnable (CFB weather
+  lesson).
+- **QB availability** + **injury burden** features from `src/availability.py`
+  (Task 4).
+- **New-HC / new-OC** flag from year-over-year `games.{home,away}_coach`.
+- `scripts/build_features.py` assembles all of the above into `game_features`
+  (mirrors CFB's assembler). Exclude `spread_line`/`total_line` from feature
+  columns — post-hoc edge only.
+- **Check:** every feature correlates with actual margin in the correct sign;
+  `spread_line` benchmark strongest (~0.65–0.72), engineered features
+  appropriately weaker (~0.4–0.55); no feature matches/beats the market
+  (= leakage bug). Season-length logic handles 16 vs 17 game seasons.
+
+## Task 9 — Model (`src/model.py`, `scripts/train_model.py`)
+
+**Ports from:** CFB `src/model.py`, `scripts/train_model.py` — architecture
+**verbatim**.
+
+- Same 5-model stack (LogReg / RF / XGB / LightGBM / ExtraTrees → logistic
+  meta-learner on `TimeSeriesSplit` OOF) → P(home win); separate `XGBRegressor` →
+  predicted margin. `spread_line` excluded from training, used only post-hoc for
+  `edge = predicted_margin - (-spread_line)`.
+- Retune: `N_SPLITS` (more seasons available than CFB), tree depths for the
+  larger, cleaner NFL sample.
+- Split: train **2016–2024** (~2,400 games), holdout **2025** (285 games) full
+  season, **2026** live rolling. Save bundle to `models/nfl_model.pkl`
+  (gitignored).
+- **Check (reality test vs market):** classifier accuracy should land in the
+  **62–68%** range (NFL is closer to a coin flip than CFB's 76%) and **just
+  behind** market-favourite accuracy; regressor MAE **just above** the market's
+  (~ market ± 0.5). Landing *ahead* of the market on a first pass = leakage bug,
+  not success. Compare to baselines: home-team-always (~57% modern NFL),
+  ELO-only, spread-sign-only.
+
+## Task 10 — Explanations (`src/explain.py`)
+
+**Ports from:** CFB `src/explain.py` — **verbatim** except `_describe_feature`.
+
+- `get_shap_contributions` (TreeSHAP on the margin regressor) unchanged.
+- `_describe_feature` — add NFL feature-name cases: EPA form, QB availability
+  ("Projected starter Jake Browning has a −0.05 EPA/dropback over his last 3
+  starts vs the Bengals' usual +0.12"), injury burden, short week, off bye,
+  divisional rematch, travel/time-zone.
+- Prose (TL;DR + bullets) is **not** code — the scheduled Claude routine writes it
+  natively from these facts each week (same as CFB).
+- **Check:** run on a known real upset (e.g. 2023 Week 5 `Giants` were pick vs
+  actual, or a QB-injury game) — highlights surface the QB/injury factor when it
+  actually drove the prediction, and stay silent on it when it didn't.
+
+## Task 11 — Live inference + predictions tracking (`scripts/predict_games.py`, `src/live_state.py`, `scripts/reconcile_predictions.py`)
+
+**Ports from:** CFB `scripts/predict_games.py`, `src/live_state.py`,
+`scripts/reconcile_predictions.py` — near-verbatim.
+
+- `src/live_state.py` — current-state (not "entering game X") versions of every
+  feature function: current ELO/SRS/rolling-EPA/ATS/availability. Watch for the
+  two CFB bugs: (1) H2H must return even when the current game has no score yet;
+  (2) rest-days / "last game" must scope to the current season.
+- `scripts/predict_games.py` — upcoming slate from `games` (null-score rows) →
+  live-state features → bundle → `edge` → cover prob (real juice from
+  `spread_pricing` / `games.*_spread_odds`) → Kelly (25% fractional, **$500**
+  starting paper bankroll unless changed) → SHAP highlights → `predictions`
+  upsert. `--backtest` mode: exclude a target `game_id` from "completed" state to
+  validate against known outcomes.
+- Fix the CFB away-pick sign bug from the start: cover prob for an away pick is
+  `1 - P(home covers)`.
+- `scripts/reconcile_predictions.py` — W-L / ATS / avg margin error from the
+  `prediction_results` view; flags when ≥ 40 completed 2026 games have
+  accumulated as a retrain-review trigger.
+- **Check:** backtest against the first 2–3 completed 2026 games, log hits **and**
+  misses honestly; `predictions` round-trips; reconcile prints a sane record.
+
+## Task 12 — Static site (`scripts/build_site.py`)
+
+**Ports from:** CFB `scripts/build_site.py` — port the whole page, rebrand.
+
+- Single self-contained dark HTML/CSS page → `docs/index.html`, no build step,
+  GitHub Pages `/docs`. Sections: summary stat tiles, upcoming picks (TL;DR +
+  bullets), recent results shown honestly (losses visible), per-model breakdown
+  (collapsible), Kelly wager vs paper bankroll, confidence-tier badges, Weekly
+  Performance table + Weekly Trends bar chart.
+- Port the CFB CSS fixes: footnote-marker convention (`*`/`†`/`‡`/`§`/`¶`, scope
+  `.footnote` CSS globally from the first one), marker positioning as a percentage
+  *inside* `.bar-track` not a padded parent, value-label-inside-the-bar-fill.
+- Footer: methodology, confidence-tier definitions, paper-bankroll/Kelly
+  assumptions, "personal research, not financial advice".
+- **Check:** browser-preview renders correctly including a displayed loss;
+  responsive; no horizontal body scroll.
+
+## Task 13 — Passive accuracy check: Polymarket (`src/polymarket_client.py`, `scripts/pull_polymarket.py`)
+
+**Ports from:** CFB `src/polymarket_client.py`, `scripts/pull_polymarket.py`.
+
+- Pull Polymarket's pre-game NFL win probability **once** per game, grade it by
+  Brier score after settlement. **Never a live pick input** — a passive
+  third-party benchmark shown alongside the model's own calibration.
+- Needs Polymarket's NFL tag/series slug — confirm via `curl` against the live
+  Gamma API, don't trust doc summaries (CFB discipline).
+- **Check:** a settled 2026 game shows a Polymarket pre-game prob + a computed
+  Brier score.
+
+## Task 14 — GitHub Actions data pull (`.github/workflows/weekly_data_pull.yml`)
+
+**Ports from:** CFB workflow — port the shape, fewer steps.
+
+Steps: (1) nflverse refresh — schedules, pbp→`team_game_epa`, injuries, depth
+charts, snap counts; (2) The Odds API pull → `live_odds`; (3) Open-Meteo forecast
+for upcoming outdoor games; (4) `prune_live_data.py`; (5) rebuild `game_features`;
+(6) commit + push **`data/nfl_stats.db`** + archive CSVs only.
+
+- **Cadence:** cron **Wed / Fri / Sat / Sun 13:00 UTC** (`0 13 * * 3,5,6,0`).
+  Wed = slate preview + opening lines; Fri = final injury designations; Sat/Sun =
+  line movement. Note UTC vs US-Eastern DST drift in a comment (CFB did this).
+- Only Actions ever writes `nfl_stats.db` → no Git LFS needed, no 403 problem.
+- **Check:** `workflow_dispatch` manual run green end-to-end; commit appears;
+  DB size stays < 20 MB after a full run.
+
+## Task 15 — Scheduled Claude Code routine
+
+**Ports from:** CFB task 11 routine.
+
+- Runs ~1h after the **Wed** pull (write week's picks + explanations, rebuild
+  site, commit `docs/` + `nfl_predictions.db`) and again after the **Fri** pull
+  (refresh for final injury news / line movement).
+- Explanations written natively from SHAP facts — no separate LLM API, no
+  `ANTHROPIC_API_KEY`.
+- **Verify GitHub App push access with a manual `RemoteTrigger run` BEFORE
+  trusting the cron** — CFB lost a full pipeline run to a silent 403. Confirm the
+  commit lands on `master` remote.
+- **Check:** manual trigger produces a commit with real picks + prose on the
+  live site; a second manual trigger cleanly updates.
+
+## Task 16 — First live week + calibration review
+
+- Run the full pipeline for a real 2026 week end-to-end.
+- After ~40 completed 2026 games: run `reconcile_predictions.py`, review
+  classifier calibration vs Polymarket, decide whether ELO/window constants need
+  the first real retune (they were all starting-point guesses).
+- Update [[project_nfl_betting_model]] memory with actual holdout numbers and any
+  constant changes.
+
+---
+
+## Dependency order
+
+```
+0 → 1 → 2 → ┬→ 3 ─────────┐
+            ├→ 4 ──────────┤
+            ├→ 5 ──────────┤
+            └→ 6 → 7 ──────┤
+                           ▼
+                     8 → 9 → 10 → 11 → 12 → 13
+                                            │
+                                    14 ─────┤
+                                    15 ─────┘
+                                       │
+                                      16
+```
+
+Tasks 3/4/5/6 are independent once `games` exists — do them in any order or in
+parallel. 8 needs 2+3+4+5. 14/15 need everything through 13.

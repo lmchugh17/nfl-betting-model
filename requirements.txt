@@ -1,0 +1,10 @@
+nflreadpy
+pandas
+pyarrow
+numpy
+scikit-learn
+xgboost
+lightgbm
+shap
+requests
+python-dotenv

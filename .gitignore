@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/cache/
+data/*.parquet
+data/raw/
+data/*.csv
+# Exceptions: append-only archives of pruned live_odds/injuries rows
+# (see scripts/prune_live_data.py) -- committed deliberately. GitHub Actions
+# runners have no persistent disk between runs, so an ignored file here would be
+# silently lost after every workflow run. Text appends also compress far better
+# in git history than the binary DB rewrites they relieve.
+!data/live_odds_archive.csv
+!data/injuries_archive.csv
+models/
+.DS_Store
+
+# Note: data/nfl_stats.db and data/nfl_predictions.db are deliberately NOT
+# ignored. The two-DB split means only GitHub Actions ever writes nfl_stats.db
+# and only the scheduled Claude routine writes nfl_predictions.db, so committing
+# them as blobs avoids the Git LFS 403 the CFB build hit. Transient snapshot
+# growth is handled by scripts/prune_live_data.py, not by ignoring the files.
