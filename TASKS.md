@@ -169,11 +169,23 @@ pattern mirrors CFB `src/box_score_features.py`.
 - `scripts/backfill_epa.py`: loop seasons 2016→2026, `load_pbp([year])`, aggregate,
   write, **discard the raw frame**. ~2–3 GB transient per season; fine on the
   Actions runner, never committed.
-- **Check:** total rows ≈ (games × 2); 2023 KC offense EPA/play ranks top-5
-  (Mahomes); 2023 team defensive EPA leaders look sane (49ers, Ravens, Browns,
-  Jets top the list). Correlate `off_epa_play - opp def_epa_play` against actual
-  margin — expect ~0.5–0.6, weaker than `spread_line`'s own correlation (healthy;
-  beating the market on a first pass = leakage bug).
+- **DONE (2026-09-03).** `src/epa_features.py` (`aggregate_team_game_epa()`,
+  standard `(pass|rush) & ~kneel & ~spike` denominator, explosive = pass ≥ 15 /
+  rush ≥ 10 yds from the real 2021–23 distribution, neutral script = wp∈[.2,.8] &
+  half > 2:00), `scripts/backfill_epa.py` (one season at a time, ~6 min total for
+  2016–25, raw pbp discarded; clamps `end` to nflverse's `get_current_season()`
+  since `load_pbp` lags `load_schedules` — 2026 pbp isn't published yet, script
+  skips it cleanly).
+  **`team_game_epa`: 5,522 rows, 2016–2025** (534/season pre-2021, 570 after).
+  Checks (note: same-game EPA vs same-game margin is ~1.0 *by construction* —
+  it's a box-score-style raw table, not a feature yet, so the real test uses
+  *trailing* EPA): corr(trailing net-EPA edge, home_margin) = **0.311**,
+  appropriately below the market's spread↔margin corr of **0.443** (healthy —
+  a raw feature matching the market would mean leakage); corr(season net-EPA,
+  season wins) = **0.856**; 2023 offense leaders SF/DAL/BUF/GB/DET and defenses
+  CLE/BAL/NYJ all match reality. Nulls: `rz_td_pct` (160, games with 0 RZ trips),
+  `neutral_pass_rate` (290, blowouts with no neutral-script snaps) — left NULL
+  for Task 8 to handle.
 
 ## Task 4 — Injuries + depth charts + snap counts (`scripts/backfill_availability.py`, `scripts/scrape_injuries.py`, `src/availability.py`)
 
