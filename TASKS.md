@@ -329,13 +329,30 @@ just the sport key.
 
 ## Task 7 — `scripts/prune_live_data.py`
 
-**Ports from:** CFB `scripts/prune_live_data.py` — verbatim.
+**Ports from:** CFB `scripts/prune_live_data.py` — mostly verbatim, but
+`injuries` pruning was dropped (see below).
 
-- Retention windows: `live_odds` 3 days past `commence_time`, `injuries` 21 days.
-- Archive pruned rows to append-only `data/live_odds_archive.csv` /
-  `data/injuries_archive.csv` (git-tracked via `.gitignore` negation — CFB caught
-  this: Actions runners have no persistent disk, un-negated archives vanish).
-- **Check:** run twice — second run is a no-op; archive CSVs grow, DB shrinks.
+**DONE (2026-09-04).**
+
+- **`injuries` needs no pruning in this build, unlike CFB.** Task 4 made
+  `injuries`' primary key `(season, week, team, gsis_id)` — no `scraped_at` —
+  because nflverse already serves "latest official status per player-week," so
+  every re-pull upserts in place rather than appending a new snapshot. There is
+  nothing to grow, archive, or prune. `injuries_archive.csv` was removed from
+  `.gitignore`'s negation list along with the CFB-ported `INJURIES_RETENTION_DAYS`
+  constant — genuinely dead code for this build, not a port-then-trim.
+- `live_odds` is the only append-only table (PK includes `scraped_at`), pruned
+  exactly like CFB: `LIVE_ODDS_RETENTION_DAYS = 3` past `commence_time`, archived
+  to `data/live_odds_archive.csv` (git-tracked via the `.gitignore` negation)
+  before deletion, `VACUUM`ed after.
+- **Verified:** tested the archive+delete logic on a scratch copy of the DB
+  (never touched the real project files) — inserted 5 synthetic rows with a
+  `commence_time` in the past, first run archived+pruned exactly those 5 (CSV
+  header + 5 rows written, DB row count dropped correctly), second run pruned 0
+  (no-op). Then ran the real script against the actual project DB: correctly
+  pruned 0 rows both times, since every stored game is still 6+ days out (all
+  from Task 6's live pull) — proves the script doesn't false-positive on
+  legitimately-current data.
 
 ## Task 8 — Feature engineering (`scripts/build_features.py` + `src/` modules)
 

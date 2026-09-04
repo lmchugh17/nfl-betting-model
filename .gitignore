@@ -6,13 +6,14 @@ data/cache/
 data/*.parquet
 data/raw/
 data/*.csv
-# Exceptions: append-only archives of pruned live_odds/injuries rows
-# (see scripts/prune_live_data.py) -- committed deliberately. GitHub Actions
-# runners have no persistent disk between runs, so an ignored file here would be
+# Exception: append-only archive of pruned live_odds rows (see
+# scripts/prune_live_data.py) -- committed deliberately. GitHub Actions runners
+# have no persistent disk between runs, so an ignored file here would be
 # silently lost after every workflow run. Text appends also compress far better
-# in git history than the binary DB rewrites they relieve.
+# in git history than the binary DB rewrites they relieve. No injuries_archive
+# here -- unlike CFB, this build's `injuries` table is upserted (nflverse serves
+# latest-status-per-player-week already), not append-only, so nothing to prune.
 !data/live_odds_archive.csv
-!data/injuries_archive.csv
 models/
 .DS_Store
 
