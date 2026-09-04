@@ -70,3 +70,25 @@ def compute_adverse_wx_ats_pct(ats_rows: list[dict], games_by_id: dict) -> dict:
             if g is not None and was_game_adverse(g) and row["covered"] is not None:
                 history.append(row["covered"])
     return result
+
+
+def compute_current_adverse_wx_ats_pct(ats_rows: list[dict], games_by_id: dict) -> dict:
+    """Live inference: returns {team: (pct, n)} using everything completed so
+    far, no game_id to anchor to (mirrors src/live_state.py's convention for
+    the other rolling stats). n is the actual adverse-weather game count behind
+    pct so an explanation can say "last N games in similar conditions"
+    precisely -- these are sparse by design, so n is routinely well under
+    ADVERSE_WX_ROLLING_WINDOW and worth stating exactly, not assumed."""
+    by_team = defaultdict(list)
+    for row in ats_rows:
+        by_team[row["team"]].append(row)
+
+    result = {}
+    for team, rows in by_team.items():
+        rows.sort(key=lambda r: (r["season"], r["gameday"]))
+        decided = [r["covered"] for r in rows
+                   if r["covered"] is not None and was_game_adverse(games_by_id.get(r["game_id"], {}))]
+        decided = decided[-ADVERSE_WX_ROLLING_WINDOW:]
+        if len(decided) >= MIN_ADVERSE_GAMES:
+            result[team] = (sum(decided) / len(decided), len(decided))
+    return result

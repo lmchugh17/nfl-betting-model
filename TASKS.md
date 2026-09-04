@@ -577,8 +577,48 @@ just the sport key.
 - `scripts/reconcile_predictions.py` — W-L / ATS / avg margin error from the
   `prediction_results` view; flags when ≥ 40 completed 2026 games have
   accumulated as a retrain-review trigger.
-- **Check:** backtest against the first 2–3 completed 2026 games, log hits **and**
-  misses honestly; `predictions` round-trips; reconcile prints a sane record.
+- **DONE (2026-09-04).**
+- **`src/live_state.py` turned out much narrower than CFB's** — only 5
+  functions (`compute_current_elo`, `compute_current_srs`,
+  `compute_current_epa_form`, `compute_current_opponent_srs`,
+  `compute_current_ats_pct`), all franchise-keyed. Everything else needs no
+  live counterpart at all, confirmed while building this task, not just
+  assumed from the Task 8 note: `compute_h2h_features` already returns a
+  result for every game passed in (it only checks `home_points` to decide
+  whether to *append* to history, never to decide whether to *return* — so the
+  CFB H2H-for-scoreless-games bug is structurally impossible here) as long as
+  the target game is included in the list; `compute_situational_features`,
+  `injury_burden`, and `qb_situation` all take an explicit `(season, week,
+  team)` and work unchanged for a future game; **rest days need no live
+  recomputation at all** — confirmed nflverse's `games.home_rest`/`away_rest`
+  are schedule-based and already populated correctly for every 2026 game,
+  played or not, so the CFB rest-days-season-scoping bug has nothing to port.
+  Added `compute_current_adverse_wx_ats_pct` to `src/weather_features.py`
+  (mirrors CFB's placement, not `live_state.py`).
+- **Sign-convention fix from Task 9 carried through correctly:**
+  `edge = predicted_margin - market_spread` (no negation) and
+  `fav = home_team if market_spread > 0 else away_team` (flipped from CFB's
+  `< 0` — nflverse's positive-favors-home convention is the opposite of
+  CFBD's). Written once, matches `src/db.py`'s already-fixed view.
+- **No `--backtest` flag** — matches CFB's *actual* implementation (not its
+  docstring): target games are unconditionally excluded from "completed"
+  state regardless of whether they were already played, so backtesting is
+  just "pass an already-completed `game_id`" with no special mode needed.
+- **`LOW_SAMPLE_GAME_THRESHOLD` / low-sample-opponent callout NOT ported** —
+  per the standing project-memory note, NFL has no FCS-crossover-style
+  two-tier structure for this to detect.
+- **Check — ran for real, not against synthetic data.** 2026 has no completed
+  games yet (season opens 2026-09-09), so the check target shifted to the most
+  recently completed real games instead: backtested the last 3 games of the
+  2025 season (`2025_22_SEA_NE` = Super Bowl, `2025_21_LA_SEA`,
+  `2025_20_HOU_NE`). **2 hits, 1 honest miss** — the model liked NE competitive
+  in the Super Bowl (predicted NE +0.7) and SEA won by 16; the other two picks
+  (SEA covering as a 2.5-pt home favorite, NE covering as a 3-pt home favorite)
+  both hit straight-up and ATS. `reconcile_predictions.py` correctly reports
+  2-1 moneyline (67%), 2-1-0 ATS (67%), 6.8-point avg margin error, and
+  "3/40 completed games toward the retrain review point." `predictions`
+  round-trips confirmed by direct query. The loss is reported plainly, not
+  hidden — matches the project's standing "log hits and misses honestly" rule.
 
 ## Task 12 — Static site (`scripts/build_site.py`)
 
