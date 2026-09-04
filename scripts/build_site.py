@@ -655,10 +655,16 @@ def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankrol
   .weekly-table th, .weekly-table td {{ padding: 0.6rem 0.9rem; text-align: left; white-space: nowrap; }}
   .weekly-table th {{ color: var(--text-dim); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.03em; border-bottom: 1px solid var(--border); }}
   .weekly-table tbody tr:not(:last-child) td {{ border-bottom: 1px solid var(--border); }}
-  .filter-row {{ display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; margin: 0 0 1rem; font-size: 0.85rem; color: var(--text-dim); }}
-  .filter-row label {{ display: flex; align-items: center; gap: 0.4rem; }}
+  .filter-row {{ display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1rem; margin: 0 0 1rem; font-size: 0.85rem; color: var(--text-dim); }}
+  .filter-row label {{ display: flex; align-items: center; gap: 0.4rem; white-space: nowrap; flex: 0 0 auto; }}
   .filter-row select {{ background: var(--card); color: var(--text); border: 1px solid var(--border); border-radius: 6px; padding: 0.35rem 0.6rem; font-size: 0.85rem; max-width: 60vw; }}
-  .filter-count {{ margin-left: auto; }}
+  .filter-count {{ margin-left: auto; white-space: nowrap; }}
+  /* Three labeled dropdowns + the count comfortably fit one row from here up --
+     below it, .filter-row's own wrap (above) stacks each onto its own line. */
+  @media (min-width: 640px) {{
+    .filter-row {{ flex-wrap: nowrap; }}
+    .filter-row select {{ max-width: none; }}
+  }}
   .tabs {{ display: flex; gap: 0.5rem; margin: 1rem 0 1.25rem; }}
   .tab-btn {{ background: var(--card); color: var(--text-dim); border: 1px solid var(--border); border-radius: 8px; padding: 0.5rem 1rem; font-size: 0.85rem; font-family: inherit; cursor: pointer; }}
   .tab-btn.active {{ color: var(--text); border-color: var(--accent); background: rgba(79,140,255,0.12); }}
