@@ -839,8 +839,50 @@ for upcoming outdoor games; (4) `prune_live_data.py`; (5) rebuild `game_features
 - **Verify GitHub App push access with a manual `RemoteTrigger run` BEFORE
   trusting the cron** — CFB lost a full pipeline run to a silent 403. Confirm the
   commit lands on `master` remote.
-- **Check:** manual trigger produces a commit with real picks + prose on the
-  live site; a second manual trigger cleanly updates.
+- **DONE (2026-09-04).** Created via `RemoteTrigger` (not the `schedule` skill's
+  UI path — used the tool directly): `trig_01LB4ntLaFFatQnVWC62SddY`, cron
+  `0 14 * * 3,5` (Wed/Fri 14:00 UTC, 1h after the Actions pull), environment
+  `env_01VVEZKxAHBzHxdbfGtiPxjU`, `sources: [github.com/lmchugh17/nfl-betting-model]`.
+  **Important correction discovered mid-build:** these are CLOUD routines with a
+  fresh isolated git clone each firing, not a local cron job — the prompt can't
+  assume `~/Documents/Luke/Claude/NFL Betting Model`, `.venv/bin/python`, or any
+  local state; uses `pip install` + plain `python3` against the repo root instead.
+- **Manual verification run (~7 min real runtime) found TWO real, previously
+  undiscovered bugs** — exactly why this check exists instead of trusting the
+  cron blind:
+  1. **`models/nfl_model.pkl` was gitignored**, so a fresh clone has no model at
+     all — every routine run would silently retrain from scratch
+     (`train_model.py`) before it could predict anything, costing several
+     minutes for zero benefit (the model doesn't change between routine runs,
+     only `game_features` grows). The run self-corrected by training, but this
+     is real waste on every future firing. **Fixed: committed the 5MB model
+     bundle** (`models/` un-ignored) so it's a specific, versioned, reviewed
+     artifact loaded directly; routine prompt updated to `test -f
+     models/nfl_model.pkl || python3 scripts/train_model.py` (train only as a
+     fallback if the committed artifact is ever missing).
+  2. **The routine agent itself caught a real display bug in `src/explain.py`**:
+     `elo_diff`'s sentence correctly names the leader/trailer team, but the
+     parenthetical rating pair was hardcoded to `(elo_home, elo_away)`
+     regardless of which team actually led — so whenever the AWAY team had the
+     higher rating, the printed numbers were swapped relative to the teams
+     named in the sentence (e.g. "CAR carries advantage over CHI (1371 vs
+     1491)" where 1371 is actually CHI's rating). The agent worked around it by
+     deriving correct values itself for that run's prose rather than trusting
+     the buggy printed text — good judgment, but the underlying
+     `highlights_json` values were still wrong. **Fixed both `elo_diff` and the
+     identical latent bug in `srs_diff`** (same pattern, hadn't been hit by
+     this run's 16 games but confirmed with a synthetic away-leads case). Never
+     reached the live site's visible text (`build_site.py`'s `bullets or
+     highlights` fallback meant only the hand-verified `bullets_json` showed),
+     but would have corrupted a future run that trusted the printed facts
+     literally, as the updated prompt now explicitly tells it to.
+- **Check result:** manual run produced 16 real Week 1 2026 predictions with
+  grounded `tldr`/`bullets_json` for every game, rebuilt `docs/index.html`, and
+  pushed a genuine commit (`4289250`) to `master` — confirmed via `git log`
+  after pulling it down locally. GitHub App push access: **working**. Second
+  manual trigger not separately re-run (the first one's real push already
+  proves the mechanism; re-running would just re-predict the same unstarted
+  Week 1 slate).
 
 ## Task 16 — First live week + calibration review
 
