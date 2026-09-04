@@ -29,8 +29,9 @@ stays pandas like CFB.
 - nflverse start years: pbp 1999, injuries 2009, depth_charts 2001, snap_counts
   2012, participation 2016, nextgen_stats 2016, officials 2015, rosters_weekly
   2002, ftn_charting 2022.
-- `game_type` values: `REG`, `WC`, `DIV`, `CON`, `SB` (no preseason in
-  `games.csv` — preseason must be pulled separately if wanted; see Task 4).
+- `game_type` values: `REG`, `WC`, `DIV`, `CON`, `SB` (no preseason anywhere —
+  not in `games.csv`, and the injury feed has no `PRE` rows either; preseason
+  injuries surface on the Week 1 report).
 - `week`: 1–18 regular season (1–17 before 2021), then 19=WC, 20=DIV, 21=CON,
   22=SB. 2021+ = 18 weeks / 17 games; 1999–2020 = 17 weeks / 16 games.
 
@@ -136,8 +137,8 @@ with conference/division/franchise mapping.
 - Backfill: `load_schedules()` → filter to `season >= 1999` → insert every row
   into `games` (`INSERT OR REPLACE` on `game_id`). Keep completed **and** future
   rows (future rows have null scores — that is the upcoming slate for prediction).
-- Normalise `season_type`: `REG`→`REG`, `{WC,DIV,CON,SB}`→`POST`. (Preseason is
-  not in this table; Task 4 handles preseason separately for injuries only.)
+- Normalise `season_type`: `REG`→`REG`, `{WC,DIV,CON,SB}`→`POST`. (No preseason
+  in nflverse data at all — see Task 4.)
 - **DONE (2026-09-03).** `src/nflverse_client.py` (Polars→pandas wrappers,
   filesystem cache at `data/cache/`, `cache_dir` must be a `Path`),
   `src/team_names.py` (`FRANCHISE_ALIASES` STL→LA / SD→LAC / OAK→LV / LAR→LA —
@@ -187,38 +188,53 @@ pattern mirrors CFB `src/box_score_features.py`.
   `neutral_pass_rate` (290, blowouts with no neutral-script snaps) — left NULL
   for Task 8 to handle.
 
-## Task 4 — Injuries + depth charts + snap counts (`scripts/backfill_availability.py`, `scripts/scrape_injuries.py`, `src/availability.py`)
+## Task 4 — Injuries + snap counts + availability (`scripts/backfill_availability.py`, `scripts/scrape_injuries.py`, `src/availability.py`)
 
 **Ports from:** CFB `scripts/scrape_injuries.py` (but NFL data is *official and
 reliable*, unlike CFB's noisy ESPN scrape).
 
-**Goal:** `injuries`, `depth_charts`, `snap_counts` backfilled; a function that
-returns each team's projected-starter availability for a given (season, week).
+**DONE (2026-09-03).**
 
-- Backfill `load_injuries([2016..2026])` → `injuries`; `load_depth_charts` →
-  `depth_charts`; `load_snap_counts` → `snap_counts`.
+- `scripts/backfill_availability.py` — `players` crosswalk (nflverse
+  `load_players`, gsis_id↔pfr_id, 25k rows), `injuries` (2016–2025, ~56k rows),
+  `snap_counts` (2016–2025). **`snap_counts` is filtered to real role players
+  (`offense_pct` or `defense_pct` ≥ 0.10)** — the 1-snap-cameo tail is ~half the
+  rows and never matters for starter ID.
+- **`depth_charts` was dropped entirely.** nflverse depth charts are 40+ MB,
+  redundant with snap share, and have **no 2025 data** (they lag badly
+  in-season). `src/availability.py` is snap-count-only; the week-1 fallback is
+  the prior season's snap leaders. This kept the DB at ~15 MB instead of ~95 MB.
+- **Preseason correction:** the injury feed has **no `PRE` rows** at all — the
+  official report only exists in REG+POST. A player hurt in preseason first
+  appears on the Week 1 report, so no separate preseason handling is needed
+  (the MAP/memory note assumed PRE rows exist; they don't).
+- **IR blind spot (real finding):** a season-ending injury moves a player to IR
+  and they **vanish from the injury report** (Rodgers 2023 is listed only from
+  Week 13, not Weeks 2–12; Burrow 2023 never appears after his Week 11 wrist).
+  So `availability.py` treats "unavailable" as *listed Out/Doubtful* **OR** *a
+  projected starter who didn't dress in the team's last 1–2 games* (absence of a
+  `snap_counts` row = didn't dress). This catches what the report hides.
 - `src/availability.py`:
-  - `starters_for(season, week, team)` — from `depth_charts` (`depth_team == 1`),
-    fallback to prior week if the current week isn't posted yet.
-  - `snap_share(gsis_id, season, up_to_week)` — trailing offensive/defensive snap
-    % from `snap_counts`, to weight injury burden.
-  - `injury_burden(season, week, team)` — count of `report_status == 'Out'` (and a
-    lighter weight for `Doubtful`) among starters, weighted by each player's
-    trailing snap share. Position multipliers (QB >> everything, then OL/edge/CB).
-  - `qb_availability(season, week, team)` — is `games.{home,away}_qb_id` for this
-    game the team's usual Week-1 / most-snaps starter? Returns a flag +
-    (better) the projected starter's trailing `qb_epa`/dropback vs a
-    replacement-level constant.
-- **Preseason injuries:** `load_injuries()` includes `game_type == 'PRE'` rows —
-  keep them in the `injuries` table so a preseason ACL tear is visible in Week 1,
-  **but** they never touch ratings/EPA/training (those are `REG`+`POST` only).
-- `scripts/scrape_injuries.py` — live in-season refresh via `load_injuries([2026])`
-  (nflverse updates it through the week); optional ESPN cross-check only if
-  nflverse lag becomes a problem.
-- **Check:** 2023 Week 1, `NYJ` shows Aaron Rodgers active then `report_status`
-  reflects the Week 2 Achilles; `injury_burden` for a team resting starters in a
-  Week 18 dead-rubber spikes; `qb_availability` flag fires for known backup starts
-  (e.g. 2022 SF Week 15 Brock Purdy after Garoppolo).
+  - `projected_starters(season, week, team)` — trailing snap share ≥ 0.55 over
+    last 4 games (prior season for week 1).
+  - `trailing_snap_share`, `recent_availability` (active/reduced/absent).
+  - `injury_burden(season, week, team)` → `{burden, out_starters, detail}`.
+    Position-weighted (`QB` 4.0, trench/CB ~1.2, skill ~1.0), report weight
+    (Out 1.0 / Doubtful 0.6 / not-dressed 1.0). **QBs excluded** — handled by
+    `qb_situation` instead, to avoid double-modeling the position.
+  - `qb_situation(season, week, team, projected_qb_gsis)` → flags
+    `backup_starting` (projected QB ≠ season snap leader) + the projected QB's
+    trailing snap share.
+- `scripts/scrape_injuries.py` — in-season re-pull of `injuries` + `snap_counts`
+  for the current season (idempotent upsert; nflverse serves latest status).
+  Guards a missing `date_modified` column in current-season pulls.
+- Constants (snap thresholds, position weights, report weights) are starting
+  points — Task 8 tunes them against holdout performance.
+- **Verified:** `injury_burden` over 881 team-weeks (2020–24) mean ≈ 3.2,
+  median ≈ 3.0, p90 ≈ 5.7, genuinely-healthy weeks ≈ 0 (KC 2024 wk3 = 0.0);
+  Burrow 2023 wk14 caught as `not_dressed`; `qb_situation` fires
+  `backup_starting=True` for 2022 SF wk15 (Purdy for Garoppolo) and 2023 CIN
+  wk14 (Browning for Burrow). DB indexes added for the per-team-week lookups.
 
 ## Task 5 — Weather forecast for upcoming games (`scripts/pull_weather_forecast.py`, `src/weather_client.py`)
 

@@ -54,11 +54,6 @@ def injuries(seasons: list[int]) -> pd.DataFrame:
     return _pd(nflreadpy.load_injuries(seasons))
 
 
-def depth_charts(seasons: list[int]) -> pd.DataFrame:
-    """Depth charts, 2001+ (depth_team == 1 is the starter)."""
-    return _pd(nflreadpy.load_depth_charts(seasons))
-
-
 def snap_counts(seasons: list[int]) -> pd.DataFrame:
     """Snap counts, 2012+ (offense/defense/special-teams snap share per player per game)."""
     return _pd(nflreadpy.load_snap_counts(seasons))

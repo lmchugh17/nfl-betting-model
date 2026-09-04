@@ -141,10 +141,12 @@ CREATE TABLE IF NOT EXISTS team_game_epa (
 );
 
 -- Official NFL injury reports (nflverse load_injuries, 2009+). Mandatory and
--- reliable, unlike the CFB build's best-effort ESPN scrape. Preseason ('PRE')
--- rows are KEPT here -- a preseason ACL tear must be visible in Week 1 -- but
--- never feed ratings/EPA/training. scraped_at makes in-season refreshes
--- append-safe; pruning handled by scripts/prune_live_data.py.
+-- reliable, unlike the CFB build's best-effort ESPN scrape. The feed only covers
+-- REG + POST (no preseason report exists) -- a player hurt in preseason first
+-- shows up on the Week 1 report, so no separate preseason handling is needed.
+-- nflverse already serves the *latest* official status per player-week, so this
+-- is an upsert (INSERT OR REPLACE), not the append-only snapshot table the CFB
+-- build needed; `scraped_at` just records our last pull for staleness checks.
 CREATE TABLE IF NOT EXISTS injuries (
     season INTEGER NOT NULL,
     week INTEGER NOT NULL,
@@ -153,28 +155,36 @@ CREATE TABLE IF NOT EXISTS injuries (
     game_type TEXT,
     player_name TEXT,
     position TEXT,
-    report_status TEXT,                  -- Out / Doubtful / Questionable / (NULL = not listed)
+    report_status TEXT,                  -- Out / Doubtful / Questionable / (NULL = practice-report only)
+    report_primary_injury TEXT,
     practice_status TEXT,
     date_modified TEXT,
     scraped_at TEXT NOT NULL,
-    PRIMARY KEY (season, week, team, gsis_id, scraped_at)
+    PRIMARY KEY (season, week, team, gsis_id)
 );
 
--- Depth charts (nflverse load_depth_charts, 2001+) -- for starter identification.
-CREATE TABLE IF NOT EXISTS depth_charts (
-    season INTEGER NOT NULL,
-    week INTEGER NOT NULL,
-    team TEXT NOT NULL,
-    position TEXT NOT NULL,
-    depth_team INTEGER NOT NULL,         -- 1 = starter
-    gsis_id TEXT NOT NULL,
-    player_name TEXT,
-    formation TEXT,
-    PRIMARY KEY (season, week, team, position, depth_team, gsis_id)
+-- No depth_charts table: nflverse depth charts are 40+ MB of mostly-redundant
+-- rows, lag badly in-season (no 2025 data), and add little over snap share.
+-- src/availability.py derives starters from snap_counts; the week-1 fallback is
+-- the prior season's snap leaders.
+
+-- gsis_id <-> pfr_id crosswalk (+ canonical name/position), from nflverse
+-- load_players. Needed because snap_counts keys on pfr_player_id while injuries
+-- keys on gsis_id.
+CREATE TABLE IF NOT EXISTS players (
+    gsis_id TEXT PRIMARY KEY,
+    pfr_id TEXT,
+    display_name TEXT,
+    position TEXT,
+    latest_team TEXT
 );
 
--- Snap counts (nflverse load_snap_counts, 2012+) -- weights "is this player
--- actually a starter" for the position-weighted injury-burden feature.
+-- Snap counts (nflverse load_snap_counts, 2012+) -- the working definition of
+-- "starter" (trailing snap share at a position) and the weight for the
+-- position-weighted injury-burden feature. Backfill keeps only rows with a real
+-- role (offense_pct or defense_pct >= 0.10) -- the long tail of 1-snap cameos is
+-- ~half the rows and never affects starter identification. Special-teams-only
+-- players are dropped for the same reason.
 CREATE TABLE IF NOT EXISTS snap_counts (
     game_id TEXT NOT NULL,
     pfr_player_id TEXT NOT NULL,
@@ -187,8 +197,6 @@ CREATE TABLE IF NOT EXISTS snap_counts (
     offense_pct REAL,
     defense_snaps INTEGER,
     defense_pct REAL,
-    st_snaps INTEGER,
-    st_pct REAL,
     PRIMARY KEY (game_id, pfr_player_id)
 );
 
@@ -235,6 +243,13 @@ CREATE TABLE IF NOT EXISTS stadiums (
     timezone TEXT,
     roof_default TEXT
 );
+
+-- Indexes for the availability lookups (src/availability.py hits these per
+-- team-week when building features) and the EPA rolling joins.
+CREATE INDEX IF NOT EXISTS ix_snaps_player   ON snap_counts (pfr_player_id, season, week);
+CREATE INDEX IF NOT EXISTS ix_snaps_team     ON snap_counts (team, season, week);
+CREATE INDEX IF NOT EXISTS ix_epa_team       ON team_game_epa (team, season, week);
+CREATE INDEX IF NOT EXISTS ix_games_season   ON games (season, week, season_type);
 """
 # Note: `game_features` is intentionally not declared here -- scripts/build_features.py
 # creates it with pandas .to_sql(if_exists="replace"), same as the CFB build.
@@ -355,9 +370,27 @@ def get_pred_connection(attach_stats: bool = True) -> sqlite3.Connection:
     return conn
 
 
+# Pre-launch schema churn: drop a table so executescript recreates it fresh when
+# its live shape is stale. Safe only because none of these carry committed data
+# yet. Each rule is (predicate over the live column set) -> drop.
+def _drop_stale_tables(conn: sqlite3.Connection) -> None:
+    def cols(table):
+        return {r[1] for r in conn.execute(f"PRAGMA table_info({table})")}
+
+    rules = {
+        "depth_charts": lambda c: bool(c),                       # table removed from schema
+        "injuries": lambda c: c and "report_primary_injury" not in c,
+        "snap_counts": lambda c: c and "st_snaps" in c,          # rebuilt without st_* columns
+    }
+    for table, is_stale in rules.items():
+        if is_stale(cols(table)):
+            conn.execute(f"DROP TABLE {table}")
+
+
 def init_stats_db() -> None:
     conn = get_stats_connection()
     try:
+        _drop_stale_tables(conn)
         conn.executescript(SCHEMA_STATS)
         conn.commit()
     finally:
