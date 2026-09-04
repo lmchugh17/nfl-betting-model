@@ -759,8 +759,55 @@ for upcoming outdoor games; (4) `prune_live_data.py`; (5) rebuild `game_features
   Wed = slate preview + opening lines; Fri = final injury designations; Sat/Sun =
   line movement. Note UTC vs US-Eastern DST drift in a comment (CFB did this).
 - Only Actions ever writes `nfl_stats.db` → no Git LFS needed, no 403 problem.
-- **Check:** `workflow_dispatch` manual run green end-to-end; commit appears;
-  DB size stays < 20 MB after a full run.
+- **DONE (2026-09-04).**
+- **Git LFS decision, resolved (deferred from Task 4's ~40 MB finding):
+  staying on plain git, not switching to LFS.** Confirmed the two-DB split
+  does make LFS *technically* safe here (only Actions' own default
+  `GITHUB_TOKEN` ever pushes `nfl_stats.db`, which has no LFS restriction —
+  unlike the Claude routine's separate GitHub App token, the thing that
+  actually 403'd on LFS in the CFB build). But LFS trades one real risk for
+  another, not obviously smaller one: at ~42 MB/push and up to 4 pulls/week,
+  a season projects to ~650 MB–1 GB/month of LFS **bandwidth**, right at or
+  over GitHub's free-tier 1 GB/month LFS bandwidth quota (separate from LFS
+  storage) — quota exhaustion would silently fail every push for the rest of
+  the billing cycle, the same class of "the pipeline's real output is
+  produced but never lands" failure as the routine's 403 was. Plain git's
+  failure mode (git history grows, working-tree size doesn't) is slower-
+  moving and doesn't have a hard monthly cliff. CFB itself tried LFS and
+  reverted to plain git for a different reason (the token 403) and has lived
+  with the growth since; matching that precedent here is a known, already-
+  accepted tradeoff rather than an unproven one. Revisitable later — git
+  history can be cleaned up after the fact (BFG / a squash) if size actually
+  becomes a practical problem, so this isn't a one-way door.
+- **Efficient incremental refresh, not a full 1999+ re-pull every run:**
+  `backfill_schedules.py`/`backfill_epa.py` are called with `2025 2026` (last
+  season + current), not the default full range — catches this week's
+  results and any retroactive nflverse corrections without re-downloading and
+  re-writing 27 seasons of history on every single scheduled pull.
+  `scrape_injuries.py` (Task 4's dedicated in-season-refresh script) handles
+  injuries/snap-counts for the current season only, no args needed.
+- **Real bug fixed while rehearsing this task locally:** `backfill_epa.py`'s
+  post-run sanity check was hardcoded to query `season = 2023` (a leftover
+  from when 2023 was the only backfilled season during Task 3's own
+  development) — harmless for a one-time backfill, but every one of this
+  workflow's weekly runs would have printed a stale, increasingly-nonsensical
+  "2023 top-5" sanity check forever. Fixed to query `MAX(season)` actually
+  present in the table instead of a hardcoded year.
+- **Check — the full pipeline was rehearsed locally end-to-end, step by step,
+  in the exact order the workflow runs it** (schedules → EPA → injuries/snaps
+  → odds → weather → Polymarket → prune → rebuild `game_features`), not just
+  written and assumed correct: every step completed cleanly against real
+  live data (15 odds games, 11 forecast-weather games, 27 Polymarket games,
+  0 stale `live_odds` rows to prune — nothing pruned this run since
+  everything is still upcoming, matching Task 7's own verified behavior).
+  Final DB size **42 MB** after `VACUUM` — well under GitHub's 100 MB hard
+  push limit and the 50 MB soft-warning threshold that would actually matter
+  in practice; the plan's original "<20 MB" figure was a pre-real-data
+  guess, corrected here rather than chased. `ODDS_API_KEY` set as a real
+  GitHub Actions secret on the live repo (`gh secret set`, value never
+  displayed). A genuine `workflow_dispatch` run was triggered and watched to
+  confirm the whole thing goes green on GitHub's own runners, not just
+  locally.
 
 ## Task 15 — Scheduled Claude Code routine
 

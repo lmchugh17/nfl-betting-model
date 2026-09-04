@@ -1,0 +1,64 @@
+name: Weekly data pull
+
+on:
+  schedule:
+    # 13:00 UTC = 7am America/Denver during MDT (Mar-Nov), 6am during MST
+    # (Nov-Mar, GitHub cron is fixed UTC and doesn't track DST). Wed/Fri/Sat/Sun:
+    # Wed = slate preview + opening lines, Fri = final injury designations
+    # (practice reports land Wed-Fri), Sat/Sun = line movement into kickoff.
+    - cron: "0 13 * * 3,5,6,0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  pull-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh schedules (games, lines, weather, QBs, coaches)
+        # Last 2 seasons only, not the full 1999+ history -- catches this
+        # week's results plus any retroactive nflverse corrections without
+        # re-downloading/re-writing 27 seasons on every single pull.
+        run: python scripts/backfill_schedules.py 2025 2026
+
+      - name: Refresh play-by-play -> team_game_epa
+        run: python scripts/backfill_epa.py 2025 2026
+
+      - name: Refresh injuries and snap counts
+        run: python scripts/scrape_injuries.py
+
+      - name: Pull live odds
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/pull_odds.py
+
+      - name: Pull forecast weather for upcoming outdoor games
+        run: python scripts/pull_weather_forecast.py
+
+      - name: Pull Polymarket pre-game win probabilities
+        run: python scripts/pull_polymarket.py
+
+      - name: Archive and prune stale live-odds snapshots
+        run: python scripts/prune_live_data.py
+
+      - name: Rebuild game_features
+        run: python scripts/build_features.py
+
+      - name: Commit and push refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/nfl_stats.db data/live_odds_archive.csv
+          git diff --cached --quiet && echo "No data changes" && exit 0
+          git commit -m "Weekly data pull: $(date -u +%Y-%m-%d)"
+          git push

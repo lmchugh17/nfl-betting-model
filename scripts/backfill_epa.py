@@ -71,21 +71,25 @@ def main():
             del pbp, agg
 
         print(f"\ntotal team_game_epa rows: {total}")
-        # sanity: 2023 offensive-EPA leaders should look like real 2023 (SF, MIA, DAL, BUF, KC...)
-        print("\n2023 top-5 season off_epa_play (min 10 games):")
-        for row in conn.execute("""
-            SELECT team, ROUND(AVG(off_epa_play), 3) e, COUNT(*) n
-            FROM team_game_epa WHERE season = 2023 GROUP BY team HAVING n >= 10
-            ORDER BY e DESC LIMIT 5
-        """):
-            print("  ", row)
-        print("\n2023 top-5 defenses (lowest def_epa_play allowed):")
-        for row in conn.execute("""
-            SELECT team, ROUND(AVG(def_epa_play), 3) e, COUNT(*) n
-            FROM team_game_epa WHERE season = 2023 GROUP BY team HAVING n >= 10
-            ORDER BY e ASC LIMIT 5
-        """):
-            print("  ", row)
+        # Sanity check against whatever the most recent season actually written is
+        # (not a hardcoded year) -- this runs on every weekly pull, so it should
+        # always reflect real, current data, not a one-time backfill's own season.
+        latest = conn.execute("SELECT MAX(season) FROM team_game_epa").fetchone()[0]
+        if latest is not None:
+            print(f"\n{latest} top-5 season off_epa_play (min 10 games):")
+            for row in conn.execute("""
+                SELECT team, ROUND(AVG(off_epa_play), 3) e, COUNT(*) n
+                FROM team_game_epa WHERE season = ? GROUP BY team HAVING n >= 10
+                ORDER BY e DESC LIMIT 5
+            """, (latest,)):
+                print("  ", row)
+            print(f"\n{latest} top-5 defenses (lowest def_epa_play allowed):")
+            for row in conn.execute("""
+                SELECT team, ROUND(AVG(def_epa_play), 3) e, COUNT(*) n
+                FROM team_game_epa WHERE season = ? GROUP BY team HAVING n >= 10
+                ORDER BY e ASC LIMIT 5
+            """, (latest,)):
+                print("  ", row)
     finally:
         conn.close()
 
