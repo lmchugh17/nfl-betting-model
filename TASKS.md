@@ -807,7 +807,25 @@ for upcoming outdoor games; (4) `prune_live_data.py`; (5) rebuild `game_features
   GitHub Actions secret on the live repo (`gh secret set`, value never
   displayed). A genuine `workflow_dispatch` run was triggered and watched to
   confirm the whole thing goes green on GitHub's own runners, not just
-  locally.
+  locally — **and it genuinely caught a real bug the local rehearsal
+  couldn't**, since locally `data/live_odds_archive.csv` never gets deleted
+  between runs once it first exists, while a *fresh* Actions checkout starts
+  without it every single time until the first real prune ever happens:
+  `git add data/nfl_stats.db data/live_odds_archive.csv` fails outright
+  (`fatal: pathspec ... did not match any files`, exit 128) when that archive
+  file doesn't exist yet — which is exactly the state of a brand-new repo,
+  and would have kept being true for every run until the first genuinely
+  stale `live_odds` row appears. The whole step aborts on that error, so
+  **every other real update the run produced (fresh odds, fresh weather,
+  rebuilt `game_features`) was silently thrown away too** — the same
+  "pipeline completes real work but the commit never lands" failure class
+  CFB hit from a token-permission bug, this time from a plain pathspec bug in
+  a command written and locally-tested (locally, harmlessly) but never run
+  against a truly first-time repo state. Fixed with a file-existence check
+  before adding the archive CSV; **re-triggered a second real
+  `workflow_dispatch` run end-to-end and confirmed it went fully green**,
+  including a real commit landing on `master` with fresh odds/weather/
+  Polymarket/`game_features` data.
 
 ## Task 15 — Scheduled Claude Code routine
 
