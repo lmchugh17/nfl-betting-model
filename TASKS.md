@@ -634,8 +634,55 @@ just the sport key.
   *inside* `.bar-track` not a padded parent, value-label-inside-the-bar-fill.
 - Footer: methodology, confidence-tier definitions, paper-bankroll/Kelly
   assumptions, "personal research, not financial advice".
-- **Check:** browser-preview renders correctly including a displayed loss;
-  responsive; no horizontal body scroll.
+- **DONE (2026-09-04).** `scripts/build_site.py` ported in full — all sections,
+  all CSS fixes, both bar-chart conventions.
+- **Structural simplification vs CFB:** dropped CFB's entire "week 0" gap-
+  detection machinery (`_week_zero_cutoff`/`compute_week0_cutoffs`/
+  `display_week_for`) — that existed only to split CFBD's bundled early-season
+  slate, which nflverse's clean 1–18/19–22 week numbering has no equivalent
+  of. Postseason weeks are labeled directly from `games.game_type`
+  (`WC`/`DIV`/`CON`/`SB` → "Wild Card"/"Divisional"/"Conference
+  Championship"/"Super Bowl"), simpler and more precise than CFB's generic
+  "Postseason" label. No low-sample-team callout (confirmed, no NFL
+  equivalent). Two-DB join: every query runs on `get_pred_connection()`
+  (stats ATTACHed), joining `predictions`/`prediction_results` against
+  `stats.games`/`stats.teams`/`stats.polymarket_odds` in one query each.
+- **Sign convention mirrored, not copied**, everywhere CFB's code branches on
+  favorite/underdog: the market-line display, the weekly favorite-baseline
+  calc, and the pick's own signed spread number are each the mirror image of
+  CFB's version (`> 0` where CFB had `< 0`, and vice versa for the pick-spread
+  formula) — see the module docstring for the reasoning, already established
+  in Tasks 9 and 11.
+- **Real bug found and fixed during this task's own browser check:** the
+  season-opener Melbourne game's explanation read *"SF is traveling east
+  across 17+ time zones"* — nonsense (there's no such thing as 17 time zones
+  of travel; LA→Melbourne is a 7-hour shift the *other* way around the clock).
+  Task 8's `home_tz_shift_hours`/`away_tz_shift_hours` computation
+  (`src/ats_and_situational.py`) did a naive `venue_offset - team_offset`
+  subtraction with no wraparound handling — correct for the overwhelming
+  majority of (non-international) games, silently wrong for any matchup with
+  a UTC-offset gap over 12 hours. Added `_wrap_signed_12()` (wraps to the
+  shorter direction around the clock, `(-12, 12]`) and re-ran the full chain
+  (`build_features.py` → `train_model.py` → re-predicted all games →
+  rebuilt the site) for consistency. **Model metrics were byte-identical
+  before and after** (62.46% accuracy, same AUC/log_loss/MAE) — confirms the
+  bug had negligible predictive impact (as expected for a feature already
+  measured near-zero correlation) while still being worth fixing for data
+  correctness and explanation-text sanity. Now correctly reads *"SF is
+  traveling west across 7+ time zones."*
+- **Check — verified live in the browser, not just by reading the HTML
+  source:** loaded `docs/index.html` in the browser pane. Confirmed the
+  Super Bowl loss displays honestly (*"Final: NE 13 - 29 SEA — moneyline pick
+  was incorrect, spread pick did not cover the spread"*); round labels render
+  correctly (2025 Divisional / Conference Championship / Super Bowl bars in
+  the weekly trend chart, the Super Bowl bar visibly at 0%); tab switching
+  (This Week's Picks / Past Picks) and the team/conference filters work;
+  Polymarket section shows its graceful empty state ("No Polymarket-matched
+  completed games yet"); zero console errors. Resized to mobile (375px) and
+  confirmed via JS (`document.documentElement.scrollWidth ===
+  document.documentElement.clientWidth`, both 375) that there is **no
+  horizontal overflow** at any width — cards, bar charts (which scroll
+  *within* their own container by design), and text all reflow cleanly.
 
 ## Task 13 — Passive accuracy check: Polymarket (`src/polymarket_client.py`, `scripts/pull_polymarket.py`)
 

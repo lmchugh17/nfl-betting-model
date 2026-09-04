@@ -148,6 +148,15 @@ def _utc_offset_hours(tz_name: str | None, date_str: str | None) -> float | None
         return None
 
 
+def _wrap_signed_12(hours: float) -> float:
+    """Wraps a raw UTC-offset difference to (-12, 12] -- the shorter way around
+    the clock. A naive venue_offset - team_offset subtraction is only correct
+    for offsets within 12h of each other; e.g. LA (UTC-7) to Melbourne
+    (UTC+10) is a raw 17h, which reads as an absurd "17 time zones" -- the real
+    body-clock shift is the 7h the other way (24 - 17)."""
+    return ((hours + 12) % 24) - 12
+
+
 def compute_situational_features(g: dict, venue_tz: str | None) -> dict:
     """g: a games row dict (needs home_rest, away_rest, gametime, weekday,
     div_game, stadium, gameday, home_team, away_team). venue_tz: the game's
@@ -163,8 +172,10 @@ def compute_situational_features(g: dict, venue_tz: str | None) -> dict:
     home_team_offset = _utc_offset_hours(home_tz, gameday)
     away_team_offset = _utc_offset_hours(away_tz, gameday)
 
-    home_tz_shift = (venue_offset - home_team_offset) if (venue_offset is not None and home_team_offset is not None) else None
-    away_tz_shift = (venue_offset - away_team_offset) if (venue_offset is not None and away_team_offset is not None) else None
+    home_tz_shift = (_wrap_signed_12(venue_offset - home_team_offset)
+                     if (venue_offset is not None and home_team_offset is not None) else None)
+    away_tz_shift = (_wrap_signed_12(venue_offset - away_team_offset)
+                      if (venue_offset is not None and away_team_offset is not None) else None)
 
     return {
         "home_short_week": int(home_rest is not None and home_rest <= SHORT_WEEK_REST_DAYS),
