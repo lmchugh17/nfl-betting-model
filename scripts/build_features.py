@@ -32,7 +32,8 @@ GAMES_COLS = """
     game_id, season, week, season_type, gameday, weekday, gametime,
     home_team, away_team, home_score, away_score, home_margin, home_win,
     div_game, home_rest, away_rest, spread_line, total_line, roof, is_dome,
-    temp, wind, stadium, home_coach, away_coach, home_qb_id, away_qb_id, neutral_site
+    temp, wind, stadium, home_coach, away_coach, home_qb_id, away_qb_id,
+    home_qb_name, away_qb_name, neutral_site
 """
 
 
@@ -158,18 +159,22 @@ def main():
             srs_home = srs_lookup.get((g["season"], g["week"], g["home_franchise"]))
             srs_away = srs_lookup.get((g["season"], g["week"], g["away_franchise"]))
 
+            home_ats_pct, home_ats_n = rolling_ats.get((gid, g["home_team"]), (None, 0))
+            away_ats_pct, away_ats_n = rolling_ats.get((gid, g["away_team"]), (None, 0))
+
             record = {
                 "game_id": gid, "season": g["season"], "week": g["week"], "season_type": g["season_type"],
                 "home_team": g["home_team"], "away_team": g["away_team"],
+                "home_qb_name": g.get("home_qb_name"), "away_qb_name": g.get("away_qb_name"),
                 "home_score": g["home_score"], "away_score": g["away_score"],
                 "home_margin": g["home_margin"], "home_win": g["home_win"],
-                "market_spread": g["spread_line"],
+                "market_spread": g["spread_line"], "temp": g["temp"], "wind": g["wind"],
                 "elo_home": elo_f.get("elo_home"), "elo_away": elo_f.get("elo_away"),
                 "elo_diff": elo_f.get("elo_diff"), "elo_expected_home": elo_f.get("elo_expected_home"),
                 "srs_home": srs_home, "srs_away": srs_away,
                 "srs_diff": (srs_home - srs_away) if (srs_home is not None and srs_away is not None) else None,
-                "home_ats_pct": rolling_ats.get((gid, g["home_team"])),
-                "away_ats_pct": rolling_ats.get((gid, g["away_team"])),
+                "home_ats_pct": home_ats_pct, "away_ats_pct": away_ats_pct,
+                "home_ats_count": home_ats_n, "away_ats_count": away_ats_n,  # explanation-only, not a model feature
                 "home_rest_days": g["home_rest"], "away_rest_days": g["away_rest"],
                 "h2h_home_win_pct": h2h_f.get("h2h_home_win_pct"),
                 "h2h_avg_home_margin": h2h_f.get("h2h_avg_home_margin"),
@@ -181,8 +186,11 @@ def main():
                 "away_new_hc": new_hc.get((g["season"], g["away_team"]), 0),
                 **sit_f, **home_avail, **away_avail,
             }
-            home_wx_pct = adverse_wx_ats.get((gid, g["home_team"]))
-            away_wx_pct = adverse_wx_ats.get((gid, g["away_team"]))
+            home_wx_pct, home_wx_n = adverse_wx_ats.get((gid, g["home_team"]), (None, 0))
+            away_wx_pct, away_wx_n = adverse_wx_ats.get((gid, g["away_team"]), (None, 0))
+            # explanation-only, not model features
+            record["home_adverse_wx_ats_pct"], record["home_adverse_wx_ats_count"] = home_wx_pct, home_wx_n
+            record["away_adverse_wx_ats_pct"], record["away_adverse_wx_ats_count"] = away_wx_pct, away_wx_n
             record["adverse_wx_ats_edge"] = (
                 (home_wx_pct - away_wx_pct)
                 if record["is_adverse_weather"] and home_wx_pct is not None and away_wx_pct is not None

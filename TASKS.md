@@ -515,9 +515,47 @@ just the sport key.
   divisional rematch, travel/time-zone.
 - Prose (TL;DR + bullets) is **not** code — the scheduled Claude routine writes it
   natively from these facts each week (same as CFB).
-- **Check:** run on a known real upset (e.g. 2023 Week 5 `Giants` were pick vs
-  actual, or a QB-injury game) — highlights surface the QB/injury factor when it
-  actually drove the prediction, and stay silent on it when it didn't.
+- **DONE (2026-09-04).** `src/explain.py`: `get_shap_contributions` +
+  `build_feature_highlights` ported verbatim. `_describe_feature` rewritten for
+  all NFL feature groups — ELO/SRS (same pattern), ATS (with a real game-count
+  denominator, see below), rest/bye/short-week (folded into one sentence per
+  side rather than three separate near-duplicate ones), H2H (plus the new
+  `h2h_current_season_margin` divisional-rematch case), weather (temp/wind
+  only, no precip branch — nflverse has none historically), situational flags
+  (new-HC, divisional, prime-time, international, cross-country travel),
+  availability (injury burden naming real players when available, QB
+  backup-starting naming the actual QB + trailing snap share — closely matches
+  the plan's own worked example), and EPA rolling-form diffs (a
+  `HIGHER_IS_BETTER`/`LOWER_IS_BETTER` split so a *defensive* "allowed" stat's
+  leader/trailer framing doesn't get inverted, plus dedicated non-comparative
+  phrasing for pace and pass-rate, which don't have a universal "better" side).
+- **Extended `game_features` with explanation-only columns** (not model
+  features — `FEATURE_COLUMNS` unchanged, still exactly 81) so explanations can
+  cite real counts instead of bare percentages: `home_ats_count`/`away_ats_count`
+  (how many games back a covered-spread % actually is) and
+  `home_adverse_wx_ats_pct`/`_count` + the away equivalents (same for the
+  weather split). Required extending `compute_rolling_ats_pct` and
+  `compute_adverse_wx_ats_pct` to return `(pct, n)` tuples instead of a bare
+  pct — a small, deliberate scope addition to Tasks 8's modules once Task 10
+  showed a bare percentage wasn't a fully grounded fact on its own. Also added
+  `home_qb_name`/`away_qb_name`/`temp`/`wind` to `build_features.py`'s game
+  columns (needed for the QB and weather sentences respectively; `game_features`
+  is now 102 columns, 21 of them explanation-only).
+- **Check — real, ran against the trained model (not synthetic data):**
+  2023 Week 14 `IND @ CIN` (Jake Browning's first start after Joe Burrow's
+  season-ending wrist injury) produced, from real SHAP-ranked factors:
+  *"CIN starts Jake Browning at quarterback, not its usual starter (only 85%
+  of recent offensive snaps)"* and *"IND is missing key contributors: Braden
+  Smith, Deon Jackson, Dallis Flowers and 6 others"* — both genuinely
+  SHAP-top-2 factors for that specific game (`home_qb_backup_starting` −1.63,
+  `away_injury_burden` +4.58), with real player names pulled live from
+  `src.availability.injury_burden()`. A healthy, no-QB-change 2024 game (KC/ATL
+  Week 3, both `*_injury_burden=0.0`) correctly produced **zero** QB or injury
+  highlights despite `away_injury_burden` still ranking in that game's top-8
+  SHAP factors — `_describe_feature` returns `None` for a zero/false value
+  regardless of SHAP rank, so a present-but-irrelevant feature never forces a
+  sentence. Both halves of the check (surfaces when real, silent when not)
+  confirmed against real games, not constructed examples.
 
 ## Task 11 — Live inference + predictions tracking (`scripts/predict_games.py`, `src/live_state.py`, `scripts/reconcile_predictions.py`)
 

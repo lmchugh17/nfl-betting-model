@@ -53,9 +53,11 @@ def compute_ats_results(games: list[dict]) -> list[dict]:
 
 
 def compute_rolling_ats_pct(ats_rows: list[dict]) -> dict:
-    """Returns {(game_id, team): trailing_ats_pct_before_this_game}, using only
-    each team's own prior games (any push is excluded from the denominator,
-    matching standard ATS record convention)."""
+    """Returns {(game_id, team): (trailing_ats_pct, n_games) | (None, 0)} before
+    this game, using only each team's own prior games (any push is excluded
+    from the denominator, matching standard ATS record convention). n_games is
+    tracked alongside the pct so an explanation (task 10) can say "covered 6 of
+    its last 8" precisely instead of a bare, uncountable percentage."""
     by_team = defaultdict(list)
     for row in ats_rows:
         by_team[row["team"]].append(row)
@@ -66,7 +68,9 @@ def compute_rolling_ats_pct(ats_rows: list[dict]) -> dict:
         history = []
         for row in rows:
             decided = history[-ATS_ROLLING_WINDOW:]
-            result[(row["game_id"], team)] = (sum(decided) / len(decided)) if decided else None
+            result[(row["game_id"], team)] = (
+                (sum(decided) / len(decided), len(decided)) if decided else (None, 0)
+            )
             if row["covered"] is not None:
                 history.append(row["covered"])
     return result

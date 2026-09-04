@@ -45,9 +45,13 @@ def was_game_adverse(g: dict) -> bool:
 
 
 def compute_adverse_wx_ats_pct(ats_rows: list[dict], games_by_id: dict) -> dict:
-    """Training-time: returns {(game_id, team): trailing_adverse_wx_ats_pct_before_this_game}.
-    ats_rows: ats_and_situational.compute_ats_results output (needs game_id,
-    season, gameday, team, covered). games_by_id: {game_id: games row dict}."""
+    """Training-time: returns {(game_id, team): (trailing_adverse_wx_ats_pct, n) |
+    (None, n)} before this game -- n is the actual adverse-weather game count
+    behind the pct (even when below MIN_ADVERSE_GAMES, so an explanation, task
+    10, can say precisely why a team's split is being treated as unknown, e.g.
+    "only 1 prior cold-weather game"). ats_rows: ats_and_situational
+    .compute_ats_results output (needs game_id, season, gameday, team,
+    covered). games_by_id: {game_id: games row dict}."""
     by_team = defaultdict(list)
     for row in ats_rows:
         by_team[row["team"]].append(row)
@@ -59,7 +63,8 @@ def compute_adverse_wx_ats_pct(ats_rows: list[dict], games_by_id: dict) -> dict:
         for row in rows:
             decided = history[-ADVERSE_WX_ROLLING_WINDOW:]
             result[(row["game_id"], team)] = (
-                sum(decided) / len(decided) if len(decided) >= MIN_ADVERSE_GAMES else None
+                (sum(decided) / len(decided), len(decided)) if len(decided) >= MIN_ADVERSE_GAMES
+                else (None, len(decided))
             )
             g = games_by_id.get(row["game_id"])
             if g is not None and was_game_adverse(g) and row["covered"] is not None:
