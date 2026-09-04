@@ -297,18 +297,35 @@ just the sport key.
 
 **Goal:** intra-week line-movement snapshots in `live_odds`.
 
-- The Odds API, `sport=americanfootball_nfl`, markets `spreads,totals,h2h`,
-  region `us`, **reuse the existing CFB account key**. 3 credits/pull.
-- NFL slate is ~14–16 games/week (vs CFB ~60) → pulls are cheap. Cadence: Wed /
-  Fri / Sat / Sun-AM (~12 credits/week, ~220/season — well within free tier,
-  leaves headroom for CFB on the same key).
-- Append-only into `live_odds` (PK includes `scraped_at`), team-name match via
-  `src/team_names.py` Odds-API map.
-- `src/spread_pricing.py` (port from CFB): real per-book median price for the
-  pick side, used in the Kelly calc instead of assumed −110. For the NFL we also
-  have closing juice in `games.{away,home}_spread_odds` for backtests.
-- **Check:** one pull writes ~14–16 games × N books; team names 100% matched;
-  a second pull hours later shows at least one line that moved.
+- **DONE (2026-09-04).** `.env`'s `ODDS_API_KEY` populated from the CFB
+  project's key (same account). `src/odds_client.py` — ported near-verbatim,
+  default `sport=americanfootball_nfl`.
+- **Real finding, changed the plan:** an unfiltered call returns the **entire
+  remaining season** (272 games, live-tested) at ~2 books/game average — mostly
+  thin, futures-style lines for games months out — for the **same 3-credit
+  cost** as a `commenceTimeFrom`/`commenceTimeTo`-windowed call limited to the
+  imminent slate (16 games at ~9 books/game, real market depth). Since cost is
+  markets×regions, not games returned, windowing is strictly better, not a
+  cost/coverage tradeoff — `scripts/pull_odds.py` now windows to the next
+  `COMMENCE_WINDOW_DAYS = 10` days. Keeps `live_odds` rows meaningful (every
+  stored price reflects an actual liquid market) and reduces the row volume
+  Task 7 has to prune.
+- Team-name matching uses `src/team_names.build_name_lookup()` +
+  `resolve_name()` (built in Task 2) directly against The Odds API's full names
+  ("Kansas City Chiefs") — confirmed these match nflverse's own `team_name`
+  field exactly, so no separate Odds-API-specific alias table was needed like
+  CFB's school-name aliases.
+- `src/spread_pricing.py` — simpler than CFB's version: `pull_odds.py` already
+  resolves each row's home/away team to a canonical abbr at write time, so
+  pricing just matches `outcome_name` against the row's own
+  `home_team`/`away_team` rather than rebuilding a name lookup on every call.
+- **Verified (2026-09-04, live pulls):** first pull — 15 games, 802 rows, quota
+  cost 3 (464 remaining), **0 unmatched team names**; `load_latest_spread_prices`
+  returned realistic per-book medians with real book-to-book variance (e.g.
+  PIT −120 vs ATL −102, 9 books each). Second pull 27s later confirmed
+  append-only snapshotting: two distinct `scraped_at` values, 1,604 total rows,
+  no overwrite. Actual line movement between two pulls seconds apart isn't
+  expected (that needs hours) — the append mechanism itself is proven correct.
 
 ## Task 7 — `scripts/prune_live_data.py`
 
