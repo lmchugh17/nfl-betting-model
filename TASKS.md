@@ -362,39 +362,86 @@ just the sport key.
 
 **Goal:** `game_features` table, one row per completed 2016+ `REG`/`POST` game.
 
-- **`src/elo.py`** — port the formula, recalibrate (all need backtesting;
-  starting points): `K_FACTOR` 40 → **20**; `SEASON_REGRESSION_FACTOR` 0.6 →
-  **0.80** (low NFL roster turnover); `HOME_ADVANTAGE_ELO` 65 → **40** (~1.7 pts,
-  and declining) with a **2020 no-fans downweight/flag**. Ratings key on
-  `franchise_id`, not `team`.
-- **`src/opponent_adjustment.py`** — port iterative SRS as-is. Less load-bearing
-  (17-game formula-balanced schedule) but cheap; keep it.
-- **`src/epa_features.py`** rolling form — trailing-N-game EPA aggregates per team
-  (off/def EPA/play, pass vs rush, early-down, success rate, explosive rate),
-  opponent-adjusted by the same SRS-style pass used for CFB box scores. Window:
-  start at **8 games**, tune (17-game season affords a longer window than CFB's
-  4). Season-boundary carryover regressed like ELO.
-- **`src/ats_and_situational.py`** — port directly. NFL bonus: **divisional teams
-  play twice/season**, so same-season H2H (Week 3 → Week 15 rematch) is strong
-  signal — H2H features matter more than in CFB. Situational flags to add:
-  short week (`rest <= 4`, Thursday), off bye (`rest >= 13`), **opponent** off
-  bye, prime-time (from `gametime`/`weekday`), `div_game`, ≥ 2 time-zone travel
-  (stadium long/long delta), international game (`location`/`stadium_id`).
-- **`src/weather_features.py`** — port as-is (already sport-agnostic).
-  **Re-tune adverse thresholds against NFL 2016–2025 history** — do not reuse
-  CFB's 40°F/20mph/0.1in. Pull the real distribution, pick thresholds leaving
-  enough same-condition history per franchise to be learnable (CFB weather
-  lesson).
-- **QB availability** + **injury burden** features from `src/availability.py`
-  (Task 4).
-- **New-HC / new-OC** flag from year-over-year `games.{home,away}_coach`.
-- `scripts/build_features.py` assembles all of the above into `game_features`
-  (mirrors CFB's assembler). Exclude `spread_line`/`total_line` from feature
-  columns — post-hoc edge only.
-- **Check:** every feature correlates with actual margin in the correct sign;
-  `spread_line` benchmark strongest (~0.65–0.72), engineered features
-  appropriately weaker (~0.4–0.55); no feature matches/beats the market
-  (= leakage bug). Season-length logic handles 16 vs 17 game seasons.
+**DONE (2026-09-04).** `game_features`: **2,761 rows × 92 columns**.
+
+- **`src/elo.py`** — ported + recalibrated as planned: `K_FACTOR=20`,
+  `SEASON_REGRESSION_FACTOR=0.80`, `HOME_ADVANTAGE_ELO=40`, plus
+  `HOME_ADVANTAGE_2020=0` for that season's non-neutral-site games (no/minimal
+  fans leaguewide). Ratings keyed on `franchise_id(team)`, not the raw abbr, so
+  OAK→LV / SD→LAC carry across the relocation.
+- **`src/opponent_adjustment.py`** — ported as-is (already sport-agnostic),
+  fed franchise-mapped team names for the same relocation-continuity reason.
+- **`src/epa_features.py`** extended with `compute_rolling_epa_form()` +
+  `assemble_epa_game_features()` — rolling **8-game window** (min_periods=3)
+  over all 14 `team_game_epa` metrics, grouped on `franchise_id` (not raw
+  `team`) so a mid-window relocation doesn't reset the trailing history. Needed
+  no `build_long_format()` step unlike CFB — `team_game_epa` is already one row
+  per (game, team) with its own `opponent` column.
+- **`src/ats_and_situational.py`** — ATS (window 8) + H2H, **plus the planned
+  NFL-specific addition**: `h2h_current_season_margin` /
+  `h2h_current_season_meeting` isolate the fresh Week-3→Week-15 divisional
+  rematch signal from the blended cross-season H2H average — turned out to be
+  one of the **strongest engineered features** (corr 0.277, 6th of 81).
+  Situational flags: short week (`rest<=4`), off bye (`rest>=12` — see below),
+  `is_primetime` (`gametime>='19:00'`), `div_game` (used directly from
+  nflverse, not recomputed), `is_international`, tz-shift + cross-country-travel
+  (via new `src/stadiums.py` helpers).
+  **Rest/bye is NOT recomputed** — ported the plan's own suggestion further
+  than expected: nflverse's `games.home_rest`/`away_rest` are already correct,
+  so CFB's `compute_rest_days()` wasn't ported at all. Real distribution
+  confirmed the bye threshold: mode is 7 (normal week), 4 is the short-week
+  cluster (160 games), 13–16 is the bye cluster (~200) — **12, not the
+  naively-plausible 10 or 11**, since those exist too (schedule quirks) but
+  aren't byes.
+- **`src/weather_features.py`** — thresholds measured directly (not reused from
+  CFB): **temp≤32°F OR wind≥20mph** flags 172/1,968 outdoor completed games
+  (8.7%), with a real per-team split (LAC 1, IND 2, NO 2 vs. BUF 32, GB 30,
+  KC 27, PIT 22, CLE 21 across 10 seasons) — learnable, not sparse like CFB's
+  first attempt. **No precipitation feature** — nflverse's `games` table has no
+  historical precip column at all (only the forecast endpoint does, and only
+  for upcoming games), so precip was dropped rather than creating a
+  train/live feature gap.
+- **QB availability + injury burden** — `src/availability.py`'s Task 4
+  functions plugged in directly with no changes. Turned out to be a bigger win
+  than expected: because they already take an explicit `(season, week, team)`
+  and are point-in-time correct, they serve **both** training (task 8) and live
+  inference (task 11) — no CFB-style separate `live_state.py` reimplementation
+  needed for this piece. Added a per-connection cache to
+  `availability.gsis_pfr_maps()` (rebuilt thousands of times per build run
+  otherwise).
+- **New-HC flag** — implemented (`home_new_hc`/`away_new_hc`): compares a
+  team's coach in its season-opening game to that team's coach in its **final**
+  game of the prior season (robust to in-season interim-coach noise). **No
+  new-OC flag** — nflverse's schedule has no offensive-coordinator field at
+  all, confirmed while building this; dropped, not a port-then-trim.
+- `scripts/build_features.py` assembles everything; `market_spread`
+  (`spread_line`) stored for post-hoc edge only, excluded from the feature set.
+- **Two real bugs caught by the correlation check, both fixed:**
+  1. `is_adverse_weather`/`adverse_wx_ats_edge` were **100% zero** on the first
+     run — `GAMES_COLS` in `build_features.py` selected `is_dome`/`roof` but
+     forgot `temp`/`wind`, so `was_game_adverse()` silently saw `None` for
+     every game. Fixed by adding the two columns; re-ran and got the expected
+     172 adverse games / 113 with both teams' history known.
+  2. `home_tz_shift_hours`/`away_tz_shift_hours` were null for **244 games**
+     (~9%) across nearly every team, not just the international ones — 12
+     historical stadium names inside the 2016+ window weren't in
+     `src/stadiums.py` (Task 5 only verified coverage for `season>=2024`):
+     renamed venues (Arrowhead/Paul Brown/Georgia Dome/Sports Authority Field),
+     a real case-sensitivity typo (`"Everbank Field"` alias vs. the actual
+     `"EverBank Field"`), and — the biggest gap — the Rams' pre-SoFi LA
+     Coliseum, the Chargers' pre-SoFi StubHub Center, Qualcomm Stadium (SD),
+     Oakland Coliseum (OAK, 3 different sponsor names across the window), and
+     Frankfurt's Deutsche Bank Park (a real venue with no NFL game there in
+     the `season>=2024` sample Task 5 checked). Added all of them; re-ran and
+     confirmed **zero unresolved stadium names across the full 2016+ range**.
+- **Check results:** every one of 81 correlatable features has the
+  theoretically-correct sign (home-favoring stats positive, away-favoring
+  negative). Max engineered-feature correlation is `elo_expected_home` at
+  **0.356**, comfortably below the market benchmark `corr(spread_line,
+  home_margin)` = **0.443** — no feature matches or beats the market (would
+  signal leakage). Season-length logic needed no special-casing: every rest/bye
+  threshold is calendar-days-based and every window is game-count-based, so
+  16- vs 17-game seasons are handled without any explicit branch.
 
 ## Task 9 — Model (`src/model.py`, `scripts/train_model.py`)
 

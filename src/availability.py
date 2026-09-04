@@ -38,11 +38,18 @@ POSITION_WEIGHT = defaultdict(lambda: 0.5, {
 # --------------------------------------------------------------------------- #
 # crosswalk + trailing snap share
 # --------------------------------------------------------------------------- #
+_maps_cache: dict[int, tuple[dict, dict]] = {}
+
+
 def gsis_pfr_maps(conn) -> tuple[dict, dict]:
-    rows = conn.execute("SELECT gsis_id, pfr_id FROM players WHERE pfr_id IS NOT NULL").fetchall()
-    g2p = {g: p for g, p in rows}
-    p2g = {p: g for g, p in rows}
-    return g2p, p2g
+    """Cached per-connection (keyed on id(conn)) -- build_features.py and
+    predict_games.py call this thousands of times over one connection's
+    lifetime; the 25k-row players table never changes mid-run."""
+    key = id(conn)
+    if key not in _maps_cache:
+        rows = conn.execute("SELECT gsis_id, pfr_id FROM players WHERE pfr_id IS NOT NULL").fetchall()
+        _maps_cache[key] = ({g: p for g, p in rows}, {p: g for g, p in rows})
+    return _maps_cache[key]
 
 
 def _player_snap_rows(conn, pfr_id, season, before_week, limit):

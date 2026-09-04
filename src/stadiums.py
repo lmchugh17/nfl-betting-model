@@ -80,10 +80,53 @@ STADIUMS = {
     "Stade de France":                  {"lat": 48.9245, "lon": 2.3601, "timezone": "Europe/Paris", "roof_default": "outdoors"},
     "Maracana Stadium":                 {"lat": -22.9121, "lon": -43.2302, "timezone": "America/Sao_Paulo", "roof_default": "outdoors"},
     "Arena Corinthians":                {"lat": -23.5453, "lon": -46.4742, "timezone": "America/Sao_Paulo", "roof_default": "outdoors"},
+    "Deutsche Bank Park":               {"lat": 50.0685, "lon": 8.6455, "timezone": "Europe/Berlin", "roof_default": "outdoors"},
+    "Twickenham Stadium":               {"lat": 51.4548, "lon": -0.3407, "timezone": "Europe/London", "roof_default": "outdoors"},
+    # retired/temporary venues still inside the 2016+ training window
+    "Los Angeles Memorial Coliseum":    {"lat": 34.0141, "lon": -118.2879, "timezone": "America/Los_Angeles", "roof_default": "outdoors"},  # LA Rams' home 2016-2019, pre-SoFi
+    "Oakland Coliseum":                 {"lat": 37.7516, "lon": -122.2005, "timezone": "America/Los_Angeles", "roof_default": "outdoors"},  # OAK's home through 2019, pre-LV
+    "Qualcomm Stadium":                 {"lat": 32.7831, "lon": -117.1196, "timezone": "America/Los_Angeles", "roof_default": "outdoors"},  # SD's home through 2016, pre-LAC
+    "Dignity Health Sports Park":       {"lat": 33.8644, "lon": -118.2611, "timezone": "America/Los_Angeles", "roof_default": "outdoors"},  # LAC's home 2017-2019, pre-SoFi
 }
 
 # Venues where games.roof is confirmed unreliable -- see module docstring.
 FORCE_ROOF_OVERRIDE = {"Melbourne Cricket Ground", "Stade de France", "Allianz Arena"}
+
+# Every non-US venue in STADIUMS -- for the international-game situational flag
+# (task 8). All nine currently host only "home" games for a designated franchise
+# (never a true neutral-market game for two other teams), so this list is
+# maintained by hand rather than derived from a country field nflverse doesn't provide.
+INTERNATIONAL_VENUES = {
+    "Wembley Stadium", "Tottenham Hotspur Stadium", "Allianz Arena",
+    "Estadio Santiago Bernabeu", "Estadio Banorte", "Melbourne Cricket Ground",
+    "Stade de France", "Maracana Stadium", "Arena Corinthians",
+}
+
+# Each of the 32 current franchises' normal home venue -> STADIUMS key, for the
+# time-zone-travel situational feature (task 8): a team's OWN timezone is looked
+# up here and compared against the actual game venue's timezone (which already
+# correctly reflects an international "home" game per the module docstring).
+TEAM_HOME_STADIUM = {
+    "ARI": "State Farm Stadium", "ATL": "Mercedes-Benz Stadium", "BAL": "M&T Bank Stadium",
+    "BUF": "Highmark Stadium", "CAR": "Bank of America Stadium", "CHI": "Soldier Field",
+    "CIN": "Paycor Stadium", "CLE": "Huntington Bank Field", "DAL": "AT&T Stadium",
+    "DEN": "Empower Field at Mile High", "DET": "Ford Field", "GB": "Lambeau Field",
+    "HOU": "NRG Stadium", "IND": "Lucas Oil Stadium", "JAX": "EverBank Stadium",
+    "KC": "GEHA Field at Arrowhead Stadium", "LA": "SoFi Stadium", "LAC": "SoFi Stadium",
+    "LV": "Allegiant Stadium", "MIA": "Hard Rock Stadium", "MIN": "U.S. Bank Stadium",
+    "NE": "Gillette Stadium", "NO": "Caesars Superdome", "NYG": "MetLife Stadium",
+    "NYJ": "MetLife Stadium", "PHI": "Lincoln Financial Field", "PIT": "Acrisure Stadium",
+    "SEA": "Lumen Field", "SF": "Levi's Stadium", "TB": "Raymond James Stadium",
+    "TEN": "Nissan Stadium", "WAS": "Northwest Stadium",
+    # historical relocation-era abbrs still inside the 2016+ training window
+    "SD": "Qualcomm Stadium", "OAK": "Oakland Coliseum",
+}
+
+
+def team_home_timezone(franchise_abbr: str) -> str | None:
+    stadium_name = TEAM_HOME_STADIUM.get(franchise_abbr)
+    info = STADIUMS.get(stadium_name) if stadium_name else None
+    return info["timezone"] if info else None
 
 # Sponsorship/name changes for the SAME physical building -> canonical STADIUMS key.
 NAME_ALIASES = {
@@ -93,7 +136,16 @@ NAME_ALIASES = {
     "Cleveland Browns Stadium": "Huntington Bank Field",
     "Reliant Stadium": "NRG Stadium",
     "TIAA Bank Stadium": "EverBank Stadium",
-    "Everbank Field": "EverBank Stadium",
+    "EverBank Field": "EverBank Stadium",
+    "Arrowhead Stadium": "GEHA Field at Arrowhead Stadium",
+    "Georgia Dome": "Mercedes-Benz Stadium",
+    "Paul Brown Stadium": "Paycor Stadium",
+    "Sports Authority Field at Mile High": "Empower Field at Mile High",
+    "Ring Central Coliseum": "Oakland Coliseum",
+    "RingCentral Coliseum": "Oakland Coliseum",
+    "O.co Coliseum": "Oakland Coliseum",
+    "Oakland-Alameda County Coliseum": "Oakland Coliseum",
+    "StubHub Center": "Dignity Health Sports Park",
     "Mercedes-Benz Superdome": "Caesars Superdome",
     "Louisiana Superdome": "Caesars Superdome",
     "New Meadowlands Stadium": "MetLife Stadium",

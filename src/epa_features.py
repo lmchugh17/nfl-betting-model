@@ -16,6 +16,19 @@ for it (weather-threshold lesson from the CFB build).
 import numpy as np
 import pandas as pd
 
+# Rolling-form window: trailing games of EPA history to average, shifted by one
+# so a game's features never include itself. 8 games (vs the CFB build's 4 for a
+# 13-game season) -- the 17-game NFL season affords a longer, more stable window;
+# min_periods=3 so a team isn't flagged with a feature until it has a real sample.
+ROLLING_WINDOW = 8
+MIN_PERIODS = 3
+
+ROLL_COLS = [
+    "off_epa_play", "def_epa_play", "off_pass_epa", "off_rush_epa", "off_early_down_epa",
+    "off_success_rate", "def_success_rate", "explosive_play_rate", "def_explosive_rate",
+    "rz_td_pct", "pressure_rate_def", "sec_per_play", "pass_rate", "neutral_pass_rate",
+]
+
 # Explosive play: pass gains >= 15, rush gains >= 10. In 2021-2023 pbp that flags
 # ~13.5% of pass plays and ~10% of rush plays -- the widely-used Sharp/Baldwin
 # definition, and a big enough slice to be a stable per-game rate.
@@ -151,3 +164,58 @@ def aggregate_team_game_epa(pbp: pd.DataFrame) -> pd.DataFrame:
                 "neutral_pass_rate": me["neutral_pass_rate"],
             })
     return pd.DataFrame(out)
+
+
+# --------------------------------------------------------------------------- #
+# Rolling form (training-time feature engineering, task 8) -- mirrors the CFB
+# build's box_score_features.py pattern, but team_game_epa is already one row
+# per (game, team) with an `opponent` column, so no build_long_format() step is
+# needed here -- that CFB module existed only to reshape wide home/away rows
+# into this same long shape, which team_game_epa already has.
+# --------------------------------------------------------------------------- #
+def compute_rolling_epa_form(epa_df: pd.DataFrame, srs_lookup: dict, franchise_of) -> pd.DataFrame:
+    """epa_df: team_game_epa rows (game_id, team, opponent, season, week, is_home,
+    + ROLL_COLS). srs_lookup: {(season, week, franchise): srs} from
+    opponent_adjustment.compute_weekly_srs, keyed on FRANCHISE ids.
+    franchise_of: src.team_names.franchise_id -- rolling groups on franchise so a
+    mid-window relocation (SD->LAC 2017, OAK->LV 2020) doesn't reset the trailing
+    window; the roster carried over with the team.
+    """
+    df = epa_df.copy()
+    df["franchise"] = df["team"].map(franchise_of)
+    df["opp_franchise"] = df["opponent"].map(franchise_of)
+    df = df.sort_values(["franchise", "season", "week"])
+
+    for col in ROLL_COLS:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+        df[f"avg_{col}"] = (
+            df.groupby("franchise")[col]
+            .transform(lambda s: s.shift(1).rolling(ROLLING_WINDOW, min_periods=MIN_PERIODS).mean())
+        )
+
+    df["opponent_srs"] = df.apply(
+        lambda r: srs_lookup.get((r["season"], r["week"], r["opp_franchise"])), axis=1
+    )
+    df["avg_opponent_srs"] = (
+        df.groupby("franchise")["opponent_srs"]
+        .transform(lambda s: s.shift(1).rolling(ROLLING_WINDOW, min_periods=MIN_PERIODS).mean())
+    )
+    return df
+
+
+def assemble_epa_game_features(rolling_df: pd.DataFrame) -> pd.DataFrame:
+    """Pivots the per-team rolling form back to one row per game with
+    home_/away_/diff_ columns, matching the CFB build's assembly pattern."""
+    feature_cols = [c for c in rolling_df.columns if c.startswith("avg_")]
+
+    home = rolling_df[rolling_df["is_home"] == 1][["game_id"] + feature_cols].set_index("game_id")
+    away = rolling_df[rolling_df["is_home"] == 0][["game_id"] + feature_cols].set_index("game_id")
+
+    home = home.add_prefix("home_")
+    away = away.add_prefix("away_")
+    joined = home.join(away, how="inner")
+
+    for col in feature_cols:
+        joined[f"diff_{col}"] = joined[f"home_{col}"] - joined[f"away_{col}"]
+
+    return joined.reset_index()
