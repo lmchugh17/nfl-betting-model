@@ -14,8 +14,17 @@ data/*.csv
 # here -- unlike CFB, this build's `injuries` table is upserted (nflverse serves
 # latest-status-per-player-week already), not append-only, so nothing to prune.
 !data/live_odds_archive.csv
-models/
 .DS_Store
+
+# models/nfl_model.pkl (~5MB) is deliberately NOT ignored, unlike the CFB build's
+# equivalent -- discovered live 2026-09-04 (Task 15's routine verification run)
+# that a fresh clone with a gitignored model has NO model at all, forcing every
+# scheduled routine run to retrain from scratch (scripts/train_model.py) before
+# it can predict anything, adding several minutes per run for no benefit -- the
+# model doesn't change between scheduled runs, only game_features grows. A
+# committed, versioned pkl also means "the model in production" is a specific,
+# reviewed artifact (visible in `git log -- models/`) rather than silently
+# whatever train_model.py produces from current game_features on a given run.
 
 # SQLite WAL sidecar files -- transient, never commit
 data/*.db-wal

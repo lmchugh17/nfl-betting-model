@@ -120,16 +120,25 @@ def _describe_feature(feature: str, row: dict, home_team: str, away_team: str) -
 
     if feature == "elo_diff":
         diff = g("elo_diff")
-        leader, trailer = (home_team, away_team) if diff > 0 else (away_team, home_team)
-        return f"{leader} carries a {abs(diff):.0f}-point ELO&Dagger; advantage over {trailer} ({g('elo_home'):.0f} vs {g('elo_away'):.0f})."
+        is_home_leader = diff > 0
+        leader, trailer = (home_team, away_team) if is_home_leader else (away_team, home_team)
+        leader_elo, trailer_elo = (
+            (g("elo_home"), g("elo_away")) if is_home_leader else (g("elo_away"), g("elo_home"))
+        )
+        return (f"{leader} carries a {abs(diff):.0f}-point ELO&Dagger; advantage over {trailer} "
+                f"({leader_elo:.0f} vs {trailer_elo:.0f}).")
     if feature == "elo_expected_home":
         return f"Pre-game ELO&Dagger; gives {home_team} a {g('elo_expected_home'):.0%} win probability."
     if feature == "srs_diff":
         diff = g("srs_diff")
-        leader, trailer = (home_team, away_team) if diff > 0 else (away_team, home_team)
+        is_home_leader = diff > 0
+        leader, trailer = (home_team, away_team) if is_home_leader else (away_team, home_team)
+        leader_srs, trailer_srs = (
+            (g("srs_home"), g("srs_away")) if is_home_leader else (g("srs_away"), g("srs_home"))
+        )
         return (f"{leader} has been the better team once schedule strength is accounted for, "
                 f"outrating {trailer} by {abs(diff):.1f} points of opponent-adjusted margin "
-                f"({g('srs_home'):+.1f} vs {g('srs_away'):+.1f}).")
+                f"({leader_srs:+.1f} vs {trailer_srs:+.1f}).")
     if feature in ("home_ats_pct", "away_ats_pct"):
         team = home_team if feature == "home_ats_pct" else away_team
         pct = g(feature)
