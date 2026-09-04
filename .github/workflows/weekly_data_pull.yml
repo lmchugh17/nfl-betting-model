@@ -58,7 +58,16 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/nfl_stats.db data/live_odds_archive.csv
+          git add data/nfl_stats.db
+          # live_odds_archive.csv only exists once prune_live_data.py has actually
+          # pruned a stale row -- won't happen on most early-season runs (nothing
+          # is stale yet). `git add` on a pathspec matching zero files (not even as
+          # untracked) exits 128 and aborts the whole step, silently losing this
+          # run's real nfl_stats.db update too -- confirmed live 2026-09-04, the
+          # first real workflow_dispatch run hit exactly this.
+          if [ -f data/live_odds_archive.csv ]; then
+            git add data/live_odds_archive.csv
+          fi
           git diff --cached --quiet && echo "No data changes" && exit 0
           git commit -m "Weekly data pull: $(date -u +%Y-%m-%d)"
           git push
