@@ -3,10 +3,14 @@ name: Weekly data pull
 on:
   schedule:
     # 13:00 UTC = 7am America/Denver during MDT (Mar-Nov), 6am during MST
-    # (Nov-Mar, GitHub cron is fixed UTC and doesn't track DST). Wed/Fri/Sat/Sun:
-    # Wed = slate preview + opening lines, Fri = final injury designations
-    # (practice reports land Wed-Fri), Sat/Sun = line movement into kickoff.
-    - cron: "0 13 * * 3,5,6,0"
+    # (Nov-Mar, GitHub cron is fixed UTC and doesn't track DST).
+    # STANDING CADENCE as of 2026-09-05: Thursday-Monday (4,5,6,0,1), matching the CFB
+    # project's own schedule and covering every day an NFL game is actually played --
+    # Thu (TNF), Fri (final injury designations), Sat (late-season Saturday games),
+    # Sun (main slate + line movement into kickoff), Mon (MNF). Drops the previous
+    # Wednesday slate-preview/opening-lines pull (a deliberate trade -- Wednesday's own
+    # results/lines still land one day later via Thursday's pull, just not as early).
+    - cron: "0 13 * * 4,5,6,0,1"  # Thu-Mon
   workflow_dispatch: {}
 
 permissions:
