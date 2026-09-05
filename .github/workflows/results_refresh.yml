@@ -1,30 +1,49 @@
-name: Sunday results refresh
+name: Results refresh
 
 # Separate from weekly_data_pull.yml on purpose: this is JUST a results refresh
 # (fresh scores + rebuilt site), not the full daily pipeline. Deliberately does NOT
 # touch odds/injuries/snap-counts/weather/predictions/explanations -- no Claude
 # routine involved, no new predictions, and no re-pulled lines (The Odds API budget
-# is shared with the CFB project, so it's left alone here on purpose). Exists solely
-# so the site doesn't show stale scores for up to 24 hours on the NFL's biggest game
-# day.
+# is shared with the CFB project, so it's left alone here on purpose).
 #
-# 4 fixed times spanning NFL Sunday's actual kickoff windows, evenly 3h apart (times
-# in EDT; GitHub cron is fixed UTC and doesn't track DST, so these drift an hour
-# earlier in US-clock terms once EST starts in November -- same caveat as
-# weekly_data_pull.yml):
-#   4:00pm ET  (20:00 UTC Sun) -- catches the 1:00pm-kickoff early window's finals
-#   7:00pm ET  (23:00 UTC Sun) -- catches the 4:00/4:25pm-kickoff late window's finals
-#   10:00pm ET (02:00 UTC Mon) -- catches most of Sunday Night Football
-#   1:00am ET  (05:00 UTC Mon) -- catches the latest West Coast SNF finals
-# The last two land on a UTC-calendar Monday even though they're still "Sunday
-# night" in US time -- that's correct, not a bug, and separate from Monday's own
-# unrelated 13:00 UTC standing run in weekly_data_pull.yml.
+# Monday matters more than it looks: weekly_data_pull.yml's standing cadence is
+# Thu-Mon, skipping Tue/Wed entirely -- with no Monday-night catch-up, an MNF
+# result would sit stale until the FOLLOWING Thursday's run, not just overnight.
+# Sunday's own spread (early/late/SNF windows) has the same up-to-24h staleness
+# problem the Saturday-equivalent CFB refresh solves. Thursday and Friday get
+# lighter coverage since those are usually single-game (TNF) or rare (occasional
+# Friday games -- Black Friday, international slates) rather than a full slate.
+#
+# All times below in EDT; GitHub cron is fixed UTC and doesn't track DST, so these
+# drift an hour earlier in US-clock terms once EST starts in November -- same
+# caveat as weekly_data_pull.yml. A UTC day-of-week that differs from the US-time
+# day label (e.g. "1:30am ET Tuesday" landing on UTC-Tuesday but referring to a
+# Monday-night game) is correct, not a bug.
+#
+# Thursday -- TNF, single game, kickoff ~8:15pm ET:
+#   11:30pm ET (03:30 UTC Fri)
+# Friday -- rare (Black Friday game, international slates); one checkpoint is
+# enough for an irregular single-game day, harmless (no-op commit) most weeks:
+#   11:00pm ET (03:00 UTC Sat)
+# Sunday -- the main slate, early/late/SNF windows:
+#   3:30pm ET  (19:30 UTC Sun) -- catches the 1:00pm-kickoff early window's finals
+#   6:30pm ET  (22:30 UTC Sun) -- catches the 4:00/4:25pm-kickoff late window's finals
+#   9:30pm ET  (01:30 UTC Mon) -- catches most of Sunday Night Football
+#   12:30am ET (04:30 UTC Mon) -- catches the latest West Coast SNF finals
+# Monday -- MNF, kickoff ~8:15pm ET (occasionally two games early season):
+#   11:30pm ET (03:30 UTC Tue) -- catches most MNF finishes
+#   1:30am ET  (05:30 UTC Tue) -- catches West Coast MNF / overtime finishes, ahead
+#                                  of the Tue/Wed gap in the standing cadence
 on:
   schedule:
-    - cron: "0 20 * * 0"
-    - cron: "0 23 * * 0"
-    - cron: "0 2 * * 1"
-    - cron: "0 5 * * 1"
+    - cron: "30 3 * * 5"
+    - cron: "0 3 * * 6"
+    - cron: "30 19 * * 0"
+    - cron: "30 22 * * 0"
+    - cron: "30 1 * * 1"
+    - cron: "30 4 * * 1"
+    - cron: "30 3 * * 2"
+    - cron: "30 5 * * 2"
   workflow_dispatch: {}
 
 permissions:
