@@ -20,9 +20,14 @@ name: Results refresh
 # conservative as the CFB version has to be. Worst-case staleness is now a uniform
 # <=2h every single day, with no "does this day matter" judgment call left to get
 # wrong.
+#
+# Season-scoped 2026-09-10 (per user request -- no need to poll year-round when
+# there's nothing to refresh): August (preseason) through February (Super Bowl).
+# Cron's month field doesn't wrap a range across the year boundary, so it's listed
+# as two pieces, "8-12,1,2" -- same 5 months either way.
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */2 * 8-12,1,2 *"
   workflow_dispatch: {}
 
 permissions:
