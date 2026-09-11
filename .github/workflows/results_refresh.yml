@@ -6,36 +6,77 @@ name: Results refresh
 # routine involved, no new predictions, and no re-pulled lines (The Odds API budget
 # is shared with the CFB project, so it's left alone here on purpose).
 #
-# REWRITTEN 2026-09-10 after a real incident on the CFB side: that project's own
-# results_refresh.yml used a hand-picked list of day-specific checkpoints and
-# explicitly assumed "no games on day X" for some days -- which turned out to be
-# false (a real Monday CFB game sat unscored for 3 days as a result). This workflow
-# used a similar day-specific-checkpoint design (heavier on Sun/Mon, lighter on
-# Thu/Fri, nothing at all outside those 5 days) -- same fragile shape, same class of
-# risk, even though no incident had actually hit yet here. Replaced with a uniform
-# every-2-hours, every-day cron instead of trying to hand-enumerate NFL's kickoff
-# windows. Unlike CFB, there's no metered third-party API cost to weigh here --
-# scripts/backfill_schedules.py pulls from nflverse's free, unmetered, GitHub-hosted
-# schedule data (~4s per run, confirmed) -- so there's no reason to be as
-# conservative as the CFB version has to be. Worst-case staleness is now a uniform
-# <=2h every single day, with no "does this day matter" judgment call left to get
-# wrong.
+# REWRITTEN 2026-09-10 after a real incident on the CFB side (a hand-picked
+# day-of-week checkpoint list there assumed "no games on Monday," which was false
+# and left a real game unscored for 3 days). Replaced with a uniform every-2-hours,
+# every-day cron here as a first pass, since there's no metered API cost to weigh
+# for NFL (scripts/backfill_schedules.py pulls from nflverse's free, unmetered
+# schedule data) -- simplicity over hand-enumeration.
 #
-# Season-scoped 2026-09-10 (per user request -- no need to poll year-round when
-# there's nothing to refresh): August (preseason) through February (Super Bowl).
-# Cron's month field doesn't wrap a range across the year boundary, so it's listed
-# as two pieces, "8-12,1,2" -- same 5 months either way.
+# TAPERED BY DAY OF WEEK 2026-09-11, per user request (same treatment just applied to
+# the CFB sibling project), after the uniform version felt too frequent. Measured the
+# actual 2026 regular-season schedule (data/nfl_stats.db, `games` table) instead of
+# guessing: Sun 228, Thu 19, Mon 17, Fri 4, Sat 2, Wed 2, Tue 0. NFL's shape is
+# different from CFB's -- one dominant day (Sunday, ~84% of the season) plus two
+# REGULAR single-game weekly slots (TNF Thursday, MNF Monday) with predictable
+# timing, rather than CFB's broader Fri/Sat/Sun spread.
 #
-# Minute offset to :07, not :00 (2026-09-11): GitHub Actions explicitly documents
-# that scheduled workflows can be delayed or dropped during high-load periods, and
-# "high load" specifically means the top of every hour, since every repo on GitHub
-# defaults to minute-0 crons. Confirmed for real the day this went live: of the ~8
-# expected every-2h fires in a 16h window, only 2 actually ran (08:49 -- itself 49m
-# late -- and 14:13), the rest silently never fired. Not a bug in this workflow's
-# config, a known GitHub-side effect of scheduling on the busiest minute.
+# Three tiers:
+#   - Sunday (228 games): 4 checkpoints spanning early/late/SNF windows, reused from
+#     this workflow's own pre-uniform-rewrite design (already validated against real
+#     kickoff-window clustering).
+#   - Thursday/Monday (TNF/MNF, 19/17 games, same predictable ~8:15pm ET kickoff
+#     every week): 1 checkpoint each (Monday gets a 2nd, later one too, since MNF
+#     sometimes runs long or has a West Coast game).
+#   - Friday/Saturday/Wednesday/Tuesday (4/2/2/0 games): 1 checkpoint each, even
+#     Tuesday despite its real, measured zero -- the CFB incident this rewrite is
+#     named after was caused by trusting an ASSUMPTION of zero, not a measured one,
+#     but the lesson learned was to stop trusting that judgment call at all when the
+#     checkpoint is this cheap (nflverse pull has no metered cost either way).
+#     Saturday's checkpoint is month-scoped to Dec-Jan only, unlike the other rare
+#     days -- the NFL only schedules Saturday games in the season's final weeks by
+#     rule, so a Saturday checkpoint any other month would be a guaranteed no-op.
+# Net effect: 11 checkpoints/week instead of the uniform version's ~84 -- far less
+# git churn for no loss of real coverage, verified by checking every one of the 7 UTC
+# days-of-week still has at least one entry (never collapsing a day to zero, the
+# actual lesson from the CFB incident, regardless of what this week's measured count
+# for that day happens to be).
+#
+# All times below in EDT; GitHub cron is fixed UTC and doesn't track DST, so these
+# drift an hour earlier in US-clock terms once EST starts in November -- same caveat
+# as weekly_data_pull.yml. A UTC day-of-week that differs from the US-time day label
+# (e.g. Thursday's TNF checkpoint landing on UTC-Friday) is correct, not a bug -- an
+# 11pm ET checkpoint always lands on the following UTC calendar day.
+#
+# Minute offset to :13, not :00 -- GitHub Actions explicitly documents that scheduled
+# workflows can be delayed or dropped during high-load periods, and "high load"
+# specifically means the top of every hour. Confirmed for real the day the uniform
+# version went live: of ~8 expected every-2h fires in a 16h window, only 2 actually
+# ran, the rest silently never fired.
+#
+# Season-scoped (Aug-Feb) since 2026-09-10 -- no need to poll year-round when there's
+# nothing to refresh. Cron's month field doesn't wrap a range across the year
+# boundary, so it's listed as two pieces, "8-12,1,2" -- same 5 months either way.
 on:
   schedule:
-    - cron: "7 */2 * 8-12,1,2 *"
+    # Sunday -- early/late/SNF windows (3:43pm/7:13pm/10:43pm/2:13am ET)
+    - cron: "43 19 * 8-12,1,2 0"
+    - cron: "13 23 * 8-12,1,2 0"
+    - cron: "43 2 * 8-12,1,2 1"
+    - cron: "13 6 * 8-12,1,2 1"
+    # Thursday -- TNF (11:13pm ET)
+    - cron: "13 3 * 8-12,1,2 5"
+    # Monday -- MNF (11:13pm and 1:13am ET)
+    - cron: "13 3 * 8-12,1,2 2"
+    - cron: "13 5 * 8-12,1,2 2"
+    # Friday -- rare (11:13pm ET)
+    - cron: "13 3 * 8-12,1,2 6"
+    # Saturday -- rare, Dec-Jan only by rule (11:13pm ET)
+    - cron: "13 3 * 12,1 0"
+    # Wednesday -- rare (11:13pm ET)
+    - cron: "13 3 * 8-12,1,2 4"
+    # Tuesday -- measured zero this season, kept anyway (11:13pm ET, cheap and unmetered)
+    - cron: "13 3 * 8-12,1,2 3"
   workflow_dispatch: {}
 
 permissions:
@@ -61,11 +102,11 @@ jobs:
         run: python scripts/build_site.py
 
       - name: Commit and push if scores changed
-        # Retries on push rejection: now that this runs every 2h, it can genuinely
-        # collide with weekly_data_pull.yml's own push (that job runs ~13:00 UTC and
-        # takes a few minutes) -- confirmed for real 2026-09-11, a run's fresh commit
-        # was silently dropped on a bare `git push` when weekly_data_pull won the
-        # race. Rebase-and-retry instead of failing once.
+        # Retries on push rejection: can genuinely collide with weekly_data_pull.yml's
+        # own push (that job runs ~13:00 UTC and takes a few minutes) -- confirmed for
+        # real 2026-09-11, a run's fresh commit was silently dropped on a bare
+        # `git push` when weekly_data_pull won the race. Rebase-and-retry instead of
+        # failing once.
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
