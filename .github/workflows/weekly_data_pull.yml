@@ -10,7 +10,10 @@ on:
     # Sun (main slate + line movement into kickoff), Mon (MNF). Drops the previous
     # Wednesday slate-preview/opening-lines pull (a deliberate trade -- Wednesday's own
     # results/lines still land one day later via Thursday's pull, just not as early).
-    - cron: "0 13 * * 4,5,6,0,1"  # Thu-Mon
+    # Minute offset to :06, not :00 (2026-09-11): avoids GitHub Actions' documented
+    # top-of-hour scheduling congestion -- see results_refresh.yml's own comment for
+    # the real delayed/dropped-fire evidence that prompted this across both workflows.
+    - cron: "6 13 * * 4,5,6,0,1"  # Thu-Mon
   workflow_dispatch: {}
 
 permissions:

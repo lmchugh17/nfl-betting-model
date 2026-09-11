@@ -25,9 +25,17 @@ name: Results refresh
 # there's nothing to refresh): August (preseason) through February (Super Bowl).
 # Cron's month field doesn't wrap a range across the year boundary, so it's listed
 # as two pieces, "8-12,1,2" -- same 5 months either way.
+#
+# Minute offset to :07, not :00 (2026-09-11): GitHub Actions explicitly documents
+# that scheduled workflows can be delayed or dropped during high-load periods, and
+# "high load" specifically means the top of every hour, since every repo on GitHub
+# defaults to minute-0 crons. Confirmed for real the day this went live: of the ~8
+# expected every-2h fires in a 16h window, only 2 actually ran (08:49 -- itself 49m
+# late -- and 14:13), the rest silently never fired. Not a bug in this workflow's
+# config, a known GitHub-side effect of scheduling on the busiest minute.
 on:
   schedule:
-    - cron: "0 */2 * 8-12,1,2 *"
+    - cron: "7 */2 * 8-12,1,2 *"
   workflow_dispatch: {}
 
 permissions:
