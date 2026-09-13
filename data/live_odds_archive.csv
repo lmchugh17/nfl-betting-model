@@ -1,0 +1,379 @@
+odds_game_id,scraped_at,commence_time,home_team,away_team,home_team_abbr,away_team_abbr,bookmaker,market,outcome_name,price,point
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,New England Patriots,154.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,Seattle Seahawks,-185.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,New England Patriots,155.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,Seattle Seahawks,-180.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,New England Patriots,166.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,Seattle Seahawks,-198.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,New England Patriots,-108.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,Seattle Seahawks,-112.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,Seattle Seahawks,100.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Over,-102.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Under,-113.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,New England Patriots,-113.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Over,-108.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,New England Patriots,165.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,Seattle Seahawks,-195.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Over,-115.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Under,-105.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,New England Patriots,152.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,Seattle Seahawks,-197.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:08Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,New England Patriots,154.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,Seattle Seahawks,-185.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,New England Patriots,155.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,Seattle Seahawks,-180.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,New England Patriots,166.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,Seattle Seahawks,-198.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,New England Patriots,-108.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,Seattle Seahawks,-112.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,Seattle Seahawks,100.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Over,-102.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Under,-113.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,New England Patriots,-113.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Over,-108.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,New England Patriots,165.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,Seattle Seahawks,-195.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Over,-115.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Under,-105.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,New England Patriots,152.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,Seattle Seahawks,-197.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T18:10:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,New England Patriots,154.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,Seattle Seahawks,-185.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,New England Patriots,155.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,Seattle Seahawks,-180.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,New England Patriots,166.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,Seattle Seahawks,-198.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,New England Patriots,-108.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,Seattle Seahawks,-112.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,Seattle Seahawks,100.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Over,-102.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Under,-113.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,New England Patriots,-113.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Over,-108.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,New England Patriots,165.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,Seattle Seahawks,-195.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Over,-115.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Under,-105.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,New England Patriots,152.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,Seattle Seahawks,-197.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:11:22Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,New England Patriots,154.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,Seattle Seahawks,-185.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,New England Patriots,155.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,Seattle Seahawks,-180.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,New England Patriots,166.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,Seattle Seahawks,-198.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,New England Patriots,-108.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,Seattle Seahawks,-112.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,Seattle Seahawks,100.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Over,-102.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Under,-113.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,New England Patriots,-113.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Over,-108.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,New England Patriots,165.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,Seattle Seahawks,-195.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Over,-115.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Under,-105.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,New England Patriots,152.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,Seattle Seahawks,-197.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-04T20:18:58Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,New England Patriots,150.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,Seattle Seahawks,-180.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,New England Patriots,155.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,Seattle Seahawks,-180.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,New England Patriots,154.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,Seattle Seahawks,-184.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,New England Patriots,-114.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,Seattle Seahawks,-106.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,Seattle Seahawks,100.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Over,-102.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Under,-113.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,New England Patriots,-113.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,New England Patriots,-112.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Under,-112.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,New England Patriots,165.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,Seattle Seahawks,-195.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Over,-115.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Under,-105.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,New England Patriots,150.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,Seattle Seahawks,-194.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-05T15:48:52Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,New England Patriots,145.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,Seattle Seahawks,-175.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,New England Patriots,155.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,Seattle Seahawks,-180.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,New England Patriots,-120.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,Seattle Seahawks,100.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,New England Patriots,152.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,Seattle Seahawks,-180.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,New England Patriots,-114.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,Seattle Seahawks,-106.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,New England Patriots,-116.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,Seattle Seahawks,105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Over,-102.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Under,-113.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,Seattle Seahawks,-181.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,New England Patriots,-120.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,Seattle Seahawks,100.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,New England Patriots,-113.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,Seattle Seahawks,-190.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,New England Patriots,-112.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Over,-108.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,Seattle Seahawks,-185.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Over,-115.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Under,-105.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,New England Patriots,147.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,Seattle Seahawks,-190.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-06T16:00:35Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,New England Patriots,150.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,h2h,Seattle Seahawks,-180.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,New England Patriots,-118.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,spreads,Seattle Seahawks,-102.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,draftkings,totals,Under,-115.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,New England Patriots,150.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,h2h,Seattle Seahawks,-175.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,New England Patriots,-120.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,spreads,Seattle Seahawks,100.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betus,totals,Under,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,New England Patriots,158.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,h2h,Seattle Seahawks,-188.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,New England Patriots,-112.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,fanduel,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,New England Patriots,155.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,h2h,Seattle Seahawks,-177.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,New England Patriots,-114.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,spreads,Seattle Seahawks,103.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Over,-107.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,lowvig,totals,Under,-107.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,New England Patriots,155.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,h2h,Seattle Seahawks,-177.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,New England Patriots,-118.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,spreads,Seattle Seahawks,-102.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betonlineag,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,h2h,Seattle Seahawks,-200.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,New England Patriots,-113.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,spreads,Seattle Seahawks,-108.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Over,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betrivers,totals,Under,-110.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,New England Patriots,155.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,h2h,Seattle Seahawks,-190.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,New England Patriots,-112.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Over,-105.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,betmgm,totals,Under,-112.0,44.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,New England Patriots,160.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,h2h,Seattle Seahawks,-185.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,New England Patriots,-115.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,spreads,Seattle Seahawks,-105.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Over,-115.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,bovada,totals,Under,-105.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,New England Patriots,150.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,h2h,Seattle Seahawks,-186.0,
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,New England Patriots,-110.0,3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,Seattle Seahawks,-110.0,-3.5
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Over,-110.0,44.0
+8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Under,-110.0,44.0
