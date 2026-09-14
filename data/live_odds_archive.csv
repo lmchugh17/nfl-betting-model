@@ -377,3 +377,435 @@ odds_game_id,scraped_at,commence_time,home_team,away_team,home_team_abbr,away_te
 8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,spreads,Seattle Seahawks,-110.0,-3.5
 8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Over,-110.0,44.0
 8c94552d022acec4a0458d70c19d3da9,2026-09-07T18:08:19Z,2026-09-10T00:20:00Z,Seattle Seahawks,New England Patriots,SEA,NE,mybookieag,totals,Under,-110.0,44.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,Los Angeles Rams,-198.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,Los Angeles Rams,-210.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Over,-108.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,Los Angeles Rams,-196.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,Los Angeles Rams,-115.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,San Francisco 49ers,177.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,San Francisco 49ers,177.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,Los Angeles Rams,-105.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,San Francisco 49ers,-105.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Over,-113.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Under,-102.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,Los Angeles Rams,-113.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Over,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,Los Angeles Rams,-220.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,San Francisco 49ers,180.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,San Francisco 49ers,175.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,Los Angeles Rams,-212.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,San Francisco 49ers,163.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:08Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,Los Angeles Rams,-198.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,Los Angeles Rams,-210.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Over,-108.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,Los Angeles Rams,-196.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,Los Angeles Rams,-115.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,San Francisco 49ers,177.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,San Francisco 49ers,177.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,Los Angeles Rams,-105.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,San Francisco 49ers,-105.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Over,-113.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Under,-102.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,Los Angeles Rams,-113.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Over,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,Los Angeles Rams,-220.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,San Francisco 49ers,180.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,San Francisco 49ers,175.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,Los Angeles Rams,-212.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,San Francisco 49ers,163.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T18:10:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,Los Angeles Rams,-198.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,Los Angeles Rams,-210.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Over,-108.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,Los Angeles Rams,-196.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,Los Angeles Rams,-115.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,San Francisco 49ers,177.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,San Francisco 49ers,177.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,Los Angeles Rams,-105.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,San Francisco 49ers,-105.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Over,-113.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Under,-102.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,Los Angeles Rams,-113.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Over,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,Los Angeles Rams,-220.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,San Francisco 49ers,180.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,Los Angeles Rams,-200.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,Los Angeles Rams,-212.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,San Francisco 49ers,163.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:11:22Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,Los Angeles Rams,-198.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,Los Angeles Rams,-210.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Over,-108.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,Los Angeles Rams,-196.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,Los Angeles Rams,-115.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,San Francisco 49ers,177.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,San Francisco 49ers,177.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,Los Angeles Rams,-105.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,San Francisco 49ers,-105.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Over,-113.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Under,-102.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,Los Angeles Rams,-113.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Over,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,Los Angeles Rams,-220.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,San Francisco 49ers,180.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,Los Angeles Rams,-200.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,Los Angeles Rams,-212.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,San Francisco 49ers,163.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-04T20:18:58Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,Los Angeles Rams,-192.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,Los Angeles Rams,-200.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Over,-108.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,Los Angeles Rams,-196.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,Los Angeles Rams,-115.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,Los Angeles Rams,-190.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,San Francisco 49ers,165.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,Los Angeles Rams,-190.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,San Francisco 49ers,165.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,Los Angeles Rams,-105.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Over,-113.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Under,-102.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,Los Angeles Rams,-113.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Over,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,Los Angeles Rams,-200.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,Los Angeles Rams,-200.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,Los Angeles Rams,-208.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,Los Angeles Rams,-110.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,San Francisco 49ers,-110.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-05T15:48:52Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,Los Angeles Rams,-192.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,Los Angeles Rams,-108.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,San Francisco 49ers,-112.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,Los Angeles Rams,-200.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Over,-108.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,Los Angeles Rams,-196.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,Los Angeles Rams,-115.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,Los Angeles Rams,-190.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,San Francisco 49ers,165.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,Los Angeles Rams,-190.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,San Francisco 49ers,165.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,Los Angeles Rams,-105.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Over,-113.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Under,-102.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,Los Angeles Rams,-113.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Over,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,Los Angeles Rams,-195.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,San Francisco 49ers,165.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,Los Angeles Rams,-105.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,San Francisco 49ers,-115.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,Los Angeles Rams,-195.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,San Francisco 49ers,167.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,Los Angeles Rams,-197.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,San Francisco 49ers,152.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-06T16:00:35Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,Los Angeles Rams,-185.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,San Francisco 49ers,154.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,Los Angeles Rams,-108.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,San Francisco 49ers,-112.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,Los Angeles Rams,-190.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Over,-108.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,Los Angeles Rams,-196.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,San Francisco 49ers,164.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,Los Angeles Rams,-114.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,San Francisco 49ers,-106.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,Los Angeles Rams,-185.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,San Francisco 49ers,161.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,Los Angeles Rams,-185.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,San Francisco 49ers,161.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,Los Angeles Rams,-105.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Over,-113.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Under,-102.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,Los Angeles Rams,-205.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,Los Angeles Rams,-113.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Over,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Under,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,Los Angeles Rams,-200.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,Los Angeles Rams,-115.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,Los Angeles Rams,-195.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,San Francisco 49ers,167.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,Los Angeles Rams,-197.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,San Francisco 49ers,152.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-07T18:08:19Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Under,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,Los Angeles Rams,-192.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,h2h,San Francisco 49ers,160.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,draftkings,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,Los Angeles Rams,-200.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,h2h,San Francisco 49ers,165.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,Los Angeles Rams,-105.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Over,-110.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betmgm,totals,Under,-118.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,Los Angeles Rams,-198.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,h2h,San Francisco 49ers,166.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Over,-105.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,fanduel,totals,Under,-115.0,48.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,Los Angeles Rams,-195.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,Los Angeles Rams,-112.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,spreads,San Francisco 49ers,-108.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betonlineag,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,Los Angeles Rams,-195.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,Los Angeles Rams,-107.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,spreads,San Francisco 49ers,-103.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,lowvig,totals,Under,-104.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,Los Angeles Rams,-210.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,Los Angeles Rams,-108.0,-4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,spreads,San Francisco 49ers,-113.0,4.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Over,-112.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betrivers,totals,Under,-109.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,Los Angeles Rams,-200.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,h2h,San Francisco 49ers,170.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,Los Angeles Rams,-115.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,spreads,San Francisco 49ers,-105.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,bovada,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,Los Angeles Rams,-195.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,h2h,San Francisco 49ers,167.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Over,-115.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,betus,totals,Under,-105.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,Los Angeles Rams,-204.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,h2h,San Francisco 49ers,163.0,
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,Los Angeles Rams,-110.0,-3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,spreads,San Francisco 49ers,-110.0,3.5
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Over,-110.0,48.0
+acc580d74344ea3b31bbcdd057fe6a9c,2026-09-10T16:55:13Z,2026-09-11T00:35:00Z,Los Angeles Rams,San Francisco 49ers,LA,SF,mybookieag,totals,Under,-110.0,48.0
