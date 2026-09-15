@@ -133,6 +133,30 @@ def _prior_coach(completed: list[dict], team: str, season: int) -> str | None:
     return last["home_coach"] if last["home_team"] == team else last["away_coach"]
 
 
+def injury_report_week(conn, season: int, week: int, team: str) -> int:
+    """Which week's injury report to read for this team's game: this week's if it's
+    out, otherwise the team's most recent earlier week that has one. Without this, a
+    game predicted before its report publishes (Mon-Wed for most of the slate) reads
+    as injury_burden 0.0, i.e. fully healthy -- and a prediction shouldn't wait on
+    the report. Measured on 2016-2025 game_features: the team's last-game burden
+    misses the real report by 0.90 on average (0 misses by 4.05, the training median
+    by 2.08), and on the 2025 holdout it gives margin MAE 10.39 vs 10.66 for 0
+    (10.36 with the real report).
+
+    Checked per team, not league-wide: reports roll out team by team (on 2026-09-10
+    the Week 1 report covered 30 teams; DEN/KC, the Monday-night pair, weren't in
+    yet). A team with a game but no report rows at all is rare (7 of 5,278
+    team-weeks, 2016-2025), so this almost never overrides a genuinely clean report.
+    Returns `week` itself (the old behavior) when the team has no report yet this
+    season. Live prediction only -- build_features.py's training rows always have
+    the real report."""
+    row = conn.execute(
+        "SELECT MAX(week) FROM injuries WHERE season = ? AND team = ? AND week <= ?",
+        (season, team, week),
+    ).fetchone()
+    return row[0] if row and row[0] is not None else week
+
+
 def load_all_games(conn) -> list[dict]:
     rows = conn.execute("""
         SELECT game_id, season, week, season_type, gameday, weekday, gametime,
@@ -217,8 +241,10 @@ def main():
         home_ats_pct, home_ats_n = current_ats.get(home, (None, 0))
         away_ats_pct, away_ats_n = current_ats.get(away, (None, 0))
 
-        ib_home = injury_burden(stats_conn, g["season"], g["week"], home)
-        ib_away = injury_burden(stats_conn, g["season"], g["week"], away)
+        home_report_week = injury_report_week(stats_conn, g["season"], g["week"], home)
+        away_report_week = injury_report_week(stats_conn, g["season"], g["week"], away)
+        ib_home = injury_burden(stats_conn, g["season"], home_report_week, home)
+        ib_away = injury_burden(stats_conn, g["season"], away_report_week, away)
         qb_home = qb_situation(stats_conn, g["season"], g["week"], home, g["home_qb_id"])
         qb_away = qb_situation(stats_conn, g["season"], g["week"], away, g["away_qb_id"])
 
@@ -244,6 +270,9 @@ def main():
             "away_new_hc": compute_new_hc(completed, away, g["season"]),
             "home_injury_burden": ib_home["burden"], "away_injury_burden": ib_away["burden"],
             "home_injury_out": ib_home["out_starters"], "away_injury_out": ib_away["out_starters"],
+            # None when this week's report was used; the stand-in week otherwise
+            "home_injury_fallback_week": home_report_week if home_report_week != g["week"] else None,
+            "away_injury_fallback_week": away_report_week if away_report_week != g["week"] else None,
             "home_qb_backup_starting": int(qb_home["backup_starting"]),
             "away_qb_backup_starting": int(qb_away["backup_starting"]),
             "home_qb_trailing_share": qb_home["projected_qb_trailing_share"],
@@ -299,6 +328,11 @@ def main():
             print(f"NOTE: recent-form/ATS%/opponent-SRS stats include prior-season games -- "
                   f"the less-experienced team has only played {row['min_current_season_games']} "
                   f"game(s) so far this season (need {FULL_SEASON_WINDOW} for a fully current window).")
+        for side in ("home", "away"):
+            fallback_week = row[f"{side}_injury_fallback_week"]
+            if pd.notna(fallback_week):
+                print(f"NOTE: {row[f'{side}_team']}'s Week {g['week']} injury report isn't out yet -- "
+                      f"injury burden uses its Week {int(fallback_week)} report instead.")
         print("Per-model win probability (home team):")
         for name, probs in detailed["base"].items():
             print(f"  {name}: {probs[i]:.0%}")

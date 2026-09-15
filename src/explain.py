@@ -26,6 +26,9 @@ Optional, richer-if-present:
   - home_injury_out / away_injury_out  (list[str] of player names -- from
     src.availability.injury_burden()['out_starters']; falls back to a generic
     sentence using just the burden score if omitted)
+  - home_injury_fallback_week / away_injury_fallback_week  (int or None -- set when
+    predict_games.py read an earlier week's report because this week's isn't out;
+    the injury sentence then says which week it came from)
 """
 import pandas as pd
 import xgboost as xgb
@@ -213,10 +216,13 @@ def _describe_feature(feature: str, row: dict, home_team: str, away_team: str) -
         if not burden:
             return None
         out = g("home_injury_out" if feature == "home_injury_burden" else "away_injury_out")
+        fallback_week = g("home_injury_fallback_week" if feature == "home_injury_burden" else "away_injury_fallback_week")
+        as_of = (f" (per its Week {int(fallback_week)} injury report -- this week's isn't out yet)"
+                 if fallback_week is not None and pd.notna(fallback_week) else "")
         if out:
             names = ", ".join(out[:3]) + (f" and {len(out) - 3} other{'s' if len(out) - 3 != 1 else ''}" if len(out) > 3 else "")
-            return f"{team} is missing key contributors: {names}."
-        return f"{team} is dealing with more starter unavailability than usual this week."
+            return f"{team} is missing key contributors: {names}{as_of}."
+        return f"{team} is dealing with more starter unavailability than usual this week{as_of}."
     if feature in ("home_qb_backup_starting", "away_qb_backup_starting"):
         is_home = feature == "home_qb_backup_starting"
         if not g(feature):
