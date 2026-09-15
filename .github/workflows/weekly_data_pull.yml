@@ -14,6 +14,16 @@ on:
     # top-of-hour scheduling congestion -- see results_refresh.yml's own comment for
     # the real delayed/dropped-fire evidence that prompted this across both workflows.
     - cron: "6 13 * * 4,5,6,0,1"  # Thu-Mon
+    # Wednesday REDUNDANCY pull (2026-09-14), in-season only (Aug-Feb). Not a return to the
+    # old Wednesday slate-preview pull: it skips The Odds API (see the odds step's `if`), so
+    # it costs no credits from the budget shared with the CFB project. What it buys: a failed
+    # Monday pull gets recovered before Thursday instead of leaving nothing fresh until
+    # Thursday afternoon, and Thursday's first gated routine run (15:05 UTC) opens on
+    # Wednesday's schedules/injuries/weather instead of Monday's -- this pull has landed
+    # 2h41m-5h26m late (2026-09-05 to 09-14), so Thursday's own pull often isn't in by then.
+    # The commit message stays "Weekly data pull:" on purpose -- the routine's gate keys on it.
+    # If you change this cron string, change the odds step's `if` to match exactly.
+    - cron: "6 13 * 8-12,1,2 3"  # Wed, no odds
   workflow_dispatch: {}
 
 permissions:
@@ -45,6 +55,9 @@ jobs:
         run: python scripts/scrape_injuries.py
 
       - name: Pull live odds
+        # Skipped on the Wednesday redundancy schedule only (credits); still runs on the
+        # Thu-Mon schedule and on workflow_dispatch, where github.event.schedule is empty.
+        if: github.event.schedule != '6 13 * 8-12,1,2 3'
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python scripts/pull_odds.py
