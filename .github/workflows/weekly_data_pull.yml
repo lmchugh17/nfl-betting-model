@@ -24,6 +24,15 @@ on:
     # The commit message stays "Weekly data pull:" on purpose -- the routine's gate keys on it.
     # If you change this cron string, change the odds step's `if` to match exactly.
     - cron: "6 13 * 8-12,1,2 3"  # Wed, no odds
+    # THANKSGIVING 2026 exception (added 2026-09-14): an early extra pull on Thu 11-26,
+    # odds included. CHI @ DET kicks off 13:00 ET = 18:00 UTC, but the regular 13:06 UTC
+    # pull has landed as late as 18:32 UTC, so without this the game would keep a pick
+    # from Wednesday's data. 09:06 UTC leaves room for an 8h delay before the routine's
+    # last pre-kickoff try (17:05 UTC). The regular 13:06 pull still runs afterwards
+    # and refreshes PHI @ DAL (21:30 UTC) and KC @ BUF (01:20 UTC Fri). Also picks up
+    # Wednesday night's GB @ LA score early. Day-of-month cron, so it fires every Nov 26:
+    # update the date for next season's Thanksgiving or remove it.
+    - cron: "6 9 26 11 *"  # Thanksgiving 2026 early pull
   workflow_dispatch: {}
 
 permissions:
