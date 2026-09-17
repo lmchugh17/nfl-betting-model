@@ -232,7 +232,7 @@ def _describe_feature(feature: str, row: dict, home_team: str, away_team: str) -
         share = g("home_qb_trailing_share" if is_home else "away_qb_trailing_share")
         if qb_name is None:
             return f"{team} is not starting its usual quarterback this week."
-        if share is not None:
+        if pd.notna(share):
             return f"{team} starts {qb_name} at quarterback, not its usual starter (only {share:.0%} of recent offensive snaps)."
         return f"{team} starts {qb_name} at quarterback, not its usual starter."
     if feature in ("home_qb_trailing_share", "away_qb_trailing_share"):
