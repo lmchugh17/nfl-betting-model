@@ -8,6 +8,10 @@
   :root {
     --bg: #0f1115; --card: #171a21; --border: #262b36; --text: #e8eaed;
     --text-dim: #9aa1ac; --accent: #4f8cff; --green: #3ddc84; --red: #ff6161; --amber: #ffb84f;
+    /* --accent/--accent-bg/--stripe* are swapped by the team-color picker; --market is the chart
+       color for the market's own numbers and never changes, so a team theme can't blur it with
+       the model's green. */
+    --accent-bg: rgba(79,140,255,0.12); --stripe1: #4f8cff; --stripe2: #4f8cff; --market: #4f8cff;
   }
   * { box-sizing: border-box; }
   body {
@@ -65,15 +69,15 @@
   .legend-model { background: var(--green); }
   .legend-baseline { background: var(--amber); height: 2px; width: 12px; border-radius: 0; align-self: center; }
   .legend-ref { background: none; border-top: 1px dashed var(--text-dim); height: 0; width: 12px; border-radius: 0; align-self: center; }
-  .legend-market-sw { background: var(--accent); }
+  .legend-market-sw { background: var(--market); }
   .pair-col { display: flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: 76px; }
   .pair-values { font-size: 0.68rem; color: var(--text-dim); margin-bottom: 0.3rem; white-space: nowrap; }
   .pair-model-text { color: var(--green); }
-  .pair-market-text { color: var(--accent); }
+  .pair-market-text { color: var(--market); }
   .pair-tracks { display: flex; gap: 4px; }
   .pair-track { width: 22px; }
   .pair-model-fill { background: var(--green); }
-  .pair-market-fill { background: var(--accent); }
+  .pair-market-fill { background: var(--market); }
   .table-wrap { overflow-x: auto; margin-bottom: 1rem; }
   .weekly-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
   .weekly-table th, .weekly-table td { padding: 0.6rem 0.9rem; text-align: left; white-space: nowrap; }
@@ -91,18 +95,23 @@
   }
   .tabs { display: flex; gap: 0.5rem; margin: 1rem 0 1.25rem; }
   .tab-btn { background: var(--card); color: var(--text-dim); border: 1px solid var(--border); border-radius: 8px; padding: 0.5rem 1rem; font-size: 0.85rem; font-family: inherit; cursor: pointer; }
-  .tab-btn.active { color: var(--text); border-color: var(--accent); background: rgba(79,140,255,0.12); }
+  .tab-btn.active { color: var(--text); border-color: var(--accent); background: var(--accent-bg); }
   .tab-panel[hidden] { display: none; }
   .seg-toggle { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0 0 1rem; }
   .seg-btn { background: var(--card); color: var(--text-dim); border: 1px solid var(--border); border-radius: 8px; padding: 0.4rem 0.9rem; font-size: 0.8rem; font-family: inherit; cursor: pointer; }
-  .seg-btn.active { color: var(--text); border-color: var(--accent); background: rgba(79,140,255,0.12); }
+  .seg-btn.active { color: var(--text); border-color: var(--accent); background: var(--accent-bg); }
+  .team-stripe { height: 5px; margin: 0 -1rem; background: linear-gradient(90deg, var(--stripe1) 0 70%, var(--stripe2) 70% 100%); }
+  .theme-picker { display: inline-flex; align-items: center; gap: 0.4rem; margin-top: 0.9rem; font-size: 0.8rem; color: var(--text-dim); }
+  .theme-picker select { background: var(--card); color: var(--text); border: 1px solid var(--border); border-radius: 6px; padding: 0.3rem 0.5rem; font-size: 0.8rem; font-family: inherit; max-width: 60vw; }
+  .theme-picker select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  h1 { border-left: 4px solid var(--accent); padding-left: 0.6rem; }
   .perf-panel[hidden] { display: none; }
-  /* Four columns at 375px: drop each percentage onto its own line and let names wrap,
-     so the table fits without sideways scrolling (same fix as the CFB site). */
+  /* Record tables at 375px: drop each percentage onto its own line and let the first column
+     wrap ("2025 Conference Championship"), so they fit without sideways scrolling. */
   @media (max-width: 520px) {
-    .group-table th, .group-table td { padding: 0.5rem 0.5rem; }
-    .group-table td:first-child { white-space: normal; }
-    .group-table .pct { display: block; color: var(--text-dim); font-size: 0.75rem; }
+    .weekly-table th, .weekly-table td { padding: 0.5rem 0.5rem; }
+    .weekly-table td:first-child { white-space: normal; }
+    .weekly-table .pct { display: block; color: var(--text-dim); font-size: 0.75rem; }
   }
   .week-group { background: var(--card); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 1rem; overflow: hidden; }
   .week-group summary { cursor: pointer; list-style: none; padding: 0.9rem 1.1rem; font-weight: 600; font-size: 0.95rem; display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; }
@@ -117,10 +126,14 @@
 </style>
 </head>
 <body>
+<div class="team-stripe" aria-hidden="true"></div>
 <div class="wrap">
   <header>
     <h1>NFL Betting Model</h1>
     <p class="tagline">Opponent-adjusted NFL predictions vs. the market. Personal research project, not financial advice.</p>
+    <label class="theme-picker">Team colors
+      <select id="theme-select"><option value="">Default</option><option value="ARI">Arizona Cardinals</option><option value="ATL">Atlanta Falcons</option><option value="BAL">Baltimore Ravens</option><option value="BUF">Buffalo Bills</option><option value="CAR">Carolina Panthers</option><option value="CHI">Chicago Bears</option><option value="CIN">Cincinnati Bengals</option><option value="CLE">Cleveland Browns</option><option value="DAL">Dallas Cowboys</option><option value="DEN">Denver Broncos</option><option value="DET">Detroit Lions</option><option value="GB">Green Bay Packers</option><option value="HOU">Houston Texans</option><option value="IND">Indianapolis Colts</option><option value="JAX">Jacksonville Jaguars</option><option value="KC">Kansas City Chiefs</option><option value="LV">Las Vegas Raiders</option><option value="LAC">Los Angeles Chargers</option><option value="LA">Los Angeles Rams</option><option value="MIA">Miami Dolphins</option><option value="MIN">Minnesota Vikings</option><option value="NE">New England Patriots</option><option value="NO">New Orleans Saints</option><option value="NYG">New York Giants</option><option value="NYJ">New York Jets</option><option value="PHI">Philadelphia Eagles</option><option value="PIT">Pittsburgh Steelers</option><option value="SF">San Francisco 49ers</option><option value="SEA">Seattle Seahawks</option><option value="TB">Tampa Bay Buccaneers</option><option value="TEN">Tennessee Titans</option><option value="WAS">Washington Commanders</option></select>
+    </label>
   </header>
 
   <div class="stats-row"><div class="stat-tile"><div class="stat-value">20</div><div class="stat-label">Picks Tracked</div></div><div class="stat-tile"><div class="stat-value">14/20</div><div class="stat-label">Moneyline (Straight-Up)</div></div><div class="stat-tile"><div class="stat-value">8-11-1</div><div class="stat-label">Against the Spread</div></div><div class="stat-tile"><div class="stat-value">11.2 pts<sup class="stat-marker">&sect;</sup></div><div class="stat-label">Avg. Margin Error</div></div><div class="stat-tile"><div class="stat-value">$369.54</div><div class="stat-label">Paper Bankroll</div></div></div>
@@ -133,7 +146,7 @@
   </div>
   <div id="perf-week" class="perf-panel"><div class="table-wrap"><table class="weekly-table">
       <thead><tr><th>Week</th><th>Moneyline</th><th>Spread</th></tr></thead>
-      <tbody><tr><td>2026 Week 2</td><td>1-0 (100%)</td><td>1-0-0</td></tr><tr><td>2026 Week 1</td><td>11-5 (69%)</td><td>5-10-1</td></tr><tr><td>2025 Super Bowl</td><td>0-1 (0%)</td><td>0-1-0</td></tr><tr><td>2025 Conference Championship</td><td>1-0 (100%)</td><td>1-0-0</td></tr><tr><td>2025 Divisional</td><td>1-0 (100%)</td><td>1-0-0</td></tr></tbody>
+      <tbody><tr><td>2026 Week 2</td><td>1-0 <span class="pct">(100%)</span></td><td>1-0-0</td></tr><tr><td>2026 Week 1</td><td>11-5 <span class="pct">(69%)</span></td><td>5-10-1</td></tr><tr><td>2025 Super Bowl</td><td>0-1 <span class="pct">(0%)</span></td><td>0-1-0</td></tr><tr><td>2025 Conference Championship</td><td>1-0 <span class="pct">(100%)</span></td><td>1-0-0</td></tr><tr><td>2025 Divisional</td><td>1-0 <span class="pct">(100%)</span></td><td>1-0-0</td></tr></tbody>
     </table></div></div>
   <div id="perf-division" class="perf-panel" hidden>
     <div class="table-wrap"><table class="weekly-table group-table">
@@ -864,7 +877,7 @@
     calculation (about 1.7 points of expected margin), an unvalidated placeholder rather than a measured
     home-field value, same caveat as the confidence tiers above -- except in 2020, when it's zeroed out
     entirely to reflect the season played with no/minimal fans leaguewide.</p>
-    <p>Generated 2026-09-19 20:54 UTC.</p>
+    <p>Generated 2026-09-19 21:01 UTC.</p>
   </footer>
 </div>
 <script>
@@ -904,6 +917,29 @@
       document.querySelectorAll('.tab-panel').forEach(function(p) { p.hidden = true; });
       document.getElementById('tab-' + btn.dataset.tab).hidden = false;
     });
+  });
+})();
+(function() {
+  var THEMES = [{"team": "ARI", "name": "Arizona Cardinals", "accent": "#bb7082", "accentBg": "rgba(187,112,130,0.14)", "stripe1": "#97233f", "stripe2": "#000000"}, {"team": "ATL", "name": "Atlanta Falcons", "accent": "#c66a78", "accentBg": "rgba(198,106,120,0.14)", "stripe1": "#a71930", "stripe2": "#000000"}, {"team": "BAL", "name": "Baltimore Ravens", "accent": "#a38318", "accentBg": "rgba(163,131,24,0.14)", "stripe1": "#241773", "stripe2": "#9e7c0c"}, {"team": "BUF", "name": "Buffalo Bills", "accent": "#da6178", "accentBg": "rgba(218,97,120,0.14)", "stripe1": "#00338d", "stripe2": "#c60c30"}, {"team": "CAR", "name": "Carolina Panthers", "accent": "#0d8bcd", "accentBg": "rgba(13,139,205,0.14)", "stripe1": "#0085ca", "stripe2": "#000000"}, {"team": "CHI", "name": "Chicago Bears", "accent": "#e8541a", "accentBg": "rgba(232,84,26,0.14)", "stripe1": "#0b162a", "stripe2": "#e64100"}, {"team": "CIN", "name": "Cincinnati Bengals", "accent": "#fb4f14", "accentBg": "rgba(251,79,20,0.14)", "stripe1": "#fb4f14", "stripe2": "#000000"}, {"team": "CLE", "name": "Cleveland Browns", "accent": "#ff3c00", "accentBg": "rgba(255,60,0,0.14)", "stripe1": "#ff3c00", "stripe2": "#311d00"}, {"team": "DAL", "name": "Dallas Cowboys", "accent": "#738598", "accentBg": "rgba(115,133,152,0.14)", "stripe1": "#002244", "stripe2": "#b0b7bc"}, {"team": "DEN", "name": "Denver Broncos", "accent": "#fb4f14", "accentBg": "rgba(251,79,20,0.14)", "stripe1": "#002244", "stripe2": "#fb4f14"}, {"team": "DET", "name": "Detroit Lions", "accent": "#268bc1", "accentBg": "rgba(38,139,193,0.14)", "stripe1": "#0076b6", "stripe2": "#b0b7bc"}, {"team": "GB", "name": "Green Bay Packers", "accent": "#ffb612", "accentBg": "rgba(255,182,18,0.14)", "stripe1": "#203731", "stripe2": "#ffb612"}, {"team": "HOU", "name": "Houston Texans", "accent": "#c66a78", "accentBg": "rgba(198,106,120,0.14)", "stripe1": "#03202f", "stripe2": "#a71930"}, {"team": "IND", "name": "Indianapolis Colts", "accent": "#738ba7", "accentBg": "rgba(115,139,167,0.14)", "stripe1": "#002c5f", "stripe2": "#a5acaf"}, {"team": "JAX", "name": "Jacksonville Jaguars", "accent": "#408d9a", "accentBg": "rgba(64,141,154,0.14)", "stripe1": "#006778", "stripe2": "#000000"}, {"team": "KC", "name": "Kansas City Chiefs", "accent": "#e9465f", "accentBg": "rgba(233,70,95,0.14)", "stripe1": "#e31837", "stripe2": "#ffb612"}, {"team": "LV", "name": "Las Vegas Raiders", "accent": "#8c8c8c", "accentBg": "rgba(140,140,140,0.14)", "stripe1": "#000000", "stripe2": "#a5acaf"}, {"team": "LAC", "name": "Los Angeles Chargers", "accent": "#1a88cd", "accentBg": "rgba(26,136,205,0.14)", "stripe1": "#007bc7", "stripe2": "#ffc20e"}, {"team": "LA", "name": "Los Angeles Rams", "accent": "#ffd100", "accentBg": "rgba(255,209,0,0.14)", "stripe1": "#003594", "stripe2": "#ffd100"}, {"team": "MIA", "name": "Miami Dolphins", "accent": "#0d949c", "accentBg": "rgba(13,148,156,0.14)", "stripe1": "#008e97", "stripe2": "#f58220"}, {"team": "MIN", "name": "Minnesota Vikings", "accent": "#ffc62f", "accentBg": "rgba(255,198,47,0.14)", "stripe1": "#4f2683", "stripe2": "#ffc62f"}, {"team": "NE", "name": "New England Patriots", "accent": "#da6178", "accentBg": "rgba(218,97,120,0.14)", "stripe1": "#002244", "stripe2": "#c60c30"}, {"team": "NO", "name": "New Orleans Saints", "accent": "#d3bc8d", "accentBg": "rgba(211,188,141,0.14)", "stripe1": "#d3bc8d", "stripe2": "#000000"}, {"team": "NYG", "name": "New York Giants", "accent": "#c66a78", "accentBg": "rgba(198,106,120,0.14)", "stripe1": "#0b2265", "stripe2": "#a71930"}, {"team": "NYJ", "name": "New York Jets", "accent": "#668c81", "accentBg": "rgba(102,140,129,0.14)", "stripe1": "#003f2d", "stripe2": "#000000"}, {"team": "PHI", "name": "Philadelphia Eagles", "accent": "#598b90", "accentBg": "rgba(89,139,144,0.14)", "stripe1": "#004c54", "stripe2": "#a5acaf"}, {"team": "PIT", "name": "Pittsburgh Steelers", "accent": "#ffb612", "accentBg": "rgba(255,182,18,0.14)", "stripe1": "#000000", "stripe2": "#ffb612"}, {"team": "SF", "name": "San Francisco 49ers", "accent": "#b3995d", "accentBg": "rgba(179,153,93,0.14)", "stripe1": "#aa0000", "stripe2": "#b3995d"}, {"team": "SEA", "name": "Seattle Seahawks", "accent": "#69be28", "accentBg": "rgba(105,190,40,0.14)", "stripe1": "#002244", "stripe2": "#69be28"}, {"team": "TB", "name": "Tampa Bay Buccaneers", "accent": "#c66a78", "accentBg": "rgba(198,106,120,0.14)", "stripe1": "#a71930", "stripe2": "#322f2b"}, {"team": "TEN", "name": "Tennessee Titans", "accent": "#4495d2", "accentBg": "rgba(68,149,210,0.14)", "stripe1": "#4495d2", "stripe2": "#d50a0a"}, {"team": "WAS", "name": "Washington Commanders", "accent": "#ffb612", "accentBg": "rgba(255,182,18,0.14)", "stripe1": "#5a1414", "stripe2": "#ffb612"}];
+  var sel = document.getElementById('theme-select');
+  if (!sel) return;
+  var root = document.documentElement;
+  var KEY = 'nfl-team-theme';
+  var VARS = {'--accent': 'accent', '--accent-bg': 'accentBg', '--stripe1': 'stripe1', '--stripe2': 'stripe2'};
+  function apply(team) {
+    var theme = null;
+    for (var i = 0; i < THEMES.length; i++) if (THEMES[i].team === team) theme = THEMES[i];
+    Object.keys(VARS).forEach(function(v) {
+      if (theme) root.style.setProperty(v, theme[VARS[v]]); else root.style.removeProperty(v);
+    });
+    sel.value = theme ? team : '';
+  }
+  var saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  if (saved) apply(saved);
+  sel.addEventListener('change', function() {
+    apply(sel.value);
+    try { if (sel.value) localStorage.setItem(KEY, sel.value); else localStorage.removeItem(KEY); } catch (e) {}
   });
 })();
 (function() {
