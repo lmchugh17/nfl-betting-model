@@ -10,13 +10,16 @@ passing an already-completed game_id predicts it using only what was knowable
 beforehand -- an honest backtest -- while a genuinely upcoming game_id just
 predicts normally. Same pattern as the CFB build.
 
-Usage: .venv/bin/python scripts/predict_games.py <game_id> [<game_id> ...]
+Usage: .venv/bin/python scripts/predict_games.py [--allow-started] <game_id> [<game_id> ...]
+Games that have already kicked off are skipped unless --allow-started is passed
+(needed for the backtest use above, and only against a scratch database copy).
 """
 import json
 import math
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import joblib
 import pandas as pd
@@ -177,10 +180,18 @@ def load_all_games(conn) -> list[dict]:
     return games
 
 
+def kickoff_utc(g: dict) -> datetime:
+    """nflverse's gameday/gametime are US Eastern (every 2016-2026 game has a gametime)."""
+    local = datetime.strptime(f"{g['gameday']} {g['gametime']}", "%Y-%m-%d %H:%M")
+    return local.replace(tzinfo=ZoneInfo("America/New_York")).astimezone(timezone.utc)
+
+
 def main():
-    target_ids = sys.argv[1:]
+    args = sys.argv[1:]
+    allow_started = "--allow-started" in args
+    target_ids = [a for a in args if a != "--allow-started"]
     if not target_ids:
-        sys.exit("Usage: predict_games.py <game_id> [<game_id> ...]")
+        sys.exit("Usage: predict_games.py [--allow-started] <game_id> [<game_id> ...]")
 
     init_all()
     bundle = joblib.load(MODEL_PATH)
@@ -193,7 +204,23 @@ def main():
         sys.exit(f"Game id(s) not found: {missing}")
     targets = [by_id[gid] for gid in target_ids]
 
-    completed = [g for g in all_games if g["home_score"] is not None and g["game_id"] not in target_ids]
+    # Never save a pick for a game that has already kicked off. Picks upsert by game_id and are
+    # graded against what the site showed before kickoff, so a post-kickoff run would overwrite the
+    # graded pick (2026_01_NE_SEA was saved ~14h after kickoff by the pre-gate routine). The routine
+    # prompt already filters these out; this is the same rule enforced in code, so manual runs are
+    # covered too. Mirrors the CFB build's guard (commit 4bfd164).
+    now = datetime.now(timezone.utc)
+    started = [g for g in targets if kickoff_utc(g) <= now]
+    if started and not allow_started:
+        for g in started:
+            print(f"SKIP {g['game_id']} ({g['away_team']} @ {g['home_team']}): kicked off "
+                  f"{g['gameday']} {g['gametime']} ET, not saving a post-kickoff pick")
+        targets = [g for g in targets if g not in started]
+        if not targets:
+            sys.exit("Nothing to predict: every requested game has already kicked off.")
+        target_ids = [g["game_id"] for g in targets]
+
+    completed =[g for g in all_games if g["home_score"] is not None and g["game_id"] not in target_ids]
     current_season = max(g["season"] for g in targets)
     games_played_this_season = count_current_season_games(completed, current_season)
 
