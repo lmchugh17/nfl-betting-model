@@ -93,6 +93,17 @@
   .tab-btn { background: var(--card); color: var(--text-dim); border: 1px solid var(--border); border-radius: 8px; padding: 0.5rem 1rem; font-size: 0.85rem; font-family: inherit; cursor: pointer; }
   .tab-btn.active { color: var(--text); border-color: var(--accent); background: rgba(79,140,255,0.12); }
   .tab-panel[hidden] { display: none; }
+  .seg-toggle { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0 0 1rem; }
+  .seg-btn { background: var(--card); color: var(--text-dim); border: 1px solid var(--border); border-radius: 8px; padding: 0.4rem 0.9rem; font-size: 0.8rem; font-family: inherit; cursor: pointer; }
+  .seg-btn.active { color: var(--text); border-color: var(--accent); background: rgba(79,140,255,0.12); }
+  .perf-panel[hidden] { display: none; }
+  /* Four columns at 375px: drop each percentage onto its own line and let names wrap,
+     so the table fits without sideways scrolling (same fix as the CFB site). */
+  @media (max-width: 520px) {
+    .group-table th, .group-table td { padding: 0.5rem 0.5rem; }
+    .group-table td:first-child { white-space: normal; }
+    .group-table .pct { display: block; color: var(--text-dim); font-size: 0.75rem; }
+  }
   .week-group { background: var(--card); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 1rem; overflow: hidden; }
   .week-group summary { cursor: pointer; list-style: none; padding: 0.9rem 1.1rem; font-weight: 600; font-size: 0.95rem; display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; }
   .week-group summary::-webkit-details-marker { display: none; }
@@ -114,11 +125,34 @@
 
   <div class="stats-row"><div class="stat-tile"><div class="stat-value">20</div><div class="stat-label">Picks Tracked</div></div><div class="stat-tile"><div class="stat-value">14/20</div><div class="stat-label">Moneyline (Straight-Up)</div></div><div class="stat-tile"><div class="stat-value">8-11-1</div><div class="stat-label">Against the Spread</div></div><div class="stat-tile"><div class="stat-value">11.2 pts<sup class="stat-marker">&sect;</sup></div><div class="stat-label">Avg. Margin Error</div></div><div class="stat-tile"><div class="stat-value">$369.54</div><div class="stat-label">Paper Bankroll</div></div></div>
 
-  <h2>Weekly Performance</h2>
-  <div class="table-wrap"><table class="weekly-table">
+  <h2>Record</h2>
+  <div class="seg-toggle">
+    <button type="button" class="seg-btn active" data-perf="week" aria-pressed="true">By week</button>
+    <button type="button" class="seg-btn" data-perf="division" aria-pressed="false">By division</button>
+    <button type="button" class="seg-btn" data-perf="conference" aria-pressed="false">By conference</button>
+  </div>
+  <div id="perf-week" class="perf-panel"><div class="table-wrap"><table class="weekly-table">
       <thead><tr><th>Week</th><th>Moneyline</th><th>Spread</th></tr></thead>
       <tbody><tr><td>2026 Week 2</td><td>1-0 (100%)</td><td>1-0-0</td></tr><tr><td>2026 Week 1</td><td>11-5 (69%)</td><td>5-10-1</td></tr><tr><td>2025 Super Bowl</td><td>0-1 (0%)</td><td>0-1-0</td></tr><tr><td>2025 Conference Championship</td><td>1-0 (100%)</td><td>1-0-0</td></tr><tr><td>2025 Divisional</td><td>1-0 (100%)</td><td>1-0-0</td></tr></tbody>
+    </table></div></div>
+  <div id="perf-division" class="perf-panel" hidden>
+    <div class="table-wrap"><table class="weekly-table group-table">
+      <thead><tr><th>Division</th><th>Games</th><th>Moneyline</th><th>Spread</th></tr></thead>
+      <tbody><tr><td>AFC East</td><td>7</td><td>5-2 <span class="pct">(71%)</span></td><td>3-3-1 <span class="pct">(50%)</span></td></tr><tr><td>AFC North</td><td>4</td><td>4-0 <span class="pct">(100%)</span></td><td>1-3-0 <span class="pct">(25%)</span></td></tr><tr><td>AFC South</td><td>5</td><td>5-0 <span class="pct">(100%)</span></td><td>3-2-0 <span class="pct">(60%)</span></td></tr><tr><td>AFC West</td><td>3</td><td>0-3 <span class="pct">(0%)</span></td><td>1-2-0 <span class="pct">(33%)</span></td></tr><tr><td>NFC East</td><td>2</td><td>1-1 <span class="pct">(50%)</span></td><td>0-2-0 <span class="pct">(0%)</span></td></tr><tr><td>NFC North</td><td>4</td><td>4-0 <span class="pct">(100%)</span></td><td>3-1-0 <span class="pct">(75%)</span></td></tr><tr><td>NFC South</td><td>4</td><td>4-0 <span class="pct">(100%)</span></td><td>1-3-0 <span class="pct">(25%)</span></td></tr><tr><td>NFC West</td><td>5</td><td>2-3 <span class="pct">(40%)</span></td><td>2-2-1 <span class="pct">(50%)</span></td></tr></tbody>
     </table></div>
+    <p class="footnote">A game counts once for each division involved (AFC East vs. NFC West counts
+    toward both; a divisional game counts once), so these rows add up to more than the overall record.
+    Each division has only a handful of games so far, too few to say the model is better or worse in one
+    than another yet.</p>
+  </div>
+  <div id="perf-conference" class="perf-panel" hidden>
+    <div class="table-wrap"><table class="weekly-table group-table">
+      <thead><tr><th>Conference</th><th>Games</th><th>Moneyline</th><th>Spread</th></tr></thead>
+      <tbody><tr><td>AFC</td><td>13</td><td>9-4 <span class="pct">(69%)</span></td><td>5-7-1 <span class="pct">(42%)</span></td></tr><tr><td>NFC</td><td>13</td><td>9-4 <span class="pct">(69%)</span></td><td>5-7-1 <span class="pct">(42%)</span></td></tr></tbody>
+    </table></div>
+    <p class="footnote">A game counts once for each conference involved (an AFC vs. NFC game counts
+    toward both), so these rows add up to more than the overall record.</p>
+  </div>
 
   <h2>Weekly Trends</h2>
   <h3>Moneyline Win %</h3>
@@ -830,7 +864,7 @@
     calculation (about 1.7 points of expected margin), an unvalidated placeholder rather than a measured
     home-field value, same caveat as the confidence tiers above -- except in 2020, when it's zeroed out
     entirely to reflect the season played with no/minimal fans leaguewide.</p>
-    <p>Generated 2026-09-19 17:12 UTC.</p>
+    <p>Generated 2026-09-19 20:54 UTC.</p>
   </footer>
 </div>
 <script>
@@ -869,6 +903,18 @@
       btn.classList.add('active');
       document.querySelectorAll('.tab-panel').forEach(function(p) { p.hidden = true; });
       document.getElementById('tab-' + btn.dataset.tab).hidden = false;
+    });
+  });
+})();
+(function() {
+  var segBtns = Array.prototype.slice.call(document.querySelectorAll('.seg-btn'));
+  segBtns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      segBtns.forEach(function(b) { b.classList.remove('active'); b.setAttribute('aria-pressed', 'false'); });
+      btn.classList.add('active');
+      btn.setAttribute('aria-pressed', 'true');
+      document.querySelectorAll('.perf-panel').forEach(function(p) { p.hidden = true; });
+      document.getElementById('perf-' + btn.dataset.perf).hidden = false;
     });
   });
 })();

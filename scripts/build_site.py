@@ -189,6 +189,37 @@ def fetch_weekly_performance(conn) -> list[dict]:
     return result
 
 
+def fetch_group_performance(conn, column: str) -> list[dict]:
+    """Moneyline and spread records per teams.<column> ('division' or 'conference').
+    A game counts once for EACH distinct group involved (AFC East vs NFC West counts
+    toward both; a divisional game counts once), so the rows don't sum to the overall
+    record. Pushes are counted the same way as fetch_weekly_performance. Sorted by
+    name, which is already the natural order (AFC East/North/South/West, then NFC)."""
+    assert column in ("division", "conference")
+    rows = conn.execute(f"""
+        SELECT pr.moneyline_pick_won, pr.pick_covered, pr.pick_team, th.{column}, ta.{column}
+        FROM prediction_results pr
+        JOIN stats.teams th ON pr.home_team = th.team
+        JOIN stats.teams ta ON pr.away_team = ta.team
+    """).fetchall()
+    buckets = defaultdict(lambda: {"n": 0, "ml_wins": 0, "ml_decided": 0,
+                                    "ats_wins": 0, "ats_losses": 0, "ats_pushes": 0})
+    for ml_won, covered, pick_team, home_group, away_group in rows:
+        for group in {g for g in (home_group, away_group) if g}:
+            b = buckets[group]
+            b["n"] += 1
+            if ml_won is not None:
+                b["ml_decided"] += 1
+                b["ml_wins"] += ml_won
+            if covered == 1:
+                b["ats_wins"] += 1
+            elif covered == 0:
+                b["ats_losses"] += 1
+            elif pick_team is not None:
+                b["ats_pushes"] += 1
+    return sorted(({"group": g, **b} for g, b in buckets.items()), key=lambda r: r["group"])
+
+
 def compute_current_bankroll(conn) -> float:
     """Chronological paper-bankroll replay: starts at STARTING_BANKROLL and
     compounds through every settled (non-push) pick in date order using its
@@ -373,6 +404,28 @@ def render_weekly_table(weekly: list[dict]) -> str:
     </table></div>"""
 
 
+def render_group_table(group_rows: list[dict], label: str) -> str:
+    """Same moneyline/spread scoreboard as render_weekly_table, one row per division or
+    conference. Percentages sit in a .pct span so they can drop to their own line on phones."""
+    if not group_rows:
+        return '<p class="empty">No completed games tracked yet.</p>'
+    rows_html = ""
+    for r in group_rows:
+        ml = (f"{r['ml_wins']}-{r['ml_decided'] - r['ml_wins']} "
+              f"<span class=\"pct\">({r['ml_wins']/r['ml_decided']:.0%})</span>"
+              if r["ml_decided"] else "n/a")
+        ats_decided = r["ats_wins"] + r["ats_losses"]
+        ats = f"{r['ats_wins']}-{r['ats_losses']}-{r['ats_pushes']}"
+        if ats_decided:
+            ats += f" <span class=\"pct\">({r['ats_wins']/ats_decided:.0%})</span>"
+        rows_html += (f"<tr><td>{r['group']}</td><td>{r['n']}</td>"
+                      f"<td>{ml}</td><td>{ats}</td></tr>")
+    return f"""<div class="table-wrap"><table class="weekly-table group-table">
+      <thead><tr><th>{label}</th><th>Games</th><th>Moneyline</th><th>Spread</th></tr></thead>
+      <tbody>{rows_html}</tbody>
+    </table></div>"""
+
+
 BAR_TRACK_HEIGHT_PX = 120  # matches .bar-track { height: 120px } below
 BASELINE_LABEL_BASE_OFFSET_PX = 7
 VALUE_LABEL_CLEARANCE_PX = 22
@@ -549,7 +602,7 @@ def render_upcoming_filters(upcoming: list[dict]) -> str:
 
 
 def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankroll: float,
-                weekly: list[dict]) -> str:
+                weekly: list[dict], divisions: list[dict], conferences: list[dict]) -> str:
     generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     ml_pct = f"{summary['ml_wins']}/{summary['ml_decided']}" if summary["ml_decided"] else "0/0"
@@ -569,6 +622,8 @@ def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankrol
     upcoming_filters_html = render_upcoming_filters(upcoming)
     history_html = render_history_tab(results, weekly)
     weekly_html = render_weekly_table(weekly)
+    division_html = render_group_table(divisions, "Division")
+    conference_html = render_group_table(conferences, "Conference")
     ml_chart_html = render_weekly_win_pct_chart(weekly)
     ats_chart_html = render_ats_win_pct_chart(weekly)
     margin_chart_html = render_margin_accuracy_chart(weekly)
@@ -669,6 +724,17 @@ def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankrol
   .tab-btn {{ background: var(--card); color: var(--text-dim); border: 1px solid var(--border); border-radius: 8px; padding: 0.5rem 1rem; font-size: 0.85rem; font-family: inherit; cursor: pointer; }}
   .tab-btn.active {{ color: var(--text); border-color: var(--accent); background: rgba(79,140,255,0.12); }}
   .tab-panel[hidden] {{ display: none; }}
+  .seg-toggle {{ display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0 0 1rem; }}
+  .seg-btn {{ background: var(--card); color: var(--text-dim); border: 1px solid var(--border); border-radius: 8px; padding: 0.4rem 0.9rem; font-size: 0.8rem; font-family: inherit; cursor: pointer; }}
+  .seg-btn.active {{ color: var(--text); border-color: var(--accent); background: rgba(79,140,255,0.12); }}
+  .perf-panel[hidden] {{ display: none; }}
+  /* Four columns at 375px: drop each percentage onto its own line and let names wrap,
+     so the table fits without sideways scrolling (same fix as the CFB site). */
+  @media (max-width: 520px) {{
+    .group-table th, .group-table td {{ padding: 0.5rem 0.5rem; }}
+    .group-table td:first-child {{ white-space: normal; }}
+    .group-table .pct {{ display: block; color: var(--text-dim); font-size: 0.75rem; }}
+  }}
   .week-group {{ background: var(--card); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 1rem; overflow: hidden; }}
   .week-group summary {{ cursor: pointer; list-style: none; padding: 0.9rem 1.1rem; font-weight: 600; font-size: 0.95rem; display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; }}
   .week-group summary::-webkit-details-marker {{ display: none; }}
@@ -690,8 +756,25 @@ def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankrol
 
   <div class="stats-row">{stat_tiles}</div>
 
-  <h2>Weekly Performance</h2>
-  {weekly_html}
+  <h2>Record</h2>
+  <div class="seg-toggle">
+    <button type="button" class="seg-btn active" data-perf="week" aria-pressed="true">By week</button>
+    <button type="button" class="seg-btn" data-perf="division" aria-pressed="false">By division</button>
+    <button type="button" class="seg-btn" data-perf="conference" aria-pressed="false">By conference</button>
+  </div>
+  <div id="perf-week" class="perf-panel">{weekly_html}</div>
+  <div id="perf-division" class="perf-panel" hidden>
+    {division_html}
+    <p class="footnote">A game counts once for each division involved (AFC East vs. NFC West counts
+    toward both; a divisional game counts once), so these rows add up to more than the overall record.
+    Each division has only a handful of games so far, too few to say the model is better or worse in one
+    than another yet.</p>
+  </div>
+  <div id="perf-conference" class="perf-panel" hidden>
+    {conference_html}
+    <p class="footnote">A game counts once for each conference involved (an AFC vs. NFC game counts
+    toward both), so these rows add up to more than the overall record.</p>
+  </div>
 
   <h2>Weekly Trends</h2>
   <h3>Moneyline Win %</h3>
@@ -827,6 +910,18 @@ def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankrol
     }});
   }});
 }})();
+(function() {{
+  var segBtns = Array.prototype.slice.call(document.querySelectorAll('.seg-btn'));
+  segBtns.forEach(function(btn) {{
+    btn.addEventListener('click', function() {{
+      segBtns.forEach(function(b) {{ b.classList.remove('active'); b.setAttribute('aria-pressed', 'false'); }});
+      btn.classList.add('active');
+      btn.setAttribute('aria-pressed', 'true');
+      document.querySelectorAll('.perf-panel').forEach(function(p) {{ p.hidden = true; }});
+      document.getElementById('perf-' + btn.dataset.perf).hidden = false;
+    }});
+  }});
+}})();
 </script>
 </body>
 </html>"""
@@ -840,9 +935,11 @@ def main():
     summary = fetch_summary(conn)
     bankroll = compute_current_bankroll(conn)
     weekly = fetch_weekly_performance(conn)
+    divisions = fetch_group_performance(conn, "division")
+    conferences = fetch_group_performance(conn, "conference")
 
     OUTPUT_PATH.parent.mkdir(exist_ok=True)
-    OUTPUT_PATH.write_text(build_html(upcoming, results, summary, bankroll, weekly))
+    OUTPUT_PATH.write_text(build_html(upcoming, results, summary, bankroll, weekly, divisions, conferences))
     print(f"Wrote {OUTPUT_PATH} ({len(upcoming)} upcoming, {len(results)} completed, "
           f"{len(weekly)} week(s) tracked, bankroll ${bankroll:.2f})")
 
