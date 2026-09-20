@@ -122,8 +122,18 @@ jobs:
           # Safe for the Claude routine because predict_games.py's own kickoff guard (2cbc7af)
           # refuses to pick a game that has started, even if its clone still shows no score.
           git checkout -- data/nfl_stats.db
+          # build_site.py stamps "Generated <time> UTC." on every run, so a checkpoint with no
+          # new scores would still commit a one-line diff. Compare both versions with that line
+          # removed and skip when nothing else moved.
+          if git diff --quiet -- docs/index.html; then
+            echo "No site changes"; exit 0
+          fi
+          git show HEAD:docs/index.html | grep -v '^    <p>Generated ' > /tmp/site_was.html
+          grep -v '^    <p>Generated ' docs/index.html > /tmp/site_now.html
+          if cmp -s /tmp/site_was.html /tmp/site_now.html; then
+            echo "Only the generated timestamp changed -- not committing"; exit 0
+          fi
           git add docs/index.html
-          git diff --cached --quiet && echo "No site changes" && exit 0
           git commit -m "Results refresh: $(date -u +%Y-%m-%dT%H:%M)Z"
           for attempt in 1 2 3 4 5; do
             if git push; then
