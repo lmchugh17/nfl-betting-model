@@ -91,6 +91,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          # Caches downloaded wheels only (requirements.txt is unpinned, so pip still
+          # resolves current versions). Installing took 29s of this ~40s job.
+          cache: pip
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -101,7 +104,7 @@ jobs:
       - name: Rebuild site
         run: python scripts/build_site.py
 
-      - name: Commit and push if scores changed
+      - name: Commit and push if the site changed
         # Retries on push rejection: can genuinely collide with weekly_data_pull.yml's
         # own push (that job runs ~13:00 UTC and takes a few minutes) -- confirmed for
         # real 2026-09-11, a run's fresh commit was silently dropped on a bare
@@ -110,8 +113,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/nfl_stats.db docs/index.html
-          git diff --cached --quiet && echo "No score changes" && exit 0
+          # Commit only the rebuilt page, never data/nfl_stats.db (~43MB): this job re-pulls
+          # scores from nflverse every run anyway, and weekly_data_pull.yml still commits the
+          # DB daily, so committing it here just added a 43MB blob per run (22 of the last 22
+          # refresh commits carried one). Discard the runner's DB edits after the site is built
+          # from them. Consequence: between daily pulls, a fresh clone's DB has scores only up
+          # to the last pull while the published page is current -- expected, not a bug.
+          # Safe for the Claude routine because predict_games.py's own kickoff guard (2cbc7af)
+          # refuses to pick a game that has started, even if its clone still shows no score.
+          git checkout -- data/nfl_stats.db
+          git add docs/index.html
+          git diff --cached --quiet && echo "No site changes" && exit 0
           git commit -m "Results refresh: $(date -u +%Y-%m-%dT%H:%M)Z"
           for attempt in 1 2 3 4 5; do
             if git push; then
