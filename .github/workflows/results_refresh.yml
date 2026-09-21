@@ -42,11 +42,28 @@ name: Results refresh
 # actual lesson from the CFB incident, regardless of what this week's measured count
 # for that day happens to be).
 #
-# All times below in EDT; GitHub cron is fixed UTC and doesn't track DST, so these
-# drift an hour earlier in US-clock terms once EST starts in November -- same caveat
-# as weekly_data_pull.yml. A UTC day-of-week that differs from the US-time day label
-# (e.g. Thursday's TNF checkpoint landing on UTC-Friday) is correct, not a bug -- an
-# 11pm ET checkpoint always lands on the following UTC calendar day.
+# RETIMED 2026-09-20 from measured game end times (last play's timestamp in nflverse
+# pbp, 2023-2025 regular season, 816 games). The old checkpoints sat ~2h43m after
+# kickoff, but games average ~3h05m, so every primary checkpoint fired before the
+# AVERAGE game in its window had ended:
+#   window    avg end  p90 end  latest   old check  new check (ET)
+#   Sun 1pm   3:57pm   4:20pm   5:12pm   3:43pm     4:53pm
+#   Sun 4pm   7:19pm   7:37pm   8:05pm   7:13pm     8:13pm
+#   SNF      11:28pm  11:37pm  12:58am  10:43pm    12:13am (+2:13am backstop)
+#   TNF      11:22pm  11:37pm  12:17am  11:13pm    12:13am
+#   MNF      11:14pm  11:42pm   1:29am  11:13pm    12:13am (+2:13am backstop)
+# Each new check is ~30min past the p90 end, leaving room for nflverse to publish the
+# final (that lag is not measured yet). The rare days (Fri/Sat/Wed/Tue) moved to the
+# same 12:13am slot, which covers an 8:15pm kickoff.
+#
+# DST: GitHub cron is fixed UTC, so each checkpoint is listed twice -- once for EDT
+# months (8-10) and once for EST months (11-12,1,2). The season crosses exactly one
+# DST change (first Sunday of November); spring-forward in March is after it ends.
+# In years where November starts before that Sunday (e.g. 2027: Nov 1-6 still EDT),
+# the EST line lands an hour LATER in US clock time, never earlier -- the safe side.
+# A UTC day-of-week that differs from the US-time day label (e.g. TNF's checkpoint
+# landing on UTC-Friday) is correct, not a bug -- a post-midnight ET checkpoint lands
+# on the following UTC calendar day.
 #
 # Minute offset to :13, not :00 -- GitHub Actions explicitly documents that scheduled
 # workflows can be delayed or dropped during high-load periods, and "high load"
@@ -59,24 +76,37 @@ name: Results refresh
 # boundary, so it's listed as two pieces, "8-12,1,2" -- same 5 months either way.
 on:
   schedule:
-    # Sunday -- early/late/SNF windows (3:43pm/7:13pm/10:43pm/2:13am ET)
-    - cron: "43 19 * 8-12,1,2 0"
-    - cron: "13 23 * 8-12,1,2 0"
-    - cron: "43 2 * 8-12,1,2 1"
-    - cron: "13 6 * 8-12,1,2 1"
-    # Thursday -- TNF (11:13pm ET)
-    - cron: "13 3 * 8-12,1,2 5"
-    # Monday -- MNF (11:13pm and 1:13am ET)
-    - cron: "13 3 * 8-12,1,2 2"
-    - cron: "13 5 * 8-12,1,2 2"
-    # Friday -- rare (11:13pm ET)
-    - cron: "13 3 * 8-12,1,2 6"
-    # Saturday -- rare, Dec-Jan only by rule (11:13pm ET)
-    - cron: "13 3 * 12,1 0"
-    # Wednesday -- rare (11:13pm ET)
-    - cron: "13 3 * 8-12,1,2 4"
-    # Tuesday -- measured zero this season, kept anyway (11:13pm ET, cheap and unmetered)
-    - cron: "13 3 * 8-12,1,2 3"
+    # Sunday 1pm window -- 4:53pm ET
+    - cron: "53 20 * 8-10 0"
+    - cron: "53 21 * 11-12,1,2 0"
+    # Sunday 4pm window -- 8:13pm ET
+    - cron: "13 0 * 8-10 1"
+    - cron: "13 1 * 11-12,1,2 1"
+    # SNF -- 12:13am ET
+    - cron: "13 4 * 8-10 1"
+    - cron: "13 5 * 11-12,1,2 1"
+    # Sunday backstop -- 2:13am ET
+    - cron: "13 6 * 8-10 1"
+    - cron: "13 7 * 11-12,1,2 1"
+    # Thursday -- TNF (12:13am ET)
+    - cron: "13 4 * 8-10 5"
+    - cron: "13 5 * 11-12,1,2 5"
+    # Monday -- MNF (12:13am ET, plus 2:13am backstop)
+    - cron: "13 4 * 8-10 2"
+    - cron: "13 5 * 11-12,1,2 2"
+    - cron: "13 6 * 8-10 2"
+    - cron: "13 7 * 11-12,1,2 2"
+    # Friday -- rare (12:13am ET)
+    - cron: "13 4 * 8-10 6"
+    - cron: "13 5 * 11-12,1,2 6"
+    # Saturday -- rare, Dec-Jan only by rule, always EST (12:13am ET)
+    - cron: "13 5 * 12,1 0"
+    # Wednesday -- rare (12:13am ET)
+    - cron: "13 4 * 8-10 4"
+    - cron: "13 5 * 11-12,1,2 4"
+    # Tuesday -- measured zero this season, kept anyway (12:13am ET, cheap and unmetered)
+    - cron: "13 4 * 8-10 3"
+    - cron: "13 5 * 11-12,1,2 3"
   workflow_dispatch: {}
 
 permissions:
