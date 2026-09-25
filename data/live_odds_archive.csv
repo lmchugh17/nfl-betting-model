@@ -13549,3 +13549,309 @@ fafc649c455e32a0f2ba1bd06e2039bc,2026-09-20T16:46:32Z,2026-09-20T17:00:00Z,Tenne
 50bc247030707d823b9c3581d7eb5760,2026-09-20T16:46:32Z,2026-09-21T00:20:00Z,Kansas City Chiefs,Indianapolis Colts,KC,IND,bovada,spreads,Kansas City Chiefs,-110.0,-5.5
 50bc247030707d823b9c3581d7eb5760,2026-09-20T16:46:32Z,2026-09-21T00:20:00Z,Kansas City Chiefs,Indianapolis Colts,KC,IND,bovada,totals,Over,105.0,45.5
 50bc247030707d823b9c3581d7eb5760,2026-09-20T16:46:32Z,2026-09-21T00:20:00Z,Kansas City Chiefs,Indianapolis Colts,KC,IND,bovada,totals,Under,-125.0,45.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,Los Angeles Rams,-345.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,New York Giants,275.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Over,-108.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Under,-112.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,Los Angeles Rams,-340.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,New York Giants,275.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Over,-110.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Under,-110.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,Los Angeles Rams,-340.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,New York Giants,274.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,Los Angeles Rams,-114.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,New York Giants,-106.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Over,-108.0,49.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Under,-112.0,49.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,Los Angeles Rams,-340.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,New York Giants,274.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,Los Angeles Rams,-109.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,New York Giants,-101.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Over,-105.0,49.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Under,-109.0,49.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,Los Angeles Rams,-370.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,New York Giants,295.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,Los Angeles Rams,-102.0,-7.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,New York Giants,-120.0,7.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Over,-106.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Under,-114.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,Los Angeles Rams,-400.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,New York Giants,300.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,New York Giants,-106.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Over,-109.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Under,-112.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,Los Angeles Rams,-350.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,New York Giants,280.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,Los Angeles Rams,-112.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Over,-108.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Under,-110.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,h2h,Los Angeles Rams,-360.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,h2h,New York Giants,260.0,
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,spreads,Los Angeles Rams,-110.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,spreads,New York Giants,-110.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,totals,Over,-110.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-14T18:33:24Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,totals,Under,-110.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,Los Angeles Rams,-360.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,New York Giants,285.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,Los Angeles Rams,-118.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,New York Giants,-102.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Over,-105.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Under,-115.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,Los Angeles Rams,-330.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,Los Angeles Rams,-330.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,New York Giants,267.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,Los Angeles Rams,-330.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,New York Giants,267.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,Los Angeles Rams,-108.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,New York Giants,-102.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Over,-107.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Under,-107.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,Los Angeles Rams,-340.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,New York Giants,275.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,Los Angeles Rams,-104.0,-7.5
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,New York Giants,-118.0,7.5
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Over,-118.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Under,-104.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,Los Angeles Rams,-360.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,Los Angeles Rams,-112.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,New York Giants,-109.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Over,-113.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Under,-108.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,Los Angeles Rams,-350.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,New York Giants,275.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,Los Angeles Rams,-105.0,-7.5
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,New York Giants,-120.0,7.5
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Under,-108.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,Los Angeles Rams,-340.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-17T17:37:02Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,Los Angeles Rams,-375.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,New York Giants,295.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,Los Angeles Rams,-118.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,New York Giants,-102.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Over,-105.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Under,-115.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,Los Angeles Rams,-335.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,New York Giants,272.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,Los Angeles Rams,-335.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,Los Angeles Rams,-335.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,Los Angeles Rams,-108.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,New York Giants,-102.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Over,-107.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Under,-107.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,Los Angeles Rams,-340.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,New York Giants,275.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,Los Angeles Rams,-104.0,-7.5
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,New York Giants,-118.0,7.5
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Over,-118.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Under,-104.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,Los Angeles Rams,-360.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,Los Angeles Rams,-112.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,New York Giants,-109.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Over,-113.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Under,-108.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,Los Angeles Rams,-325.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Over,-108.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,Los Angeles Rams,-350.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,New York Giants,275.0,
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-18T17:03:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,Los Angeles Rams,-355.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,New York Giants,280.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Over,-105.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Under,-115.0,48.5
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,Los Angeles Rams,-335.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,New York Giants,272.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,Los Angeles Rams,-335.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,Los Angeles Rams,-335.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,Los Angeles Rams,-109.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,New York Giants,-101.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Over,-107.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Under,-107.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,Los Angeles Rams,-340.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,New York Giants,275.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,Los Angeles Rams,-104.0,-7.5
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,New York Giants,-118.0,7.5
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Over,-118.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Under,-104.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,Los Angeles Rams,-360.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,Los Angeles Rams,-112.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,New York Giants,-109.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Over,-113.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Under,-108.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,Los Angeles Rams,-325.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,Los Angeles Rams,-115.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,New York Giants,-105.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,h2h,Los Angeles Rams,-340.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,h2h,New York Giants,260.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,spreads,Los Angeles Rams,-110.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,spreads,New York Giants,-110.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,Los Angeles Rams,-340.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,New York Giants,270.0,
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,Los Angeles Rams,-110.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,New York Giants,-110.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Over,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-19T16:23:34Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Under,-110.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,Los Angeles Rams,-285.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,New York Giants,230.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,Los Angeles Rams,-115.0,-6.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,New York Giants,-105.0,6.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Over,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Under,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,Los Angeles Rams,-305.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,New York Giants,253.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,Los Angeles Rams,100.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,New York Giants,-120.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Over,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Under,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,Los Angeles Rams,-305.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,New York Giants,249.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,Los Angeles Rams,-117.0,-6.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,New York Giants,-103.0,6.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Over,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Under,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,Los Angeles Rams,-305.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,New York Giants,249.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,Los Angeles Rams,-114.0,-6.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,New York Giants,103.0,6.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Over,-107.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Under,-107.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,Los Angeles Rams,-310.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,New York Giants,250.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,Los Angeles Rams,-120.0,-6.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,New York Giants,-102.0,6.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Over,-105.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Under,-115.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,Los Angeles Rams,-335.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,New York Giants,260.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,Los Angeles Rams,-112.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,New York Giants,-109.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Over,-113.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Under,-108.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,Los Angeles Rams,-300.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,New York Giants,250.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,Los Angeles Rams,-102.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,New York Giants,-118.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Over,-108.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Under,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,h2h,Los Angeles Rams,-310.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,h2h,New York Giants,244.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,spreads,Los Angeles Rams,100.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,spreads,New York Giants,-120.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,totals,Over,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,totals,Under,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,Los Angeles Rams,-310.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,New York Giants,255.0,
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,Los Angeles Rams,-105.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,New York Giants,-115.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Over,-115.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-20T16:46:32Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Under,-105.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,Los Angeles Rams,-298.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,h2h,New York Giants,240.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,Los Angeles Rams,-115.0,-6.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,spreads,New York Giants,-105.0,6.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Over,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,draftkings,totals,Under,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,Los Angeles Rams,-300.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,h2h,New York Giants,250.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,Los Angeles Rams,100.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,spreads,New York Giants,-120.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Over,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betus,totals,Under,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,Los Angeles Rams,-320.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,h2h,New York Giants,260.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,Los Angeles Rams,-105.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,spreads,New York Giants,-115.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Over,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betonlineag,totals,Under,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,Los Angeles Rams,-320.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,h2h,New York Giants,260.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,Los Angeles Rams,104.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,spreads,New York Giants,-115.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Over,-107.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,lowvig,totals,Under,-107.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,Los Angeles Rams,-300.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,h2h,New York Giants,245.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,Los Angeles Rams,-120.0,-6.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,spreads,New York Giants,-102.0,6.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Over,-105.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,fanduel,totals,Under,-115.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,Los Angeles Rams,-315.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,h2h,New York Giants,250.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,Los Angeles Rams,-107.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,spreads,New York Giants,-114.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Over,-114.0,47.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betrivers,totals,Under,-107.0,47.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,Los Angeles Rams,-300.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,h2h,New York Giants,240.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,Los Angeles Rams,-110.0,-6.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,spreads,New York Giants,100.0,6.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Over,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,betmgm,totals,Under,-108.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,h2h,Los Angeles Rams,-315.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,h2h,New York Giants,257.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,spreads,Los Angeles Rams,100.0,-7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,spreads,New York Giants,-120.0,7.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,totals,Over,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,mybookieag,totals,Under,-110.0,47.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,Los Angeles Rams,-330.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,h2h,New York Giants,265.0,
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,Los Angeles Rams,-120.0,-6.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,New York Giants,100.0,6.5
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Over,-105.0,48.0
+32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Under,-115.0,48.0
