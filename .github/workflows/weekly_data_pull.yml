@@ -33,6 +33,17 @@ on:
     # Wednesday night's GB @ LA score early. Day-of-month cron, so it fires every Nov 26:
     # update the date for next season's Thanksgiving or remove it.
     - cron: "6 9 26 11 *"  # Thanksgiving 2026 early pull
+    # SUNDAY EARLY pull (2026-09-25), in-season only. The regular 13:06 UTC pull has
+    # been landing later each week -- 16:22, 16:45, 17:49, 17:52, 17:54 UTC over
+    # 09-19..09-25 -- while the main Sunday slate kicks off at 17:00 UTC (1pm ET). So
+    # the 9-10 early games were getting picks built on Friday/Saturday data, every
+    # week (confirmed for Week 1 and Week 2). 09:06 UTC leaves room for a ~6h delay
+    # and still beats the routine's 15:05/16:05 tries, which are the last two that can
+    # publish before a 1pm kickoff. Odds ARE included here (unlike the Wednesday
+    # redundancy pull): 3 credits, ~13/month on the budget shared with the CFB project
+    # (359 of 500 remaining on 2026-09-25). The regular 13:06 Sunday pull still runs
+    # and refreshes lines for the 4:05/4:25pm and SNF windows.
+    - cron: "6 9 * 8-12,1,2 0"  # Sunday early pull, odds included
   workflow_dispatch: {}
 
 permissions:
