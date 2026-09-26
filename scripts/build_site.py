@@ -380,8 +380,8 @@ def render_wager_line(p: dict, bankroll: float | None) -> str:
     if p.get("cover_probability") is not None and p.get("kelly_fraction") == 0:
         # Calibrated probability below the price's break-even -- say so plainly rather than
         # rendering nothing, so a staked pick and an unstaked one are never confused.
-        return (f'<div class="wager-line"><span class="tier no-bet">NO BET</span> '
-                f'cover probability {p["cover_probability"]:.0%} &middot; {NO_BET_REASON}.</div>')
+        return (f'<div class="wager-line">Cover probability {p["cover_probability"]:.0%} '
+                f'&middot; {NO_BET_REASON}.</div>')
     if bankroll is None or not p.get("kelly_fraction") or p.get("cover_probability") is None:
         return ""
     wager = bankroll * p["kelly_fraction"]
@@ -426,9 +426,18 @@ def render_pick_card(p: dict, result: dict | None = None, bankroll: float | None
             is_measured = p.get("spread_price_source") == "measured"
             price_label = f"{price}" + ("" if is_measured else "*")
             pick_spread_html = f' {pick_spread:+.1f} <span class="odds">({price_label})</span>'
+        # A pick staked at zero must NOT wear a LOW/MEDIUM/HIGH Confidence badge: the
+        # edge tiers predate bet sizing and read as "we like this" on a card that isn't
+        # backed at all (CFB shipped exactly that bug, then fixed it in 65b5e82). Gray
+        # NO BET replaces it on upcoming cards only. The MONEYLINE badge above stays --
+        # that pick is a separate bet from the spread, confirmed on the CFB side.
+        # Past cards (result is not None) keep their original tier and show no wager line.
+        spread_badge = tier_badge(p["confidence_tier"], low_data)
+        if result is None and p.get("cover_probability") is not None and p.get("kelly_fraction") == 0:
+            spread_badge = '<span class="tier tier-nobet">NO BET</span>'
         pick_html = (
             f'<div class="pick-line">Spread pick: <strong>{p["pick_team"]}{pick_spread_html}</strong> '
-            f'{tier_badge(p["confidence_tier"], low_data)}</div>'
+            f'{spread_badge}</div>'
         )
     wager_html = render_wager_line(p, bankroll)
     model_breakdown_html = render_model_breakdown(p.get("model_breakdown_json"))
@@ -769,7 +778,7 @@ def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankrol
   .tier-medium {{ background: rgba(255,184,79,0.15); color: var(--amber); }}
   .tier-low {{ background: rgba(154,161,172,0.15); color: var(--text-dim); }}
   .wager-line {{ font-size: 0.85rem; color: var(--text-dim); margin-bottom: 0.6rem; }}
-  .no-bet {{ background: rgba(154,161,172,0.18); color: var(--text-dim); margin-left: 0; margin-right: 0.35rem; letter-spacing: 0.03em; }}
+  .tier-nobet {{ background: rgba(154,161,172,0.18); color: var(--text-dim); letter-spacing: 0.03em; }}
   .tldr {{ font-style: italic; color: var(--text-dim); font-size: 0.88rem; margin-bottom: 0.6rem; }}
   .bullets {{ margin: 0; padding-left: 1.1rem; font-size: 0.85rem; color: var(--text-dim); }}
   .bullets li {{ margin-bottom: 0.25rem; }}
