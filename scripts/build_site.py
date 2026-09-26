@@ -27,6 +27,7 @@ from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+from src.bet_sizing import BANKROLL_RESTART_GAMEDAY, NO_BET_REASON
 from src.db import get_pred_connection, init_all
 from src.stadiums import lookup as stadium_lookup
 
@@ -301,12 +302,19 @@ def fetch_group_performance(conn, column: str) -> list[dict]:
 def compute_current_bankroll(conn) -> float:
     """Chronological paper-bankroll replay: starts at STARTING_BANKROLL and
     compounds through every settled (non-push) pick in date order using its
-    own kelly_fraction and its own spread_price."""
+    own kelly_fraction and its own spread_price.
+
+    Scoped to picks from BANKROLL_RESTART_GAMEDAY onward: the bankroll restarted at
+    $500 on 2026-09-25 when sizing was recalibrated (user decision), because the
+    earlier 36 picks were staked by the old overconfident formula and replaying them
+    alongside the new sizing would blend two regimes on one chart. The picks
+    themselves are untouched and still graded in the record above."""
     rows = conn.execute("""
         SELECT kelly_fraction, pick_covered, spread_price FROM prediction_results
         WHERE kelly_fraction IS NOT NULL AND pick_covered IS NOT NULL
+          AND gameday >= ?
         ORDER BY gameday ASC, gametime ASC
-    """).fetchall()
+    """, (BANKROLL_RESTART_GAMEDAY,)).fetchall()
     bankroll = STARTING_BANKROLL
     for kelly_fraction, covered, spread_price in rows:
         b = _net_decimal_odds(spread_price if spread_price is not None else ASSUMED_SPREAD_ODDS_AMERICAN)
@@ -369,6 +377,11 @@ def render_model_breakdown(breakdown_json: str | None) -> str:
 
 
 def render_wager_line(p: dict, bankroll: float | None) -> str:
+    if p.get("cover_probability") is not None and p.get("kelly_fraction") == 0:
+        # Calibrated probability below the price's break-even -- say so plainly rather than
+        # rendering nothing, so a staked pick and an unstaked one are never confused.
+        return (f'<div class="wager-line"><span class="tier no-bet">NO BET</span> '
+                f'cover probability {p["cover_probability"]:.0%} &middot; {NO_BET_REASON}.</div>')
     if bankroll is None or not p.get("kelly_fraction") or p.get("cover_probability") is None:
         return ""
     wager = bankroll * p["kelly_fraction"]
@@ -756,6 +769,7 @@ def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankrol
   .tier-medium {{ background: rgba(255,184,79,0.15); color: var(--amber); }}
   .tier-low {{ background: rgba(154,161,172,0.15); color: var(--text-dim); }}
   .wager-line {{ font-size: 0.85rem; color: var(--text-dim); margin-bottom: 0.6rem; }}
+  .no-bet {{ background: rgba(154,161,172,0.18); color: var(--text-dim); margin-left: 0; margin-right: 0.35rem; letter-spacing: 0.03em; }}
   .tldr {{ font-style: italic; color: var(--text-dim); font-size: 0.88rem; margin-bottom: 0.6rem; }}
   .bullets {{ margin: 0; padding-left: 1.1rem; font-size: 0.85rem; color: var(--text-dim); }}
   .bullets li {{ margin-bottom: 0.25rem; }}
@@ -942,9 +956,14 @@ def build_html(upcoming: list[dict], results: list[dict], summary: dict, bankrol
     -- the model's average margin error against the market's own average margin error on the same games,
     tracked week by week.</p>
     <p>Recommended wager is a paper amount only, sized with 25% fractional Kelly against a running
-    $500 starting bankroll that compounds through settled picks. Cover probability treats the margin
-    model's prediction error as normally distributed around its point estimate, using its own measured
-    RMSE on the 2025 holdout. The spread pick's price is the real median price across sportsbooks when
+    $500 bankroll that compounds through settled picks, restarted on 2026-09-27 when sizing was
+    recalibrated. Cover probability is a logistic fit of whether a pick actually covered against the
+    size of its edge, fit on the 2025 holdout season. On that holdout, edge size had no relationship
+    to covering (correlation +0.006), so the calibrated probability sits below the 52.4% break-even a
+    -110 price needs and every pick is currently marked NO BET -- the picks stand as analysis, they
+    are just not staked. The previous sizing assumed the margin model's error was normally distributed
+    around its own prediction, which ignored the market's information and overstated cover chances
+    (it predicted 61% against 37% actual over its first 35 graded picks). The spread pick's price is the real median price across sportsbooks when
     a recent odds pull has one for that side.* Nothing here is real money or a recommendation to place
     a real bet.</p>
     <p class="footnote">* No per-book pricing was available for this game (too far out for the live-odds

@@ -28,6 +28,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from src.ats_and_situational import compute_ats_results, compute_h2h_features, compute_situational_features
 from src.availability import injury_burden, qb_situation
+from src.bet_sizing import NO_BET_REASON, size_bet
 from src.db import get_pred_connection, get_stats_connection, init_all
 from src.elo import HOME_ADVANTAGE_ELO, NFLElo
 from src.explain import build_feature_highlights, get_shap_contributions
@@ -44,7 +45,6 @@ from src.epa_features import ROLLING_WINDOW as EPA_WINDOW
 MODEL_PATH = Path(__file__).resolve().parent.parent / "models" / "nfl_model.pkl"
 
 FULL_SEASON_WINDOW = max(EPA_WINDOW, ATS_WINDOW)  # both currently 8
-KELLY_FRACTION_CAP = 0.25  # 25% fractional Kelly, matches the CFB/NBA-reference convention
 # nflverse's games.{away,home}_spread_odds gives real closing juice for completed games, but
 # for an upcoming game the only price source is a live Odds API pull (src.spread_pricing) --
 # this is the fallback when that hasn't happened yet or missed this game/book.
@@ -72,34 +72,6 @@ def moneyline_confidence_tier(win_prob_picked_side: float | None) -> str | None:
     if win_prob_picked_side >= 0.60:
         return "medium"
     return "low"
-
-
-def _american_odds_to_net_decimal(odds: int) -> float:
-    return 100 / abs(odds) if odds < 0 else odds / 100
-
-
-def _normal_cdf(x: float) -> float:
-    return 0.5 * (1 + math.erf(x / math.sqrt(2)))
-
-
-def cover_probability_and_kelly(edge: float | None, is_home_pick: bool, regressor_rmse: float,
-                                 spread_odds_american: int = ASSUMED_SPREAD_ODDS_AMERICAN
-                                 ) -> tuple[float | None, float | None]:
-    """cover_probability is for the PICKED side specifically -- edge is defined as
-    home's edge over the market (predicted_margin - market_spread, nflverse
-    convention: + market_spread = home favored), so picking the away side needs
-    1 minus the home cover probability. Treats the regressor's residuals as
-    approximately Normal(0, rmse) around its point estimate -- rmse is the
-    model's own measured error on the 2025 holdout (scripts/train_model.py),
-    not an assumed number."""
-    if edge is None:
-        return None, None
-    p_home_covers = _normal_cdf(edge / regressor_rmse)
-    p_cover = p_home_covers if is_home_pick else (1 - p_home_covers)
-    b = _american_odds_to_net_decimal(spread_odds_american)
-    kelly_full = p_cover - (1 - p_cover) / b
-    kelly = max(0.0, kelly_full) * KELLY_FRACTION_CAP
-    return p_cover, kelly
 
 
 def count_current_season_games(completed: list[dict], season: int) -> dict:
@@ -342,7 +314,6 @@ def main():
     detailed = bundle["ensemble"].predict_proba_detailed(X)
     win_probs = detailed["final"]
     margins = bundle["regressor"].predict(X)
-    regressor_rmse = bundle["regressor_metrics"]["rmse"]
     predicted_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     pred_conn = get_pred_connection()
@@ -389,9 +360,12 @@ def main():
                 spread_price, spread_price_source = ASSUMED_SPREAD_ODDS_AMERICAN, "assumed"
                 print(f"Spread price: {spread_price} (assumed -- no per-book pricing available for this game)")
 
-            cover_prob, kelly = cover_probability_and_kelly(
-                edge, pick_team == row["home_team"], regressor_rmse, spread_price)
-            print(f"Cover probability: {cover_prob:.0%} -> {kelly:.1%} of bankroll recommended (25% Kelly)")
+            cover_prob, kelly = size_bet(edge, spread_price)
+            if kelly > 0:
+                print(f"Cover probability (calibrated): {cover_prob:.0%} -> "
+                      f"{kelly:.1%} of bankroll recommended (25% Kelly)")
+            else:
+                print(f"Cover probability (calibrated): {cover_prob:.0%} -> no bet, {NO_BET_REASON}")
         else:
             print("Market: no line available")
 
