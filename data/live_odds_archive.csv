@@ -13855,3 +13855,207 @@ fafc649c455e32a0f2ba1bd06e2039bc,2026-09-20T16:46:32Z,2026-09-20T17:00:00Z,Tenne
 32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,spreads,New York Giants,100.0,6.5
 32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Over,-105.0,48.0
 32367f882fac1a0c20a6335619922025,2026-09-21T18:38:03Z,2026-09-22T00:15:00Z,Los Angeles Rams,New York Giants,LA,NYG,bovada,totals,Under,-115.0,48.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Atlanta Falcons,250.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Green Bay Packers,-310.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Atlanta Falcons,-105.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Green Bay Packers,-115.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Over,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Under,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,spreads,Atlanta Falcons,-110.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,spreads,Green Bay Packers,-110.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,totals,Over,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,totals,Under,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Atlanta Falcons,225.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Green Bay Packers,-275.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Atlanta Falcons,-102.0,5.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Green Bay Packers,-120.0,-5.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Over,-115.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Under,-105.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Atlanta Falcons,245.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Green Bay Packers,-305.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Atlanta Falcons,-112.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Green Bay Packers,-109.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Over,-109.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Under,-112.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,spreads,Atlanta Falcons,-110.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,spreads,Green Bay Packers,-110.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,totals,Over,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,totals,Under,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,spreads,Atlanta Falcons,-105.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,spreads,Green Bay Packers,-105.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,totals,Over,-107.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-17T17:37:02Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,totals,Under,-107.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Atlanta Falcons,250.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Green Bay Packers,-310.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Atlanta Falcons,-105.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Green Bay Packers,-115.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Over,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Under,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Atlanta Falcons,225.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Green Bay Packers,-275.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Atlanta Falcons,-102.0,5.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Green Bay Packers,-120.0,-5.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Over,-115.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Under,-105.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Atlanta Falcons,245.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Green Bay Packers,-305.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Atlanta Falcons,-112.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Green Bay Packers,-109.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Over,-109.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-18T17:03:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Under,-112.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Atlanta Falcons,240.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Green Bay Packers,-298.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Atlanta Falcons,-105.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Green Bay Packers,-115.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Over,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Under,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Atlanta Falcons,225.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Green Bay Packers,-275.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Atlanta Falcons,-102.0,5.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Green Bay Packers,-120.0,-5.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Over,-115.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Under,-105.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Atlanta Falcons,245.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Green Bay Packers,-305.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Atlanta Falcons,-112.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Green Bay Packers,-109.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Over,-109.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Under,-112.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,h2h,Atlanta Falcons,220.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,h2h,Green Bay Packers,-295.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,spreads,Atlanta Falcons,-110.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,spreads,Green Bay Packers,-110.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,totals,Over,-110.0,46.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-19T16:23:34Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,totals,Under,-110.0,46.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Atlanta Falcons,240.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Green Bay Packers,-298.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Atlanta Falcons,-105.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Green Bay Packers,-115.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Over,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Under,-110.0,46.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Atlanta Falcons,270.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Green Bay Packers,-335.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Atlanta Falcons,-105.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Green Bay Packers,-115.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Over,-115.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Under,-105.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Atlanta Falcons,245.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Green Bay Packers,-305.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Atlanta Falcons,-112.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Green Bay Packers,-109.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Over,-109.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Under,-112.0,45.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,h2h,Atlanta Falcons,228.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,h2h,Green Bay Packers,-310.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,spreads,Atlanta Falcons,-110.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,spreads,Green Bay Packers,-110.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,totals,Over,-110.0,46.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-20T16:46:32Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,totals,Under,-110.0,46.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Atlanta Falcons,270.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Green Bay Packers,-340.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Atlanta Falcons,-115.0,7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Green Bay Packers,-105.0,-7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Over,-115.0,43.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Under,-105.0,43.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,h2h,Atlanta Falcons,258.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,h2h,Green Bay Packers,-315.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,spreads,Atlanta Falcons,-115.0,7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,spreads,Green Bay Packers,-105.0,-7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,totals,Over,-105.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,totals,Under,-115.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Atlanta Falcons,280.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Green Bay Packers,-350.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Atlanta Falcons,100.0,6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Green Bay Packers,-122.0,-6.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Over,-105.0,44.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Under,-115.0,44.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Atlanta Falcons,265.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Green Bay Packers,-345.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Atlanta Falcons,-115.0,7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Green Bay Packers,-106.0,-7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Over,-107.0,44.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Under,-114.0,44.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,h2h,Atlanta Falcons,256.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,h2h,Green Bay Packers,-315.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,spreads,Atlanta Falcons,-115.0,7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,spreads,Green Bay Packers,-105.0,-7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,totals,Over,-105.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,totals,Under,-115.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,h2h,Atlanta Falcons,256.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,h2h,Green Bay Packers,-315.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,spreads,Atlanta Falcons,-110.0,7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,spreads,Green Bay Packers,100.0,-7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,totals,Over,-102.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,totals,Under,-113.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,h2h,Atlanta Falcons,242.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,h2h,Green Bay Packers,-330.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,spreads,Atlanta Falcons,-110.0,7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,spreads,Green Bay Packers,-110.0,-7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,totals,Over,-110.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,totals,Under,-110.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,h2h,Atlanta Falcons,270.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,h2h,Green Bay Packers,-325.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,spreads,Atlanta Falcons,-112.0,7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,spreads,Green Bay Packers,-105.0,-7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,totals,Over,-108.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,totals,Under,-110.0,44.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,h2h,Atlanta Falcons,250.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,h2h,Green Bay Packers,-300.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,spreads,Atlanta Falcons,-115.0,7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,spreads,Green Bay Packers,-105.0,-7.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,totals,Over,-115.0,43.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-21T18:38:03Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,totals,Under,-105.0,43.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Atlanta Falcons,200.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,h2h,Green Bay Packers,-245.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Atlanta Falcons,-105.0,4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,spreads,Green Bay Packers,-115.0,-4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Over,-118.0,42.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,draftkings,totals,Under,-102.0,42.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,h2h,Atlanta Falcons,210.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,h2h,Green Bay Packers,-250.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,spreads,Atlanta Falcons,-105.0,4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,spreads,Green Bay Packers,-115.0,-4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,totals,Over,-105.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betus,totals,Under,-115.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Atlanta Falcons,200.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,h2h,Green Bay Packers,-245.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Atlanta Falcons,-104.0,4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,spreads,Green Bay Packers,-118.0,-4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Over,-104.0,43.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,fanduel,totals,Under,-118.0,43.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Atlanta Falcons,210.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,h2h,Green Bay Packers,-265.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Atlanta Falcons,-112.0,5.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,spreads,Green Bay Packers,-109.0,-5.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Over,-112.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betrivers,totals,Under,-109.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,h2h,Atlanta Falcons,207.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,h2h,Green Bay Packers,-250.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,spreads,Atlanta Falcons,-105.0,4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,spreads,Green Bay Packers,-115.0,-4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,totals,Over,-110.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betonlineag,totals,Under,-110.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,h2h,Atlanta Falcons,207.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,h2h,Green Bay Packers,-250.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,spreads,Atlanta Falcons,100.0,4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,spreads,Green Bay Packers,-110.0,-4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,totals,Over,-107.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,lowvig,totals,Under,-107.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,h2h,Atlanta Falcons,204.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,h2h,Green Bay Packers,-246.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,spreads,Atlanta Falcons,-110.0,5.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,spreads,Green Bay Packers,-110.0,-5.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,totals,Over,-110.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,mybookieag,totals,Under,-110.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,h2h,Atlanta Falcons,200.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,h2h,Green Bay Packers,-250.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,spreads,Atlanta Falcons,-105.0,4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,spreads,Green Bay Packers,-105.0,-4.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,totals,Over,-110.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,betmgm,totals,Under,-110.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,h2h,Atlanta Falcons,210.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,h2h,Green Bay Packers,-250.0,
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,spreads,Atlanta Falcons,-115.0,5.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,spreads,Green Bay Packers,-105.0,-5.5
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,totals,Over,-110.0,43.0
+e5fbd3b3953b896b1bf897ddadb3cc4b,2026-09-24T17:51:11Z,2026-09-25T00:15:00Z,Green Bay Packers,Atlanta Falcons,GB,ATL,bovada,totals,Under,-110.0,43.0
