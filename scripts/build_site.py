@@ -29,7 +29,6 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from src.bet_sizing import BANKROLL_RESTART_GAMEDAY, NO_BET_REASON
 from src.db import get_pred_connection, init_all
-from src.stadiums import lookup as stadium_lookup
 
 EASTERN = ZoneInfo("America/New_York")  # handles EDT/EST correctly across the DST transition
 
@@ -343,14 +342,12 @@ def fetch_summary(conn) -> dict:
     }
 
 
-def fmt_kickoff(gameday: str, gametime: str, stadium: str | None) -> str:
-    venue = stadium_lookup(stadium) if stadium else None
-    tz = ZoneInfo(venue["timezone"]) if venue else EASTERN
+def fmt_kickoff(gameday: str, gametime: str) -> str:
+    # nflverse gametime is US Eastern for every game, not the venue's local time
     try:
-        local = datetime.strptime(f"{gameday} {gametime}", "%Y-%m-%d %H:%M").replace(tzinfo=tz)
+        dt = datetime.strptime(f"{gameday} {gametime}", "%Y-%m-%d %H:%M").replace(tzinfo=EASTERN)
     except (ValueError, TypeError):
         return gameday or "TBD"
-    dt = local.astimezone(EASTERN)
     return dt.strftime(f"%a %b %-d, %-I:%M %p {dt.tzname()}")
 
 
@@ -462,7 +459,7 @@ def render_pick_card(p: dict, result: dict | None = None, bankroll: float | None
         divs_val = f'{_esc_attr(p.get("home_division"))}|{_esc_attr(p.get("away_division"))}'
         filter_attrs = f' data-teams="{teams_val}" data-confs="{confs_val}" data-divs="{divs_val}"'
 
-    kickoff = fmt_kickoff(p["gameday"], p["gametime"], p.get("stadium"))
+    kickoff = fmt_kickoff(p["gameday"], p["gametime"])
     return f"""
     <div class="card"{filter_attrs}>
       <div class="matchup">{p["away_team"]} @ {p["home_team"]}</div>

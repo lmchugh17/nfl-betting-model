@@ -76,7 +76,8 @@ def main():
                 dome_fixed += 1
             if effective_roof in ("closed", "dome"):
                 continue
-            kickoff = kickoff_utc_iso(gameday, gametime, info["timezone"])
+            # nflverse gametime is US Eastern for every game, not the venue's local time
+            kickoff = kickoff_utc_iso(gameday, gametime, "America/New_York")
             if kickoff is None:
                 continue
             outdoor_by_venue[(info["lat"], info["lon"])].append((game_id, kickoff))
