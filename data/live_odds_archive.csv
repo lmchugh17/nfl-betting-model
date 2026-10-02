@@ -19395,3 +19395,429 @@ f1724dead3eab61546033032fc782375,2026-09-27T17:41:39Z,2026-09-27T20:05:00Z,Tampa
 3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-27T17:41:39Z,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,DEN,LA,bovada,spreads,Los Angeles Rams,-110.0,-2.0
 3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-27T17:41:39Z,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,DEN,LA,bovada,totals,Over,-110.0,44.0
 3bfd8bfb4b8e9a365a0877879b73b16b,2026-09-27T17:41:39Z,2026-09-28T00:20:00Z,Denver Broncos,Los Angeles Rams,DEN,LA,bovada,totals,Under,-110.0,44.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Chicago Bears,-118.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Philadelphia Eagles,-102.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Chicago Bears,-105.0,-1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Philadelphia Eagles,-115.0,1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Over,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Under,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Chicago Bears,-112.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Philadelphia Eagles,-104.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Chicago Bears,-104.0,-1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Philadelphia Eagles,-118.0,1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Over,-102.0,48.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Under,-120.0,48.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Chicago Bears,-125.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Philadelphia Eagles,104.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Chicago Bears,-112.0,-1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Philadelphia Eagles,-109.0,1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Over,-108.0,48.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Under,-113.0,48.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Chicago Bears,-110.0,-2.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Philadelphia Eagles,-110.0,2.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Over,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Under,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Chicago Bears,-105.0,-2.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Philadelphia Eagles,-105.0,2.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Over,-107.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Under,-107.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Chicago Bears,-110.0,-2.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Philadelphia Eagles,-110.0,2.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Over,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Under,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Chicago Bears,-120.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Philadelphia Eagles,-106.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Chicago Bears,-110.0,-1.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Philadelphia Eagles,-110.0,1.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Over,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-19T16:23:34Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Under,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Chicago Bears,-118.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Philadelphia Eagles,-102.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Chicago Bears,-105.0,-1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Philadelphia Eagles,-115.0,1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Over,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Under,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Chicago Bears,-112.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Philadelphia Eagles,-104.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Chicago Bears,-104.0,-1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Philadelphia Eagles,-118.0,1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Over,-102.0,48.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Under,-120.0,48.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Chicago Bears,-125.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Philadelphia Eagles,104.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Chicago Bears,-112.0,-1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Philadelphia Eagles,-109.0,1.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Over,-108.0,48.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Under,-113.0,48.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Chicago Bears,-122.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Philadelphia Eagles,-105.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Chicago Bears,-110.0,-2.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Philadelphia Eagles,-110.0,2.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Over,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-20T16:46:32Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Under,-110.0,47.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Chicago Bears,154.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Philadelphia Eagles,-185.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Chicago Bears,-120.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Philadelphia Eagles,100.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Over,-108.0,44.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Under,-112.0,44.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Chicago Bears,154.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Philadelphia Eagles,-186.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Chicago Bears,-115.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Philadelphia Eagles,-105.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Over,-115.0,43.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Under,-105.0,43.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Chicago Bears,140.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Philadelphia Eagles,-182.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Chicago Bears,-114.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Philadelphia Eagles,-107.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Over,-112.0,43.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Under,-109.0,43.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Chicago Bears,159.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Philadelphia Eagles,-185.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Chicago Bears,-120.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Philadelphia Eagles,100.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Over,-110.0,44.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Under,-110.0,44.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Chicago Bears,161.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Philadelphia Eagles,-185.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Chicago Bears,-112.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Philadelphia Eagles,101.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Over,-110.0,44.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Under,-104.0,44.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Chicago Bears,161.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Philadelphia Eagles,-185.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Chicago Bears,-116.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Philadelphia Eagles,-104.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Over,-113.0,44.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Under,-107.0,44.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Chicago Bears,145.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Philadelphia Eagles,-185.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Over,-110.0,43.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Under,-110.0,43.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Chicago Bears,155.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Philadelphia Eagles,-190.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Over,-105.0,44.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Under,-112.0,44.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Chicago Bears,155.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Philadelphia Eagles,-180.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Chicago Bears,-120.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Philadelphia Eagles,100.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Over,-110.0,44.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-21T18:38:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Under,-110.0,44.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Chicago Bears,185.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Philadelphia Eagles,-225.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Chicago Bears,-105.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Philadelphia Eagles,-115.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Over,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Under,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Chicago Bears,194.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Philadelphia Eagles,-235.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Chicago Bears,-105.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Philadelphia Eagles,-115.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Over,-108.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Under,-112.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Chicago Bears,180.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Philadelphia Eagles,-225.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Chicago Bears,-113.0,5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Philadelphia Eagles,-109.0,-5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Over,-112.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Under,-109.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Chicago Bears,195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Philadelphia Eagles,-230.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Chicago Bears,-110.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Philadelphia Eagles,-110.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Over,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Under,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Chicago Bears,192.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Philadelphia Eagles,-230.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Chicago Bears,-102.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Philadelphia Eagles,-108.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Over,-107.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Under,-107.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Chicago Bears,192.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Philadelphia Eagles,-230.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Chicago Bears,-105.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Philadelphia Eagles,-115.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Over,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Under,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Chicago Bears,182.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Philadelphia Eagles,-240.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Chicago Bears,-110.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Philadelphia Eagles,-110.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Over,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Under,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Chicago Bears,188.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Philadelphia Eagles,-225.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,spreads,Chicago Bears,-108.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,spreads,Philadelphia Eagles,-110.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Over,-112.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Under,-105.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Chicago Bears,190.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Philadelphia Eagles,-230.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Chicago Bears,-110.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Philadelphia Eagles,-110.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Over,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-24T17:51:11Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Under,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Chicago Bears,185.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Philadelphia Eagles,-225.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Chicago Bears,100.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Philadelphia Eagles,-120.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Over,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Under,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Chicago Bears,194.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Philadelphia Eagles,-235.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Chicago Bears,-105.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Philadelphia Eagles,-115.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Over,-108.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Under,-112.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Chicago Bears,180.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Philadelphia Eagles,-225.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Chicago Bears,-112.0,5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Philadelphia Eagles,-109.0,-5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Over,-112.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Under,-109.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Chicago Bears,195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Philadelphia Eagles,-230.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Chicago Bears,-110.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Philadelphia Eagles,-110.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Over,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Under,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Chicago Bears,192.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Philadelphia Eagles,-230.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Chicago Bears,-105.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Philadelphia Eagles,-105.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Over,-107.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Under,-107.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Chicago Bears,192.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Philadelphia Eagles,-230.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Chicago Bears,-110.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Philadelphia Eagles,-110.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Over,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Under,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Chicago Bears,180.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Philadelphia Eagles,-236.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Chicago Bears,-110.0,5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Philadelphia Eagles,-110.0,-5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Over,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Under,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Chicago Bears,190.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Philadelphia Eagles,-235.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,spreads,Chicago Bears,-108.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,spreads,Philadelphia Eagles,-110.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Over,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Under,-120.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Chicago Bears,190.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Philadelphia Eagles,-230.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Chicago Bears,-115.0,5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Philadelphia Eagles,-105.0,-5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Over,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-25T17:55:13Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Under,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Chicago Bears,160.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Philadelphia Eagles,-192.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Chicago Bears,-110.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Philadelphia Eagles,-110.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Over,-105.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Under,-115.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Chicago Bears,142.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Philadelphia Eagles,-168.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Chicago Bears,-122.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Philadelphia Eagles,100.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Over,-105.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Under,-115.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Chicago Bears,155.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Philadelphia Eagles,-190.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Chicago Bears,-109.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Philadelphia Eagles,-112.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Over,-109.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Under,-112.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Chicago Bears,-115.0,5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Philadelphia Eagles,-105.0,-5.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Over,-120.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Under,100.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Chicago Bears,158.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Philadelphia Eagles,-181.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Chicago Bears,-113.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Philadelphia Eagles,102.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Over,-113.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Under,-102.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Chicago Bears,158.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Philadelphia Eagles,-181.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Chicago Bears,-117.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Philadelphia Eagles,-103.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Over,-115.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Under,-105.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Chicago Bears,177.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Philadelphia Eagles,-222.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Chicago Bears,-110.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Philadelphia Eagles,-110.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Over,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Under,-110.0,41.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Chicago Bears,155.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Philadelphia Eagles,-190.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Over,-108.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Under,-110.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Chicago Bears,155.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Philadelphia Eagles,-180.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Chicago Bears,100.0,3.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Philadelphia Eagles,-120.0,-3.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Over,-110.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-26T17:05:33Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Under,-110.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Chicago Bears,164.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Philadelphia Eagles,-198.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Chicago Bears,-110.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Philadelphia Eagles,-110.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Over,-105.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Under,-115.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Chicago Bears,148.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Philadelphia Eagles,-178.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Chicago Bears,-115.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Philadelphia Eagles,-105.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Over,-105.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Under,-115.0,42.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Chicago Bears,155.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Philadelphia Eagles,-190.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Chicago Bears,-110.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Philadelphia Eagles,-110.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Over,-109.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Under,-112.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Chicago Bears,155.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Philadelphia Eagles,-180.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Chicago Bears,-115.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Philadelphia Eagles,-105.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Over,-115.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Under,-105.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Chicago Bears,158.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Philadelphia Eagles,-181.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Chicago Bears,-113.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Philadelphia Eagles,102.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Over,-113.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Under,-102.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Chicago Bears,158.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Philadelphia Eagles,-181.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Chicago Bears,-117.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Philadelphia Eagles,-103.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Over,-115.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Under,-105.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Chicago Bears,154.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Philadelphia Eagles,-190.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Chicago Bears,-110.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Philadelphia Eagles,-110.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Over,-110.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Under,-110.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Chicago Bears,155.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Philadelphia Eagles,-190.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Over,-110.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Under,-108.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Chicago Bears,160.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Philadelphia Eagles,-185.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Chicago Bears,-115.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Philadelphia Eagles,-105.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Over,-110.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T14:41:03Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Under,-110.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Chicago Bears,180.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Philadelphia Eagles,-218.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Chicago Bears,-110.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Philadelphia Eagles,-110.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Over,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Under,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Chicago Bears,176.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Philadelphia Eagles,-210.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Chicago Bears,-114.0,4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Philadelphia Eagles,-106.0,-4.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Over,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Under,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Chicago Bears,170.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Philadelphia Eagles,-210.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Chicago Bears,-108.0,4.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Philadelphia Eagles,-113.0,-4.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Over,-109.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Under,-112.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Chicago Bears,167.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Philadelphia Eagles,-195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Chicago Bears,-105.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Philadelphia Eagles,-115.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Over,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Under,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Chicago Bears,170.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Philadelphia Eagles,-195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Chicago Bears,101.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Philadelphia Eagles,-112.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Over,-102.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Under,-113.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Chicago Bears,170.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Philadelphia Eagles,-195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Chicago Bears,-105.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Philadelphia Eagles,-115.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Over,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Under,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Chicago Bears,169.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Philadelphia Eagles,-210.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Chicago Bears,-110.0,4.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Philadelphia Eagles,-110.0,-4.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Over,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Under,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Chicago Bears,170.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Philadelphia Eagles,-210.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,spreads,Chicago Bears,-108.0,4.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,spreads,Philadelphia Eagles,-110.0,-4.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Over,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Under,-112.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Chicago Bears,170.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Philadelphia Eagles,-200.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Chicago Bears,-105.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Philadelphia Eagles,-115.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Over,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-27T17:41:39Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Under,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Chicago Bears,154.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,h2h,Philadelphia Eagles,-185.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Chicago Bears,-110.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,spreads,Philadelphia Eagles,-110.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Over,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,draftkings,totals,Under,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Chicago Bears,168.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,h2h,Philadelphia Eagles,-200.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Chicago Bears,-105.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,spreads,Philadelphia Eagles,-115.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Over,-114.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,fanduel,totals,Under,-106.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Chicago Bears,170.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,h2h,Philadelphia Eagles,-210.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Chicago Bears,-107.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,spreads,Philadelphia Eagles,-114.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Over,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betrivers,totals,Under,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Chicago Bears,167.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,h2h,Philadelphia Eagles,-195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Chicago Bears,-110.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,spreads,Philadelphia Eagles,-110.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Over,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betus,totals,Under,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Chicago Bears,170.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,h2h,Philadelphia Eagles,-195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Chicago Bears,-110.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,spreads,Philadelphia Eagles,100.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Over,-113.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,lowvig,totals,Under,-102.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Chicago Bears,170.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,h2h,Philadelphia Eagles,-195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Chicago Bears,-113.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,spreads,Philadelphia Eagles,-107.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Over,-115.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betonlineag,totals,Under,-105.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Chicago Bears,164.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,h2h,Philadelphia Eagles,-195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Chicago Bears,-110.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,spreads,Philadelphia Eagles,-110.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Over,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,mybookieag,totals,Under,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Chicago Bears,175.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,h2h,Philadelphia Eagles,-210.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Over,-110.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,betmgm,totals,Under,-108.0,41.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Chicago Bears,165.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,h2h,Philadelphia Eagles,-195.0,
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Chicago Bears,-115.0,3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Philadelphia Eagles,-105.0,-3.5
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Over,-105.0,42.0
+47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Under,-115.0,42.0
