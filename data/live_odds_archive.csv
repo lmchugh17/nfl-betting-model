@@ -19821,3 +19821,261 @@ f1724dead3eab61546033032fc782375,2026-09-27T17:41:39Z,2026-09-27T20:05:00Z,Tampa
 47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,spreads,Philadelphia Eagles,-105.0,-3.5
 47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Over,-105.0,42.0
 47dc7baa254659f3beb2ed2b38c207b6,2026-09-28T20:06:31Z,2026-09-29T00:15:00Z,Chicago Bears,Philadelphia Eagles,CHI,PHI,bovada,totals,Under,-115.0,42.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Cleveland Browns,130.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Pittsburgh Steelers,-155.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Cleveland Browns,-115.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Pittsburgh Steelers,-105.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Over,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Cleveland Browns,-110.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Pittsburgh Steelers,-110.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Cleveland Browns,114.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Pittsburgh Steelers,-134.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Cleveland Browns,-110.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Over,-105.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Under,-115.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Cleveland Browns,114.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Pittsburgh Steelers,-146.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Cleveland Browns,-110.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Cleveland Browns,-108.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Pittsburgh Steelers,-112.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Cleveland Browns,-103.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Pittsburgh Steelers,-107.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Over,-107.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Under,-107.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Cleveland Browns,117.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Pittsburgh Steelers,-141.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Cleveland Browns,-105.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Pittsburgh Steelers,-117.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Over,-108.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Under,-113.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,h2h,Cleveland Browns,130.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,h2h,Pittsburgh Steelers,-150.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,spreads,Cleveland Browns,-115.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,spreads,Pittsburgh Steelers,-105.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-24T17:51:11Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Cleveland Browns,124.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Pittsburgh Steelers,-148.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Cleveland Browns,-120.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Pittsburgh Steelers,100.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Over,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Cleveland Browns,-105.0,1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Pittsburgh Steelers,-115.0,-1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Cleveland Browns,114.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Pittsburgh Steelers,-134.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Cleveland Browns,-110.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Over,-105.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Under,-115.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Cleveland Browns,114.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Pittsburgh Steelers,-146.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Cleveland Browns,-110.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Cleveland Browns,-105.0,1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Pittsburgh Steelers,-115.0,-1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Cleveland Browns,100.0,1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Pittsburgh Steelers,-110.0,-1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Over,-107.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Under,-107.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Cleveland Browns,117.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Pittsburgh Steelers,-141.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Cleveland Browns,-105.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Pittsburgh Steelers,-117.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Over,-108.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-25T17:55:13Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Under,-113.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Cleveland Browns,124.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Pittsburgh Steelers,-148.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Cleveland Browns,-120.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Pittsburgh Steelers,100.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Over,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Cleveland Browns,-105.0,1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Pittsburgh Steelers,-115.0,-1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Cleveland Browns,114.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Pittsburgh Steelers,-134.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Cleveland Browns,-110.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Over,-105.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Under,-115.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Cleveland Browns,114.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Pittsburgh Steelers,-146.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Cleveland Browns,-110.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Cleveland Browns,-105.0,1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Pittsburgh Steelers,-115.0,-1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Cleveland Browns,100.0,1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Pittsburgh Steelers,-110.0,-1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Over,-107.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Under,-107.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Cleveland Browns,117.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Pittsburgh Steelers,-141.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Cleveland Browns,-105.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Pittsburgh Steelers,-117.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Over,-108.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-26T17:05:33Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Under,-113.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Cleveland Browns,124.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Pittsburgh Steelers,-148.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Cleveland Browns,-120.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Pittsburgh Steelers,100.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Over,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Cleveland Browns,-105.0,1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Pittsburgh Steelers,-115.0,-1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Over,-105.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Under,-115.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Cleveland Browns,114.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Pittsburgh Steelers,-134.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Cleveland Browns,-110.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Over,-105.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Under,-115.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Cleveland Browns,114.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Pittsburgh Steelers,-146.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Cleveland Browns,-110.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Cleveland Browns,-105.0,1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Pittsburgh Steelers,-115.0,-1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Over,-105.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Under,-115.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Cleveland Browns,100.0,1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Pittsburgh Steelers,-110.0,-1.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Over,-102.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Under,-113.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Cleveland Browns,118.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Pittsburgh Steelers,-143.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Cleveland Browns,-104.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Pittsburgh Steelers,-118.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-27T14:41:03Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Cleveland Browns,130.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Pittsburgh Steelers,-155.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Cleveland Browns,-120.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Pittsburgh Steelers,100.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Over,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,h2h,Cleveland Browns,129.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,h2h,Pittsburgh Steelers,-150.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Cleveland Browns,100.0,2.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Pittsburgh Steelers,-120.0,-2.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Over,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Cleveland Browns,122.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Pittsburgh Steelers,-144.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Cleveland Browns,-108.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Pittsburgh Steelers,-112.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Over,-104.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Under,-118.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Cleveland Browns,120.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Pittsburgh Steelers,-153.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Cleveland Browns,-110.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Over,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,h2h,Cleveland Browns,130.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,h2h,Pittsburgh Steelers,-150.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Cleveland Browns,-102.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Pittsburgh Steelers,-118.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Over,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,h2h,Cleveland Browns,130.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,h2h,Pittsburgh Steelers,-150.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Cleveland Browns,103.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Pittsburgh Steelers,-114.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Over,-107.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Under,-107.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Cleveland Browns,120.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Pittsburgh Steelers,-143.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Cleveland Browns,-107.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Pittsburgh Steelers,-114.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Over,-108.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Under,-113.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,h2h,Cleveland Browns,130.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,h2h,Pittsburgh Steelers,-150.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,spreads,Cleveland Browns,100.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,spreads,Pittsburgh Steelers,-120.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,totals,Over,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,h2h,Cleveland Browns,125.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,h2h,Pittsburgh Steelers,-150.0,
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,spreads,Cleveland Browns,-102.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,spreads,Pittsburgh Steelers,-115.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,totals,Over,-108.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-09-28T20:06:31Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,totals,Under,-110.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Cleveland Browns,124.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,h2h,Pittsburgh Steelers,-148.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Cleveland Browns,100.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,spreads,Pittsburgh Steelers,-120.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Over,-105.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,draftkings,totals,Under,-115.0,38.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,h2h,Cleveland Browns,129.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,h2h,Pittsburgh Steelers,-150.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Cleveland Browns,-120.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,spreads,Pittsburgh Steelers,100.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betus,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Cleveland Browns,120.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,h2h,Pittsburgh Steelers,-142.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Cleveland Browns,-102.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,spreads,Pittsburgh Steelers,-120.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Over,-112.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,fanduel,totals,Under,-108.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Cleveland Browns,126.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,h2h,Pittsburgh Steelers,-149.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Cleveland Browns,100.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,spreads,Pittsburgh Steelers,-120.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,mybookieag,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,h2h,Cleveland Browns,131.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,h2h,Pittsburgh Steelers,-151.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Cleveland Browns,-120.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,spreads,Pittsburgh Steelers,100.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betonlineag,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,h2h,Cleveland Browns,131.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,h2h,Pittsburgh Steelers,-151.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Cleveland Browns,105.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,spreads,Pittsburgh Steelers,-116.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Over,-107.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,lowvig,totals,Under,-107.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Cleveland Browns,115.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,h2h,Pittsburgh Steelers,-143.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Cleveland Browns,-105.0,2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,spreads,Pittsburgh Steelers,-117.0,-2.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Over,-110.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betrivers,totals,Under,-110.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,h2h,Cleveland Browns,130.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,h2h,Pittsburgh Steelers,-150.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,spreads,Cleveland Browns,-120.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,spreads,Pittsburgh Steelers,100.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,totals,Over,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,bovada,totals,Under,-110.0,37.5
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,h2h,Cleveland Browns,125.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,h2h,Pittsburgh Steelers,-150.0,
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,spreads,Cleveland Browns,-110.0,3.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,spreads,Pittsburgh Steelers,100.0,-3.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,totals,Over,-108.0,38.0
+d55cb69fed50a09170560b5b75d8de86,2026-10-01T18:49:14Z,2026-10-02T00:15:00Z,Cleveland Browns,Pittsburgh Steelers,CLE,PIT,betmgm,totals,Under,-110.0,38.0
