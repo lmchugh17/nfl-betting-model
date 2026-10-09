@@ -25721,3 +25721,381 @@ a73a76599a4f3422803e57bd8f61b626,2026-10-04T17:27:28Z,2026-10-05T00:20:00Z,Carol
 a73a76599a4f3422803e57bd8f61b626,2026-10-04T17:27:28Z,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,CAR,DET,betmgm,spreads,Detroit Lions,-108.0,-3.5
 a73a76599a4f3422803e57bd8f61b626,2026-10-04T17:27:28Z,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,CAR,DET,betmgm,totals,Over,-108.0,51.5
 a73a76599a4f3422803e57bd8f61b626,2026-10-04T17:27:28Z,2026-10-05T00:20:00Z,Carolina Panthers,Detroit Lions,CAR,DET,betmgm,totals,Under,-110.0,51.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,Atlanta Falcons,130.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,New Orleans Saints,-155.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,Atlanta Falcons,100.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,New Orleans Saints,-120.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Over,-112.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Under,-108.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,Atlanta Falcons,134.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,New Orleans Saints,-155.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,Atlanta Falcons,-120.0,3.0
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,New Orleans Saints,100.0,-3.0
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Over,-115.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Under,-105.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,Atlanta Falcons,126.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,New Orleans Saints,-148.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,Atlanta Falcons,-104.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,New Orleans Saints,-118.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Over,-104.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Under,-118.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,Atlanta Falcons,128.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,New Orleans Saints,-148.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,Atlanta Falcons,100.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,New Orleans Saints,-120.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Over,-115.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Under,-105.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,Atlanta Falcons,128.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,New Orleans Saints,-148.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,Atlanta Falcons,105.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,New Orleans Saints,-116.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Over,-113.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Under,-102.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,Atlanta Falcons,125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,New Orleans Saints,-152.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,Atlanta Falcons,-105.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,New Orleans Saints,-117.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,Atlanta Falcons,122.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,New Orleans Saints,-156.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,Atlanta Falcons,-120.0,3.0
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,New Orleans Saints,100.0,-3.0
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,Atlanta Falcons,125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,New Orleans Saints,-150.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,Atlanta Falcons,-102.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,New Orleans Saints,-118.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Over,-110.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Under,-108.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,Atlanta Falcons,130.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,New Orleans Saints,-150.0,
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,Atlanta Falcons,100.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,New Orleans Saints,-120.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Over,-110.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-09-28T20:06:31Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Under,-110.0,48.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,Atlanta Falcons,124.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,New Orleans Saints,-148.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,Atlanta Falcons,-102.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,New Orleans Saints,-118.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Over,-112.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Under,-108.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,Atlanta Falcons,120.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,New Orleans Saints,-140.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,Atlanta Falcons,100.0,2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,New Orleans Saints,-120.0,-2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,Atlanta Falcons,122.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,New Orleans Saints,-144.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,Atlanta Falcons,-104.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,New Orleans Saints,-118.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,Atlanta Falcons,122.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,New Orleans Saints,-142.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,Atlanta Falcons,-104.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,New Orleans Saints,-116.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Over,-105.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Under,-115.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,Atlanta Falcons,122.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,New Orleans Saints,-142.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,Atlanta Falcons,100.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,New Orleans Saints,-110.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Over,-102.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Under,-113.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,Atlanta Falcons,125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,New Orleans Saints,-152.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,Atlanta Falcons,-104.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,New Orleans Saints,-118.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,Atlanta Falcons,117.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,New Orleans Saints,-149.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,Atlanta Falcons,-105.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,New Orleans Saints,-115.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,Atlanta Falcons,120.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,New Orleans Saints,-145.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,Atlanta Falcons,-105.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,New Orleans Saints,-112.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Over,-108.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,Atlanta Falcons,125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,New Orleans Saints,-145.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,Atlanta Falcons,-105.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,New Orleans Saints,-115.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Over,-115.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-01T18:49:14Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Under,-105.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,Atlanta Falcons,114.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,New Orleans Saints,-135.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,Atlanta Falcons,-108.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,New Orleans Saints,-112.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Over,-112.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Under,-108.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,Atlanta Falcons,120.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,New Orleans Saints,-140.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,Atlanta Falcons,105.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,New Orleans Saints,-125.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,Atlanta Falcons,122.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,New Orleans Saints,-144.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,Atlanta Falcons,-104.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,New Orleans Saints,-118.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,Atlanta Falcons,119.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,New Orleans Saints,-139.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,Atlanta Falcons,107.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,New Orleans Saints,-127.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Over,-105.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Under,-115.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,Atlanta Falcons,119.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,New Orleans Saints,-139.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,Atlanta Falcons,112.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,New Orleans Saints,-123.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Over,-102.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Under,-113.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,Atlanta Falcons,120.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,New Orleans Saints,-148.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,Atlanta Falcons,-107.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,New Orleans Saints,-114.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Over,-107.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Under,-114.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,Atlanta Falcons,114.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,New Orleans Saints,-146.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,Atlanta Falcons,-110.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,New Orleans Saints,-110.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,Atlanta Falcons,115.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,New Orleans Saints,-140.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,Atlanta Falcons,-110.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,New Orleans Saints,-108.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Under,-108.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,Atlanta Falcons,120.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,New Orleans Saints,-140.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,Atlanta Falcons,-110.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,New Orleans Saints,-110.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-02T18:21:52Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,Atlanta Falcons,114.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,New Orleans Saints,-135.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,Atlanta Falcons,-115.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,New Orleans Saints,-105.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Over,-112.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Under,-108.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,Atlanta Falcons,115.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,New Orleans Saints,-135.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,Atlanta Falcons,100.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,New Orleans Saints,-120.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,Atlanta Falcons,112.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,New Orleans Saints,-132.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,Atlanta Falcons,-115.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,New Orleans Saints,-105.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,Atlanta Falcons,115.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,New Orleans Saints,-135.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,Atlanta Falcons,102.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,New Orleans Saints,-122.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Over,-105.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Under,-115.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,Atlanta Falcons,115.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,New Orleans Saints,-135.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,Atlanta Falcons,107.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,New Orleans Saints,-118.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Over,-102.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Under,-113.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,Atlanta Falcons,114.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,New Orleans Saints,-141.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,Atlanta Falcons,-110.0,2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,New Orleans Saints,-110.0,-2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Over,-109.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Under,-112.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,Atlanta Falcons,109.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,New Orleans Saints,-133.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,Atlanta Falcons,-110.0,2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,New Orleans Saints,-110.0,-2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,Atlanta Falcons,110.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,New Orleans Saints,-130.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,Atlanta Falcons,-110.0,2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,New Orleans Saints,-108.0,-2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Under,-108.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,Atlanta Falcons,105.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,New Orleans Saints,-125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,Atlanta Falcons,-110.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,New Orleans Saints,-110.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-03T17:12:38Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,Atlanta Falcons,110.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,New Orleans Saints,-130.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,Atlanta Falcons,-105.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,New Orleans Saints,-115.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Over,-115.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Under,-105.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,Atlanta Falcons,105.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,New Orleans Saints,-125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,Atlanta Falcons,100.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,New Orleans Saints,-120.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,Atlanta Falcons,112.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,New Orleans Saints,-132.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,Atlanta Falcons,-115.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,New Orleans Saints,-105.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,Atlanta Falcons,103.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,New Orleans Saints,-123.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,Atlanta Falcons,102.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,New Orleans Saints,-122.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,Atlanta Falcons,103.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,New Orleans Saints,-123.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,Atlanta Falcons,107.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,New Orleans Saints,-118.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Over,-107.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Under,-107.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,Atlanta Falcons,110.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,New Orleans Saints,-136.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,Atlanta Falcons,-109.0,2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,New Orleans Saints,-112.0,-2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Over,-109.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Under,-112.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,Atlanta Falcons,107.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,New Orleans Saints,-131.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,Atlanta Falcons,-110.0,2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,New Orleans Saints,-110.0,-2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,Atlanta Falcons,110.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,New Orleans Saints,-130.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,Atlanta Falcons,-108.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,New Orleans Saints,-110.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Under,-108.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,Atlanta Falcons,105.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,New Orleans Saints,-125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,Atlanta Falcons,-110.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,New Orleans Saints,-110.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T14:46:04Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,Atlanta Falcons,110.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,New Orleans Saints,-130.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,Atlanta Falcons,-105.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,New Orleans Saints,-115.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Over,-115.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Under,-105.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,Atlanta Falcons,105.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,New Orleans Saints,-125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,Atlanta Falcons,100.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,New Orleans Saints,-120.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,Atlanta Falcons,108.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,New Orleans Saints,-126.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,Atlanta Falcons,-115.0,2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,New Orleans Saints,-105.0,-2.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,Atlanta Falcons,103.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,New Orleans Saints,-123.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,Atlanta Falcons,102.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,New Orleans Saints,-122.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,Atlanta Falcons,103.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,New Orleans Saints,-123.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,Atlanta Falcons,107.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,New Orleans Saints,-118.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Over,-107.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Under,-107.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,Atlanta Falcons,110.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,New Orleans Saints,-136.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,Atlanta Falcons,-109.0,2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,New Orleans Saints,-112.0,-2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Over,-109.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Under,-112.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,Atlanta Falcons,107.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,New Orleans Saints,-131.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,Atlanta Falcons,-110.0,2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,New Orleans Saints,-110.0,-2.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,Atlanta Falcons,110.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,New Orleans Saints,-130.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,Atlanta Falcons,-108.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,New Orleans Saints,-110.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Under,-108.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,Atlanta Falcons,105.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,New Orleans Saints,-125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,Atlanta Falcons,-110.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,New Orleans Saints,-110.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-04T17:27:28Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,Atlanta Falcons,102.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,h2h,New Orleans Saints,-122.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,Atlanta Falcons,-112.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,spreads,New Orleans Saints,-108.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Over,-118.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,draftkings,totals,Under,-102.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,Atlanta Falcons,100.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,h2h,New Orleans Saints,-120.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,Atlanta Falcons,-105.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,spreads,New Orleans Saints,-115.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betus,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,Atlanta Falcons,100.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,h2h,New Orleans Saints,-118.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,Atlanta Falcons,-110.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,spreads,New Orleans Saints,-110.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,fanduel,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,Atlanta Falcons,-102.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,h2h,New Orleans Saints,-118.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,Atlanta Falcons,-104.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,spreads,New Orleans Saints,-116.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betonlineag,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,Atlanta Falcons,-102.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,h2h,New Orleans Saints,-118.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,Atlanta Falcons,101.0,1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,spreads,New Orleans Saints,-112.0,-1.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Over,-107.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,lowvig,totals,Under,-107.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,Atlanta Falcons,100.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,h2h,New Orleans Saints,-122.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,Atlanta Falcons,-112.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,spreads,New Orleans Saints,-109.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betrivers,totals,Under,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,Atlanta Falcons,102.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,h2h,New Orleans Saints,-120.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,Atlanta Falcons,-110.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,spreads,New Orleans Saints,-110.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Over,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,mybookieag,totals,Under,-110.0,48.0
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,Atlanta Falcons,105.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,h2h,New Orleans Saints,-125.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,Atlanta Falcons,-105.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,spreads,New Orleans Saints,-105.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Over,-110.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,betmgm,totals,Under,-108.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,Atlanta Falcons,100.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,h2h,New Orleans Saints,-120.0,
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,Atlanta Falcons,-120.0,1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,New Orleans Saints,100.0,-1.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Over,-120.0,47.5
+8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Under,100.0,47.5
