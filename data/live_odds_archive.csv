@@ -26099,3 +26099,253 @@ a73a76599a4f3422803e57bd8f61b626,2026-10-04T17:27:28Z,2026-10-05T00:20:00Z,Carol
 8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,spreads,New Orleans Saints,100.0,-1.5
 8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Over,-120.0,47.5
 8bd90781e17e6d97df3941063cedae1e,2026-10-05T21:15:18Z,2026-10-06T00:15:00Z,New Orleans Saints,Atlanta Falcons,NO,ATL,bovada,totals,Under,100.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Dallas Cowboys,-520.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Tampa Bay Buccaneers,390.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Over,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Dallas Cowboys,-520.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Over,-115.0,46.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Under,-105.0,46.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Dallas Cowboys,-500.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Tampa Bay Buccaneers,340.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Dallas Cowboys,-105.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Tampa Bay Buccaneers,-105.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Over,-107.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Under,-107.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Dallas Cowboys,-560.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Dallas Cowboys,-114.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Tampa Bay Buccaneers,-108.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Over,-112.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-01T18:49:14Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Under,-109.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Dallas Cowboys,-535.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Over,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Dallas Cowboys,-520.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Over,-115.0,46.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Under,-105.0,46.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Dallas Cowboys,-105.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Tampa Bay Buccaneers,-105.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Over,-107.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Under,-107.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Dallas Cowboys,-560.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Dallas Cowboys,-114.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Tampa Bay Buccaneers,-108.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Over,-112.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-02T18:21:52Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Under,-109.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Dallas Cowboys,-535.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Over,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Dallas Cowboys,-520.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Over,-115.0,46.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Under,-105.0,46.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Dallas Cowboys,-500.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Tampa Bay Buccaneers,340.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Dallas Cowboys,-105.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Tampa Bay Buccaneers,-105.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Over,-107.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Under,-107.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Dallas Cowboys,-560.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Dallas Cowboys,-114.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Tampa Bay Buccaneers,-108.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Over,-112.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-03T17:12:38Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Under,-109.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Dallas Cowboys,-535.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Over,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Dallas Cowboys,-115.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Tampa Bay Buccaneers,-105.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Dallas Cowboys,-520.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Over,-115.0,46.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Under,-105.0,46.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Dallas Cowboys,-500.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Tampa Bay Buccaneers,340.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Dallas Cowboys,-115.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Tampa Bay Buccaneers,-105.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Over,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Under,-110.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Tampa Bay Buccaneers,100.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Over,-107.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Under,-107.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Dallas Cowboys,-560.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Dallas Cowboys,-114.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Tampa Bay Buccaneers,-108.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Over,-112.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-04T14:46:04Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Under,-109.0,47.0
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Dallas Cowboys,-500.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Tampa Bay Buccaneers,380.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Dallas Cowboys,-105.0,-10.0
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Tampa Bay Buccaneers,-115.0,10.0
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Over,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,h2h,Dallas Cowboys,-545.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,h2h,Tampa Bay Buccaneers,422.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Over,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Dallas Cowboys,-560.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Tampa Bay Buccaneers,420.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Dallas Cowboys,-115.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Tampa Bay Buccaneers,-105.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Over,-104.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Under,-118.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Dallas Cowboys,-561.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Tampa Bay Buccaneers,367.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Dallas Cowboys,-110.0,-10.0
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Tampa Bay Buccaneers,-110.0,10.0
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Over,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,h2h,Dallas Cowboys,-545.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,h2h,Tampa Bay Buccaneers,412.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Dallas Cowboys,-105.0,-10.0
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Tampa Bay Buccaneers,-115.0,10.0
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Over,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,h2h,Dallas Cowboys,-545.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,h2h,Tampa Bay Buccaneers,412.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Dallas Cowboys,-102.0,-10.0
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Tampa Bay Buccaneers,-108.0,10.0
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Over,-107.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Under,-107.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Dallas Cowboys,-625.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Tampa Bay Buccaneers,450.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Dallas Cowboys,-112.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Tampa Bay Buccaneers,-109.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Over,-106.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Under,-115.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,h2h,Dallas Cowboys,-525.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,spreads,Dallas Cowboys,-118.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,totals,Over,-108.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,h2h,Dallas Cowboys,-550.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,h2h,Tampa Bay Buccaneers,390.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,spreads,Dallas Cowboys,-110.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,spreads,Tampa Bay Buccaneers,-110.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,totals,Over,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-05T21:15:18Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,totals,Under,-110.0,47.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Dallas Cowboys,-500.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,h2h,Tampa Bay Buccaneers,380.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Dallas Cowboys,-108.0,-9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,spreads,Tampa Bay Buccaneers,-112.0,9.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Over,-112.0,48.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,draftkings,totals,Under,-108.0,48.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,h2h,Dallas Cowboys,-500.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,h2h,Tampa Bay Buccaneers,390.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Dallas Cowboys,-105.0,-9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,spreads,Tampa Bay Buccaneers,-115.0,9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Over,-110.0,48.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betus,totals,Under,-110.0,48.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Dallas Cowboys,-500.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,h2h,Tampa Bay Buccaneers,385.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Dallas Cowboys,-115.0,-8.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,spreads,Tampa Bay Buccaneers,-105.0,8.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Over,-114.0,48.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,fanduel,totals,Under,-106.0,48.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Dallas Cowboys,-536.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,h2h,Tampa Bay Buccaneers,397.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Dallas Cowboys,-110.0,-9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,spreads,Tampa Bay Buccaneers,-110.0,9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Over,-110.0,49.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,mybookieag,totals,Under,-110.0,49.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,h2h,Dallas Cowboys,-520.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,h2h,Tampa Bay Buccaneers,396.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Dallas Cowboys,-107.0,-9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,spreads,Tampa Bay Buccaneers,-113.0,9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Over,-110.0,49.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betonlineag,totals,Under,-110.0,49.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,h2h,Dallas Cowboys,-520.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,h2h,Tampa Bay Buccaneers,396.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Dallas Cowboys,-108.0,-8.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,spreads,Tampa Bay Buccaneers,-102.0,8.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Over,-110.0,48.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,lowvig,totals,Under,-104.0,48.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Dallas Cowboys,-500.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,h2h,Tampa Bay Buccaneers,375.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Dallas Cowboys,-109.0,-9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,spreads,Tampa Bay Buccaneers,-112.0,9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Over,-113.0,48.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betrivers,totals,Under,-107.0,48.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,h2h,Dallas Cowboys,-525.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,h2h,Tampa Bay Buccaneers,400.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,spreads,Dallas Cowboys,-105.0,-9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,spreads,Tampa Bay Buccaneers,-105.0,9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,totals,Over,-108.0,49.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,betmgm,totals,Under,-110.0,49.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,h2h,Dallas Cowboys,-500.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,h2h,Tampa Bay Buccaneers,360.0,
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,spreads,Dallas Cowboys,-110.0,-9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,spreads,Tampa Bay Buccaneers,-110.0,9.0
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,totals,Over,-110.0,48.5
+259b5df9aa0d10257f56de78523495e0,2026-10-08T19:15:23Z,2026-10-09T00:15:00Z,Dallas Cowboys,Tampa Bay Buccaneers,DAL,TB,bovada,totals,Under,-110.0,48.5
