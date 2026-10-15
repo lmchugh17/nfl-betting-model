@@ -199,7 +199,7 @@
 
   <div id="tab-upcoming" class="tab-panel">
     <div class="filter-row">
-      <label>Team <select id="team-filter"><option value="">All Teams</option><option value="ARI">ARI</option><option value="ATL">ATL</option><option value="BAL">BAL</option><option value="BUF">BUF</option><option value="CAR">CAR</option><option value="CHI">CHI</option><option value="CLE">CLE</option><option value="DAL">DAL</option><option value="DEN">DEN</option><option value="GB">GB</option><option value="HOU">HOU</option><option value="IND">IND</option><option value="JAX">JAX</option><option value="KC">KC</option><option value="LA">LA</option><option value="LAC">LAC</option><option value="LV">LV</option><option value="NE">NE</option><option value="NO">NO</option><option value="NYG">NYG</option><option value="NYJ">NYJ</option><option value="PHI">PHI</option><option value="PIT">PIT</option><option value="SEA">SEA</option><option value="SF">SF</option><option value="TB">TB</option><option value="TEN">TEN</option><option value="WAS">WAS</option></select></label>
+      <label>Team <select id="team-filter"><option value="">All Teams</option><option value="ARI">ARI</option><option value="ATL">ATL</option><option value="BAL">BAL</option><option value="BUF">BUF</option><option value="CAR">CAR</option><option value="CHI">CHI</option><option value="CIN">CIN</option><option value="CLE">CLE</option><option value="DAL">DAL</option><option value="DEN">DEN</option><option value="DET">DET</option><option value="GB">GB</option><option value="HOU">HOU</option><option value="IND">IND</option><option value="JAX">JAX</option><option value="KC">KC</option><option value="LA">LA</option><option value="LAC">LAC</option><option value="LV">LV</option><option value="MIA">MIA</option><option value="MIN">MIN</option><option value="NE">NE</option><option value="NO">NO</option><option value="NYG">NYG</option><option value="NYJ">NYJ</option><option value="PHI">PHI</option><option value="PIT">PIT</option><option value="SEA">SEA</option><option value="SF">SF</option><option value="TB">TB</option><option value="TEN">TEN</option><option value="WAS">WAS</option></select></label>
       <label>Conference <select id="conf-filter"><option value="">All Conferences</option><option value="AFC">AFC</option><option value="NFC">NFC</option></select></label>
       <label>Division <select id="div-filter"><option value="">All Divisions</option><option value="AFC East">AFC East</option><option value="AFC North">AFC North</option><option value="AFC South">AFC South</option><option value="AFC West">AFC West</option><option value="NFC East">NFC East</option><option value="NFC North">NFC North</option><option value="NFC South">NFC South</option><option value="NFC West">NFC West</option></select></label>
       <span id="filter-count" class="filter-count"></span>
@@ -209,49 +209,49 @@
     <div class="card" data-teams="DEN|SEA" data-confs="AFC|NFC" data-divs="AFC West|NFC West">
       <div class="matchup">SEA @ DEN</div>
       <div class="kickoff">Thu Oct 15, 8:15 PM EDT</div>
-      <div class="prediction-line">Model: DEN by -0.6 (44% win prob) &middot; Market: SEA by 3.0</div>
-      <div class="pick-line">Moneyline pick: <strong>SEA</strong> (56% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>DEN +3.0 <span class="odds">(-114)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="prediction-line">Model: DEN by +1.2 (46% win prob) &middot; Market: SEA by 2.5</div>
+      <div class="pick-line">Moneyline pick: <strong>SEA</strong> (54% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>DEN +2.5 <span class="odds">(-114)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model leans DEN as a slight value play against the number, with Seattle turning to backup QB Drew Lock in place of its normal starter.</div>
-      <ul class="bullets"><li>SEA is starting backup QB Drew Lock this week instead of its usual starter.</li><li>SEA is also missing key contributor Anthony Bradford, while DEN is without Patrick Surtain II and Riley Moss.</li><li>Denver has still covered the spread in 62% of its last 8 games.</li><li>Seattle holds a narrow edge in recent offensive success rate (43% vs 39%), but not enough to flip the pick.</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">40%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">44%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">36%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">30%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">48%</span></div></details>
+      <div class="tldr">Model's spread pick is DEN getting a lean at home, even though it still gives Seattle the slight edge to win outright behind backup QB Drew Lock.</div>
+      <ul class="bullets"><li>DEN is dealing with more starter unavailability than usual this week.</li><li>SEA is starting Drew Lock at quarterback in place of its usual starter, though Seattle still holds a modest edge in recent offensive success rate (43% vs 39%) and explosive-play rate (13% vs 8%, last 8 games).</li><li>Denver has still covered the spread in 62% of its last 8 games, supporting the home lean against the market's 2.5-point line.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">43%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">44%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">45%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">36%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">48%</span></div></details>
       
     </div>
     <div class="card" data-teams="JAX|HOU" data-confs="AFC|AFC" data-divs="AFC South|AFC South">
       <div class="matchup">HOU @ JAX</div>
       <div class="kickoff">Sun Oct 18, 9:30 AM EDT</div>
-      <div class="prediction-line">Model: JAX by +11.6 (68% win prob) &middot; Market: JAX by 3.0</div>
+      <div class="prediction-line">Model: JAX by +11.6 (68% win prob) &middot; Market: JAX by 2.5</div>
       <div class="pick-line">Moneyline pick: <strong>JAX</strong> (68% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>JAX -3.0 <span class="odds">(-115)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="pick-line">Spread pick: <strong>JAX -2.5 <span class="odds">(-115)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 50% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
       <div class="tldr">Model likes JAX at home, driven by a clear schedule-adjusted edge over Houston.</div>
-      <ul class="bullets"><li>JAX has outrated HOU by 14.8 points of opponent-adjusted margin (+12.5 vs -2.4) once schedule strength is factored in.</li><li>Jacksonville carries a 19-point ELO edge (1559 vs 1540), good for a 53% pre-game win probability on its own.</li><li>Houston has played at a faster pace recently (26.9s vs 30.3s per play) and leaned more pass-heavy (63% vs 59%).</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">72%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">74%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">82%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">82%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">66%</span></div></details>
+      <ul class="bullets"><li>JAX has outrated HOU by 14.9 points of opponent-adjusted margin (+12.5 vs -2.4) once schedule strength is factored in.</li><li>Jacksonville carries a 19-point ELO edge (1559 vs 1540), good for a 53% pre-game win probability on its own.</li><li>Houston has played at a faster pace recently (26.9s vs 30.3s per play) and leaned more pass-heavy (63% vs 59%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">72%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">74%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">81%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">82%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">66%</span></div></details>
       
     </div>
     <div class="card" data-teams="ATL|CHI" data-confs="NFC|NFC" data-divs="NFC South|NFC North">
       <div class="matchup">CHI @ ATL</div>
       <div class="kickoff">Sun Oct 18, 1:00 PM EDT</div>
-      <div class="prediction-line">Model: ATL by +4.3 (47% win prob) &middot; Market: CHI by 3.0</div>
+      <div class="prediction-line">Model: ATL by +4.3 (47% win prob) &middot; Market: CHI by 2.5</div>
       <div class="pick-line">Moneyline pick: <strong>CHI</strong> (53% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>ATL +3.0 <span class="odds">(100)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="pick-line">Spread pick: <strong>ATL +2.5 <span class="odds">(100)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 50% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
       <div class="tldr">Model's spread pick is ATL getting points at home, even as it still projects CHI as the slightly more likely game-winner.</div>
-      <ul class="bullets"><li>CHI carries the raw ELO edge (58 points, 1507 vs 1449) and has leaned more pass-heavy recently (59% vs 50%).</li><li>CHI is also dealing with more starter unavailability than usual this week, and ATL is missing key contributor AJ Terrell.</li><li>Despite CHI's edge in several underlying metrics, the model still expects ATL to outperform the market's 3-point line at home.</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">53%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">35%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">41%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">47%</span></div></details>
+      <ul class="bullets"><li>CHI carries the raw ELO edge (58 points, 1507 vs 1449) and has leaned more pass-heavy overall recently (59% vs 50%).</li><li>CHI is dealing with more starter unavailability than usual this week, while ATL is missing key contributor AJ Terrell.</li><li>Despite CHI's edges in several underlying metrics, the model still expects ATL to beat the market's number as a home underdog.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">53%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">36%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">41%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">47%</span></div></details>
       
     </div>
     <div class="card" data-teams="CLE|BAL" data-confs="AFC|AFC" data-divs="AFC North|AFC North">
       <div class="matchup">BAL @ CLE</div>
       <div class="kickoff">Sun Oct 18, 1:00 PM EDT</div>
-      <div class="prediction-line">Model: CLE by -9.2 (34% win prob) &middot; Market: BAL by 4.5</div>
+      <div class="prediction-line">Model: CLE by -9.2 (34% win prob) &middot; Market: BAL by 5.5</div>
       <div class="pick-line">Moneyline pick: <strong>BAL</strong> (66% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>BAL -4.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="pick-line">Spread pick: <strong>BAL -5.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model backs BAL on the road, pointing to a lopsided ELO gap and Baltimore's edges in offensive efficiency.</div>
-      <ul class="bullets"><li>BAL carries a massive 175-point ELO edge over CLE (1590 vs 1414); pre-game ELO alone gives Cleveland just a 31% win probability.</li><li>Baltimore has the edge in recent offensive success rate (49% vs 40%) and rushing EPA per play (+0.062 vs -0.228, last 8 games).</li><li>CLE has leaned more pass-heavy in neutral game script recently (63% vs 47%).</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">27%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">34%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">20%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">15%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">34%</span></div></details>
+      <div class="tldr">Model backs BAL on the road, pointing to a lopsided ELO gap and Baltimore's edge in early-season offensive efficiency.</div>
+      <ul class="bullets"><li>BAL carries a 175-point ELO edge over Cleveland (1590 vs 1414); pre-game ELO alone gives the Browns just a 31% win probability.</li><li>Baltimore has the edge in recent offensive success rate (49% vs 40%) and rushing EPA per play (+0.062 vs -0.228, last 8 games).</li><li>Cleveland has leaned more pass-heavy in neutral game script recently (63% vs 47%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">27%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">34%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">21%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">15%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">34%</span></div></details>
       
     </div>
     <div class="card" data-teams="IND|TEN" data-confs="AFC|AFC" data-divs="AFC South|AFC South">
@@ -269,13 +269,13 @@
     <div class="card" data-teams="NE|NYJ" data-confs="AFC|AFC" data-divs="AFC East|AFC East">
       <div class="matchup">NYJ @ NE</div>
       <div class="kickoff">Sun Oct 18, 1:00 PM EDT</div>
-      <div class="prediction-line">Model: NE by +9.0 (69% win prob) &middot; Market: NE by 7.0</div>
+      <div class="prediction-line">Model: NE by +9.4 (69% win prob) &middot; Market: NE by 7.5</div>
       <div class="pick-line">Moneyline pick: <strong>NE</strong> (69% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>NE -7.0 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="pick-line">Spread pick: <strong>NE -7.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
       <div class="tldr">Model takes NE at home, leaning on New England's big ELO edge and its defensive efficiency against NYJ.</div>
-      <ul class="bullets"><li>NE carries a 166-point ELO edge over NYJ (1542 vs 1376), good for a 77% pre-game win probability.</li><li>New England has outrated NYJ by 9.1 points of opponent-adjusted margin (+7.7 vs -1.4) once schedule strength is factored in.</li><li>NE also has the edge in defensive success rate allowed (38% vs 47%) and explosive-play rate allowed (9% vs 12%) over the last 8 games.</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">72%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">76%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">80%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">82%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">70%</span></div></details>
+      <ul class="bullets"><li>NE carries a 166-point ELO edge over NYJ (1542 vs 1376), good for a 77% pre-game win probability.</li><li>New England has outrated NYJ by 9.1 points of opponent-adjusted margin (+7.6 vs -1.5) once schedule strength is factored in.</li><li>NE also has the edge in defensive success rate allowed (38% vs 47%) and explosive-play rate allowed (9% vs 12%) over the last 8 games.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">72%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">76%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">81%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">82%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">70%</span></div></details>
       
     </div>
     <div class="card" data-teams="NYG|NO" data-confs="NFC|NFC" data-divs="NFC East|NFC South">
@@ -285,45 +285,45 @@
       <div class="pick-line">Moneyline pick: <strong>NYG</strong> (63% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
       <div class="pick-line">Spread pick: <strong>NYG +1.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model backs NYG at home against the spread, even though New Orleans is nominally favored by the market.</div>
-      <ul class="bullets"><li>NYG carries a 10-point ELO edge over NO (1425 vs 1415), a thin margin that still tips the model's lean.</li><li>NYG has the edge in recent rushing EPA per play (-0.121 vs -0.127, last 8 games), while NO has picked up its offensive pace recently (26.4s vs 29.5s per play).</li><li>NYG is dealing with more starter unavailability than usual this week, a headwind working against the pick.</li></ul>
+      <div class="tldr">Model backs NYG at home, even with the Giants battling their own injury report, pointing to a modest ELO edge over New Orleans.</div>
+      <ul class="bullets"><li>NYG carries a 10-point ELO edge over New Orleans (1425 vs 1415).</li><li>New Orleans has played at a faster pace recently (26.4s vs 29.5s per play).</li><li>NYG is dealing with more starter unavailability than usual this week, tempering what is otherwise a thin edge for the Giants.</li></ul>
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">70%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">60%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">66%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">75%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">61%</span></div></details>
       
     </div>
     <div class="card" data-teams="PHI|CAR" data-confs="NFC|NFC" data-divs="NFC East|NFC South">
       <div class="matchup">CAR @ PHI</div>
       <div class="kickoff">Sun Oct 18, 1:00 PM EDT</div>
-      <div class="prediction-line">Model: PHI by -1.8 (51% win prob) &middot; Market: PHI by 1.5</div>
+      <div class="prediction-line">Model: PHI by -1.8 (51% win prob) &middot; Market: CAR by 1.5</div>
       <div class="pick-line">Moneyline pick: <strong>PHI</strong> (51% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>CAR +1.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="pick-line">Spread pick: <strong>CAR -1.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model's spread pick is CAR getting points on the road, even while it still projects PHI as the more likely game-winner.</div>
-      <ul class="bullets"><li>CAR has actually outrated PHI by 9.7 points of opponent-adjusted margin (+5.1 vs -4.7) once schedule strength is accounted for, despite Philadelphia's big raw ELO edge (162 points, 1576 vs 1414).</li><li>Carolina also holds the edge in recent offensive success rate (43% vs 37%) and offensive EPA per play (-0.009 vs -0.108, last 8 games).</li><li>Pre-game ELO alone gives PHI a 76% win probability, underscoring that this is a spread value play rather than an outright upset call.</li></ul>
+      <div class="tldr">Model's spread pick is CAR, already favored by the market and backed further by Carolina's schedule-adjusted edge, even though Philadelphia still projects as the likelier game-winner.</div>
+      <ul class="bullets"><li>Despite a 162-point ELO gap favoring Philadelphia (1576 vs 1414, 76% pre-game win probability), CAR actually outrates PHI by 9.7 points of opponent-adjusted margin (+5.0 vs -4.7) once schedule strength is factored in.</li><li>Carolina also holds the edge in recent offensive success rate (43% vs 37%) and offensive EPA per play (-0.009 vs -0.108, last 8 games).</li><li>The model's spread lean is Carolina, who the market already favors by 1.5; Philadelphia remains the narrow pick to win outright.</li></ul>
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">47%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">46%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">60%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">63%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">52%</span></div></details>
       
     </div>
     <div class="card" data-teams="TB|PIT" data-confs="NFC|AFC" data-divs="NFC South|AFC North">
       <div class="matchup">PIT @ TB</div>
       <div class="kickoff">Sun Oct 18, 1:00 PM EDT</div>
-      <div class="prediction-line">Model: TB by +2.9 (53% win prob) &middot; Market: PIT by 3.0</div>
+      <div class="prediction-line">Model: TB by +2.9 (53% win prob) &middot; Market: PIT by 2.5</div>
       <div class="pick-line">Moneyline pick: <strong>TB</strong> (53% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>TB +3.0 <span class="odds">(-114)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
-      <div class="wager-line">Cover probability 50% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model backs TB at home, with Tampa Bay's offense trending better in success rate while Pittsburgh deals with a pace disadvantage.</div>
-      <ul class="bullets"><li>TB has the edge in recent offensive success rate (43% vs 41%, last 8 games).</li><li>TB is starting QB Jalon Daniels in place of its usual starter this week.</li><li>TB is missing key contributors Antoine Winfield Jr., Benjamin Morrison, and Rueben Bain, while PIT holds the edge in pace of play (28.1s vs 30.4s per play) and explosive-play rate (11% vs 8%).</li></ul>
+      <div class="pick-line">Spread pick: <strong>TB +2.5 <span class="odds">(-114)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model likes TB at home despite a changed QB situation and a notable injury list, seeing value against a market line favoring Pittsburgh.</div>
+      <ul class="bullets"><li>Tampa Bay is missing key contributors Antoine Winfield Jr., Benjamin Morrison and Rueben Bain this week, and is also starting Jalon Daniels at quarterback in place of its usual starter.</li><li>Pittsburgh has played at a faster pace recently (28.1s vs 30.4s per play) and holds the edge in explosive-play rate (11% vs 8%, last 8 games).</li><li>Still, TB holds a slight edge in recent offensive success rate (43% vs 41%, last 8 games), and the model sees enough value to back the Buccaneers against a market line favoring Pittsburgh by 2.5.</li></ul>
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">57%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">59%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">53%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">52%</span></div></details>
       
     </div>
     <div class="card" data-teams="LA|ARI" data-confs="NFC|NFC" data-divs="NFC West|NFC West">
       <div class="matchup">ARI @ LA</div>
       <div class="kickoff">Sun Oct 18, 4:05 PM EDT</div>
-      <div class="prediction-line">Model: LA by +13.0 (75% win prob) &middot; Market: LA by 12.5</div>
-      <div class="pick-line">Moneyline pick: <strong>LA</strong> (75% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="prediction-line">Model: LA by +13.7 (74% win prob) &middot; Market: LA by 12.5</div>
+      <div class="pick-line">Moneyline pick: <strong>LA</strong> (74% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
       <div class="pick-line">Spread pick: <strong>LA -12.5 <span class="odds">(-105)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model likes LA at home by a wide margin, backed by a massive ELO gap and a strong head-to-head history against Arizona.</div>
-      <ul class="bullets"><li>LA carries a 192-point ELO edge over ARI (1582 vs 1390), good for a 79% pre-game win probability.</li><li>Over their last 6 meetings, LA has outscored ARI by an average of 9.7 points.</li><li>LA has outrated ARI by 11.5 points of opponent-adjusted margin (+0.5 vs -11.0) once schedule strength is factored in, and holds the edge in explosive-play rate allowed (10% vs 14%).</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">74%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">86%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">92%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">87%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">82%</span></div></details>
+      <div class="tldr">Model backs LA at home, pointing to a commanding ELO edge over Arizona and a strong head-to-head history.</div>
+      <ul class="bullets"><li>LA carries a 187-point ELO edge over Arizona (1577 vs 1390), good for a 79% pre-game win probability.</li><li>Over their last 6 meetings, LA has outscored Arizona by an average of 9.7 points.</li><li>LA also outrates Arizona by 11.7 points of opponent-adjusted margin (+0.7 vs -11.1) once schedule strength is factored in.</li><li>LA is missing key contributor Myles Garrett this week.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">72%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">85%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">92%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">87%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">81%</span></div></details>
       
     </div>
     <div class="card" data-teams="KC|LAC" data-confs="AFC|AFC" data-divs="AFC West|AFC West">
@@ -333,32 +333,32 @@
       <div class="pick-line">Moneyline pick: <strong>KC</strong> (68% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
       <div class="pick-line">Spread pick: <strong>LAC +8.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model's spread pick is LAC getting points on the road, even as it still projects KC as the likely outright winner.</div>
-      <ul class="bullets"><li>KC carries a 117-point ELO edge over LAC (1591 vs 1474), good for a 71% pre-game win probability, but the model's full margin projection (KC by about 7.5) falls just short of the market's 8.5-point line.</li><li>KC has the edge in recent offensive EPA per play (-0.048 vs -0.218, last 8 games) and has leaned more pass-heavy in neutral script (63% vs 53%).</li><li>KC is also dealing with more starter unavailability than usual, per its most recent available injury report.</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">80%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">70%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">73%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">66%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">68%</span></div></details>
+      <div class="tldr">Model still projects KC to win outright, but likes LAC to cover as a road underdog given Kansas City's own injury concerns.</div>
+      <ul class="bullets"><li>KC carries a 117-point ELO edge over the Chargers (1591 vs 1474), good for a 71% pre-game win probability, and still projects as the likely winner.</li><li>KC is dealing with more starter unavailability than usual this week, which tempers the model's confidence in the full 8.5-point spread.</li><li>Kansas City does hold the edge in recent offensive EPA per play (-0.048 vs -0.218, last 8 games) and has leaned more pass-heavy in neutral game script (63% vs 53%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">80%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">70%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">72%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">65%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">68%</span></div></details>
       
     </div>
     <div class="card" data-teams="LV|BUF" data-confs="AFC|AFC" data-divs="AFC West|AFC East">
       <div class="matchup">BUF @ LV</div>
       <div class="kickoff">Sun Oct 18, 4:25 PM EDT</div>
-      <div class="prediction-line">Model: LV by -7.0 (35% win prob) &middot; Market: BUF by 6.0</div>
+      <div class="prediction-line">Model: LV by -8.4 (35% win prob) &middot; Market: BUF by 5.5</div>
       <div class="pick-line">Moneyline pick: <strong>BUF</strong> (65% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
-      <div class="pick-line">Spread pick: <strong>BUF -6.0 <span class="odds">(-115)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="pick-line">Spread pick: <strong>BUF -5.5 <span class="odds">(-115)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model backs BUF on the road, pointing to a huge ELO gap and clear edges in rushing efficiency and offensive success rate over Las Vegas.</div>
-      <ul class="bullets"><li>BUF carries a massive 243-point ELO edge over LV (1637 vs 1393); pre-game ELO alone gives Las Vegas just a 24% win probability.</li><li>Buffalo has the edge in recent rushing EPA per play (+0.070 vs -0.260) and offensive success rate (48% vs 40%) over the last 8 games.</li><li>BUF is dealing with more starter unavailability than usual this week, the lone headwind working against the pick.</li></ul>
-      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">21%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">32%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">40%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">35%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">31%</span></div></details>
+      <div class="tldr">Model backs BUF on the road, leaning on a massive ELO gap despite Buffalo's own banged-up injury report.</div>
+      <ul class="bullets"><li>BUF carries a 248-point ELO edge over Las Vegas (1642 vs 1393); pre-game ELO alone gives the Raiders just a 23% win probability.</li><li>Buffalo has the edge in recent offensive success rate (50% vs 40%) and rushing EPA per play (+0.048 vs -0.260, last 8 games).</li><li>BUF is dealing with more starter unavailability than usual this week, per its Week 5 injury report.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">19%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">31%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">44%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">41%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">31%</span></div></details>
       
     </div>
     <div class="card" data-teams="GB|DAL" data-confs="NFC|NFC" data-divs="NFC North|NFC East">
       <div class="matchup">DAL @ GB</div>
       <div class="kickoff">Sun Oct 18, 8:20 PM EDT</div>
-      <div class="prediction-line">Model: GB by +1.2 (50% win prob) &middot; Market: GB by 1.5</div>
+      <div class="prediction-line">Model: GB by +1.3 (50% win prob) &middot; Market: GB by 1.5</div>
       <div class="pick-line">Moneyline pick: <strong>DAL</strong> (50% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
       <div class="pick-line">Spread pick: <strong>DAL +1.5 <span class="odds">(-112)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model's lean is DAL in a near coin-flip game, with Dallas's offensive efficiency edges narrowly outweighing Green Bay's slight raw ELO advantage.</div>
-      <ul class="bullets"><li>DAL has the edge in recent offensive EPA per play (+0.117 vs -0.006) and offensive success rate (48% vs 42%) over the last 8 games.</li><li>Dallas also holds a narrow edge in rushing EPA per play (-0.053 vs -0.354).</li><li>Pre-game ELO alone gives GB a 66% win probability, and Green Bay is missing key contributors Zach Bako-Bewele and Jayden Reed.</li></ul>
+      <div class="tldr">Model's lean is a virtual coin flip, with a tiny shade toward DAL thanks to Dallas's edge in recent offensive efficiency.</div>
+      <ul class="bullets"><li>DAL has the edge in recent offensive efficiency, including offensive EPA per play (+0.117 vs -0.006) and offensive success rate (48% vs 42%, last 8 games).</li><li>Dallas also has the edge in recent rushing EPA per play (-0.053 vs -0.354, last 8 games).</li><li>Green Bay is missing key contributors Zach Bako-Bewele and Jayden Reed, even as pre-game ELO still gives GB a 66% win probability.</li></ul>
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">42%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">52%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">57%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">52%</span></div></details>
       
     </div>
@@ -369,21 +369,165 @@
       <div class="pick-line">Moneyline pick: <strong>SF</strong> (70% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
       <div class="pick-line">Spread pick: <strong>SF -7.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
       <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
-      <div class="tldr">Model backs SF at home comfortably, citing a big ELO edge and a wide schedule-adjusted gap over Washington.</div>
-      <ul class="bullets"><li>SF carries a 162-point ELO edge over WAS (1593 vs 1431), good for a 76% pre-game win probability.</li><li>San Francisco has outrated Washington by 19.5 points of opponent-adjusted margin (+9.8 vs -9.6) once schedule strength is factored in.</li><li>Both teams are banged up: SF is missing Marques Sigle and Nick Bosa, while WAS is missing Samuel Cosmi, Stefon Diggs, Nick Cross and one other.</li></ul>
+      <div class="tldr">Model strongly backs SF at home, pointing to a big ELO gap and a lopsided schedule-adjusted margin over Washington.</div>
+      <ul class="bullets"><li>SF carries a 162-point ELO edge over Washington (1593 vs 1431), good for a 76% pre-game win probability.</li><li>San Francisco has outrated Washington by 19.5 points of opponent-adjusted margin (+9.9 vs -9.7) once schedule strength is factored in.</li><li>Washington is dealing with a heavier injury list, missing Samuel Cosmi, Stefon Diggs, Nick Cross and one other player, while SF is missing Marques Sigle and Nick Bosa.</li></ul>
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">76%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">74%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">77%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">86%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">72%</span></div></details>
       
     </div>
     <div class="card" data-teams="CHI|NE" data-confs="NFC|AFC" data-divs="NFC North|AFC East">
       <div class="matchup">NE @ CHI</div>
       <div class="kickoff">Thu Oct 22, 8:15 PM EDT</div>
-      <div class="prediction-line">Model: CHI by +7.0 (65% win prob) &middot; Market: no line</div>
+      <div class="prediction-line">Model: CHI by +7.0 (65% win prob) &middot; Market: CHI by 1.5</div>
       <div class="pick-line">Moneyline pick: <strong>CHI</strong> (65% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
-      
-      
-      <div class="tldr">With no market line posted yet, model projects CHI to beat NE by about a touchdown at home.</div>
-      <ul class="bullets"><li>CHI holds the edge in recent offensive success rate (45% vs 41%, last 8 games).</li><li>NE is missing several key contributors, including Michael Onwenu, Mack Hollins, and Christian Gonzalez, yet still carries a 35-point ELO edge over CHI (1542 vs 1507).</li><li>CHI is also playing under a new head coach this season.</li></ul>
+      <div class="pick-line">Spread pick: <strong>CHI -1.5 <span class="odds">(-120)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model likes CHI at home, outweighing New England's raw ELO edge with a heavier Patriots injury list.</div>
+      <ul class="bullets"><li>New England is missing key contributors Michael Onwenu, Mack Hollins, Christian Gonzalez and one other player this week.</li><li>CHI holds the edge in recent offensive success rate (45% vs 41%, last 8 games), even while playing under a new head coach this season.</li><li>NE still carries a 35-point ELO edge (1542 vs 1507) and has the edge in explosive-play rate allowed (9% vs 14%), but the model leans toward Chicago at home.</li></ul>
       <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">71%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">63%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">81%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">80%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">65%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="NO|PIT" data-confs="NFC|AFC" data-divs="NFC South|AFC North">
+      <div class="matchup">PIT @ NO</div>
+      <div class="kickoff">Sun Oct 25, 9:30 AM EDT</div>
+      <div class="prediction-line">Model: NO by -3.4 (48% win prob) &middot; Market: PIT by 2.5</div>
+      <div class="pick-line">Moneyline pick: <strong>PIT</strong> (52% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>PIT -2.5 <span class="odds">(-105)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model likes PIT on the road, already favored by the market, backed by a solid ELO edge and better rushing efficiency.</div>
+      <ul class="bullets"><li>Pre-game ELO alone gives New Orleans just a 37% win probability, and PIT carries a 95-point ELO edge overall (1510 vs 1415).</li><li>Pittsburgh has the edge in recent rushing EPA per play (-0.043 vs -0.127, last 8 games).</li><li>New Orleans does hold the edge in red-zone touchdown rate (71% vs 38%) and has played at a faster pace recently (26.4s vs 28.1s per play), but the model still likes Pittsburgh, who the market already favors by 2.5.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">54%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">44%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">47%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">44%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">45%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="ATL|SF" data-confs="NFC|NFC" data-divs="NFC South|NFC West">
+      <div class="matchup">SF @ ATL</div>
+      <div class="kickoff">Sun Oct 25, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: ATL by -9.2 (38% win prob) &middot; Market: SF by 4.5</div>
+      <div class="pick-line">Moneyline pick: <strong>SF</strong> (62% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>SF -4.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model likes SF on the road by more than the market does, pointing to a big ELO gap over Atlanta.</div>
+      <ul class="bullets"><li>SF carries a 143-point ELO edge over Atlanta (1593 vs 1449); pre-game ELO alone gives the Falcons just a 36% win probability.</li><li>San Francisco has the edge in recent offensive success rate (48% vs 43%, last 8 games), even while missing key contributors Marques Sigle and Nick Bosa.</li><li>Atlanta is missing key contributor AJ Terrell this week.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">33%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">35%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">26%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">36%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">37%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="BAL|CIN" data-confs="AFC|AFC" data-divs="AFC North|AFC North">
+      <div class="matchup">CIN @ BAL</div>
+      <div class="kickoff">Sun Oct 25, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: BAL by +4.1 (57% win prob) &middot; Market: BAL by 3.5</div>
+      <div class="pick-line">Moneyline pick: <strong>BAL</strong> (57% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>BAL -3.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model leans BAL at home, backed by a solid ELO edge, even as Cincinnati gets extra rest coming off its bye.</div>
+      <ul class="bullets"><li>BAL carries an 81-point ELO edge over Cincinnati (1590 vs 1509), good for a 67% pre-game win probability.</li><li>Cincinnati enters off a bye week with 14 days of rest and has leaned more pass-heavy in neutral game script recently (68% vs 47%).</li><li>Baltimore is missing key contributor Trey Hendrickson this week.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">55%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">62%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">55%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">60%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="CAR|TB" data-confs="NFC|NFC" data-divs="NFC South|NFC South">
+      <div class="matchup">TB @ CAR</div>
+      <div class="kickoff">Sun Oct 25, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: CAR by +0.7 (50% win prob) &middot; Market: CAR by 3.0</div>
+      <div class="pick-line">Moneyline pick: <strong>CAR</strong> (50% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>TB +3.0 <span class="odds">(-114)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model's spread pick is TB on the road, leaning on a solid ELO edge, even though it projects the game as a virtual coin flip to win outright.</div>
+      <ul class="bullets"><li>TB carries an 84-point ELO edge over Carolina (1498 vs 1414); pre-game ELO alone gives the Panthers just a 44% win probability.</li><li>Tampa Bay has the edge in recent rushing EPA per play (-0.072 vs -0.195, last 8 games).</li><li>Carolina does hold the edge in explosive-play rate (12% vs 8%) and red-zone touchdown rate (76% vs 50%, last 8 games), but the model still likes Tampa Bay to beat the market's 3-point line.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">47%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">52%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">47%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">50%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="HOU|NYG" data-confs="AFC|NFC" data-divs="AFC South|NFC East">
+      <div class="matchup">NYG @ HOU</div>
+      <div class="kickoff">Sun Oct 25, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: HOU by +7.1 (60% win prob) &middot; Market: HOU by 7.0</div>
+      <div class="pick-line">Moneyline pick: <strong>HOU</strong> (60% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>HOU -7.0 <span class="odds">(-105)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model likes HOU at home, matching the market closely thanks to a big ELO edge and the Giants' own injury concerns.</div>
+      <ul class="bullets"><li>HOU carries a 115-point ELO edge over NYG (1540 vs 1425), good for a 71% pre-game win probability.</li><li>NYG is dealing with more starter unavailability than usual this week.</li><li>Houston has played at a faster pace recently (26.9s vs 29.5s per play) and leaned more pass-heavy overall (63% vs 56%).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">55%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">67%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">66%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">57%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">61%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="MIN|IND" data-confs="NFC|AFC" data-divs="NFC North|AFC South">
+      <div class="matchup">IND @ MIN</div>
+      <div class="kickoff">Sun Oct 25, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: MIN by +14.4 (69% win prob) &middot; Market: MIN by 5.5</div>
+      <div class="pick-line">Moneyline pick: <strong>MIN</strong> (69% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>MIN -5.5 <span class="odds">(-110*)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 50% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model strongly likes MIN at home, pointing to a big schedule-adjusted edge and a clear advantage in defensive efficiency over Indianapolis.</div>
+      <ul class="bullets"><li>MIN carries a 108-point ELO edge over Indianapolis (1578 vs 1470), good for a 70% pre-game win probability.</li><li>Minnesota has outrated Indianapolis by 11.2 points of opponent-adjusted margin (+8.3 vs -2.9) once schedule strength is factored in.</li><li>MIN also has the edge in recent defensive success rate allowed (33% vs 45%, last 8 games), while Indianapolis's lone edge is in rushing EPA per play (+0.025 vs -0.114).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">77%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">71%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">84%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">84%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">66%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="NYJ|MIA" data-confs="AFC|AFC" data-divs="AFC East|AFC East">
+      <div class="matchup">MIA @ NYJ</div>
+      <div class="kickoff">Sun Oct 25, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: NYJ by -2.4 (52% win prob) &middot; Market: NYJ by 4.5</div>
+      <div class="pick-line">Moneyline pick: <strong>NYJ</strong> (52% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>MIA +4.5 <span class="odds">(-110*)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 50% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model's spread pick is MIA getting a big number on the road, even though it still gives NYJ the slight edge to win outright.</div>
+      <ul class="bullets"><li>MIA carries a 46-point ELO edge over NYJ (1422 vs 1376) and enters off a bye week with 14 days of rest.</li><li>Miami holds the edge in recent explosive-play rate (12% vs 9%, last 8 games), even while missing key contributors Caleb Douglas and De'Von Achane.</li><li>NYJ has leaned more pass-heavy in neutral game script recently (58% vs 40%), but the model still sees Miami as undervalued against the market's 4.5-point line.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">48%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">52%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">54%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">61%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">52%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="TEN|CLE" data-confs="AFC|AFC" data-divs="AFC South|AFC North">
+      <div class="matchup">CLE @ TEN</div>
+      <div class="kickoff">Sun Oct 25, 1:00 PM EDT</div>
+      <div class="prediction-line">Model: TEN by -1.4 (44% win prob) &middot; Market: CLE by 1.5</div>
+      <div class="pick-line">Moneyline pick: <strong>CLE</strong> (56% win prob) <span class="tier tier-low">LOW Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>TEN +1.5 <span class="odds">(-115)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model's lean is essentially a coin flip, with Cleveland still projected to win outright despite its own injury concerns.</div>
+      <ul class="bullets"><li>CLE carries an 88-point ELO edge over Tennessee (1414 vs 1326) and outrates the Titans by 12.9 points of opponent-adjusted margin (-0.2 vs -13.1) once schedule strength is factored in.</li><li>Cleveland is dealing with more starter unavailability than usual this week, which narrows the model's confidence against the market's 1.5-point line.</li><li>The spread pick is the Titans by the slimmest of margins, with the model's own edge sitting at just a tenth of a point.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">40%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">40%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">32%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">47%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">46%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="ARI|DEN" data-confs="NFC|AFC" data-divs="NFC West|AFC West">
+      <div class="matchup">DEN @ ARI</div>
+      <div class="kickoff">Sun Oct 25, 4:05 PM EDT</div>
+      <div class="prediction-line">Model: ARI by -3.8 (39% win prob) &middot; Market: DEN by 5.5</div>
+      <div class="pick-line">Moneyline pick: <strong>DEN</strong> (61% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>ARI +5.5 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model still projects DEN to win outright, but likes ARI to cover as a home underdog given Denver's own injury report.</div>
+      <ul class="bullets"><li>DEN carries a 179-point ELO edge over Arizona (1569 vs 1390) and still projects as the likely winner.</li><li>Denver is dealing with more starter unavailability than usual this week, which tempers the model's confidence in the full 5.5-point spread.</li><li>DEN does hold the edge in recent defensive success rate allowed (39% vs 47%, last 8 games) and outrates Arizona by 12.6 points of opponent-adjusted margin (+1.6 vs -11.1) once schedule strength is factored in.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">32%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">37%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">22%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">28%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">41%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="DET|GB" data-confs="NFC|NFC" data-divs="NFC North|NFC North">
+      <div class="matchup">GB @ DET</div>
+      <div class="kickoff">Sun Oct 25, 4:25 PM EDT</div>
+      <div class="prediction-line">Model: DET by +4.8 (62% win prob) &middot; Market: DET by 3.0</div>
+      <div class="pick-line">Moneyline pick: <strong>DET</strong> (62% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>DET -3.0 <span class="odds">(-110*)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model backs DET at home, pointing to a modest ELO edge and better recent offensive efficiency than Green Bay.</div>
+      <ul class="bullets"><li>DET carries a 34-point ELO edge over Green Bay (1578 vs 1544), good for a 61% pre-game win probability.</li><li>Detroit has the edge in recent offensive success rate (47% vs 42%, last 8 games).</li><li>DET is missing key contributors Ben Bartch, Rock Ya-Sin and Avonte Maddox this week.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">61%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">65%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">66%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">67%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">64%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="LV|LA" data-confs="AFC|NFC" data-divs="AFC West|NFC West">
+      <div class="matchup">LA @ LV</div>
+      <div class="kickoff">Sun Oct 25, 4:25 PM EDT</div>
+      <div class="prediction-line">Model: LV by -1.3 (38% win prob) &middot; Market: LA by 7.0</div>
+      <div class="pick-line">Moneyline pick: <strong>LA</strong> (62% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>LV +7.0 <span class="odds">(-110)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 50% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model still projects LA to win outright, but likes LV to cover as a big home underdog given the Rams' own injury concerns and a still-sizable Raiders pass rush.</div>
+      <ul class="bullets"><li>LA carries a 184-point ELO edge over Las Vegas (1577 vs 1393) and still projects as the likely winner.</li><li>LA is missing key contributor Myles Garrett, and the model doesn't see enough there to justify the market's full 7-point line.</li><li>Las Vegas holds the edge in recent pass-rush pressure rate (21% vs 13%, last 8 games).</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">27%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">36%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">39%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">34%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">38%</span></div></details>
+      
+    </div>
+    <div class="card" data-teams="SEA|KC" data-confs="NFC|AFC" data-divs="NFC West|AFC West">
+      <div class="matchup">KC @ SEA</div>
+      <div class="kickoff">Sun Oct 25, 8:20 PM EDT</div>
+      <div class="prediction-line">Model: SEA by +7.5 (61% win prob) &middot; Market: SEA by 2.5</div>
+      <div class="pick-line">Moneyline pick: <strong>SEA</strong> (61% win prob) <span class="tier tier-medium">MEDIUM Confidence&dagger;</span></div>
+      <div class="pick-line">Spread pick: <strong>SEA -2.5 <span class="odds">(-105)</span></strong> <span class="tier tier-nobet">NO BET</span></div>
+      <div class="wager-line">Cover probability 49% &middot; not staked: on the 2025 holdout this model's edge size had no relationship to covering (corr +0.006, p=0.93), so the calibrated cover probability sits below the break-even a -110 price needs. The pick and its reasoning still stand as analysis.</div>
+      <div class="tldr">Model backs SEA at home, with Kansas City's own injury report outweighing its edges in pace and rushing efficiency.</div>
+      <ul class="bullets"><li>Pre-game ELO already gives Seattle a 61% win probability, and Kansas City is dealing with more starter unavailability than usual this week.</li><li>KC does hold the edge in recent rushing EPA per play (-0.023 vs -0.228, last 8 games) and has played at a faster pace (27.9s vs 29.7s per play).</li><li>Seattle is missing key contributors Anthony Bradford and AJ Finley this week.</li></ul>
+      <details class="model-breakdown"><summary>Per-model breakdown (home win probability)</summary><div class="model-row"><span class="model-name">Logistic Regression</span><span class="model-prob">52%</span></div><div class="model-row"><span class="model-name">Random Forest</span><span class="model-prob">65%</span></div><div class="model-row"><span class="model-name">XGBoost</span><span class="model-prob">69%</span></div><div class="model-row"><span class="model-name">LightGBM</span><span class="model-prob">70%</span></div><div class="model-row"><span class="model-name">Extra Trees</span><span class="model-prob">66%</span></div></details>
       
     </div></div>
   </div>
@@ -1435,7 +1579,7 @@
     calculation (about 1.7 points of expected margin), an unvalidated placeholder rather than a measured
     home-field value, same caveat as the confidence tiers above -- except in 2020, when it's zeroed out
     entirely to reflect the season played with no/minimal fans leaguewide.</p>
-    <p>Generated 2026-10-13 11:42 UTC.</p>
+    <p>Generated 2026-10-15 15:47 UTC.</p>
   </footer>
 </div>
 <script>
