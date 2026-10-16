@@ -31307,3 +31307,447 @@ f8e7f43f73aa983c5c99c189587f0118,2026-10-11T18:01:06Z,2026-10-11T20:25:00Z,Arizo
 86457f91112732f21ad4bb7d37bd291c,2026-10-11T18:01:06Z,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,ATL,BAL,bovada,spreads,Baltimore Ravens,-120.0,3.5
 86457f91112732f21ad4bb7d37bd291c,2026-10-11T18:01:06Z,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,ATL,BAL,bovada,totals,Over,-110.0,43.5
 86457f91112732f21ad4bb7d37bd291c,2026-10-11T18:01:06Z,2026-10-12T00:20:00Z,Atlanta Falcons,Baltimore Ravens,ATL,BAL,bovada,totals,Under,-110.0,43.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Buffalo Bills,114.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Los Angeles Rams,-135.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Over,-110.0,52.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Under,-110.0,52.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Buffalo Bills,116.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Los Angeles Rams,-136.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Over,-105.0,53.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Under,-115.0,53.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Over,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Under,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Over,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Under,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Buffalo Bills,-105.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Los Angeles Rams,-105.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Over,-107.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Under,-107.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Over,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Under,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Buffalo Bills,115.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Los Angeles Rams,-139.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Buffalo Bills,-107.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Los Angeles Rams,-114.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Over,-112.0,52.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-03T17:12:38Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Under,-109.0,52.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Buffalo Bills,114.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Los Angeles Rams,-135.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Over,-110.0,52.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Under,-110.0,52.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Buffalo Bills,116.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Los Angeles Rams,-136.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Over,-105.0,53.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Under,-115.0,53.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Over,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Under,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Over,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Under,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Buffalo Bills,-105.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Los Angeles Rams,-105.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Over,-107.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Under,-107.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Buffalo Bills,-110.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Los Angeles Rams,-110.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Over,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Under,-110.0,53.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Buffalo Bills,115.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Los Angeles Rams,-139.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Buffalo Bills,-107.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Los Angeles Rams,-114.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Over,-112.0,52.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-04T14:46:04Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Under,-109.0,52.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Buffalo Bills,120.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Los Angeles Rams,-142.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Buffalo Bills,-105.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Los Angeles Rams,-115.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Over,-115.0,53.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Under,-105.0,53.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Buffalo Bills,128.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Los Angeles Rams,-152.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Buffalo Bills,100.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Los Angeles Rams,-122.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Buffalo Bills,-120.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Los Angeles Rams,100.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Buffalo Bills,134.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Los Angeles Rams,-155.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Buffalo Bills,-120.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Los Angeles Rams,100.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Buffalo Bills,135.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Los Angeles Rams,-155.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Buffalo Bills,-114.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Los Angeles Rams,103.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Over,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Under,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Buffalo Bills,135.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Los Angeles Rams,-155.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Buffalo Bills,-118.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Los Angeles Rams,-102.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Buffalo Bills,123.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Los Angeles Rams,-150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Buffalo Bills,-105.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Los Angeles Rams,-117.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Over,-114.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Under,-107.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Buffalo Bills,130.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Los Angeles Rams,-155.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Buffalo Bills,-102.0,2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Los Angeles Rams,-115.0,-2.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Over,-108.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Buffalo Bills,140.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Los Angeles Rams,-165.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Buffalo Bills,-110.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Los Angeles Rams,-110.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Over,-110.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-05T21:15:18Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Under,-110.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Buffalo Bills,140.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Los Angeles Rams,-166.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Buffalo Bills,-110.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Los Angeles Rams,-110.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Over,-118.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Under,-102.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Buffalo Bills,148.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Los Angeles Rams,-176.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Los Angeles Rams,-104.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Buffalo Bills,138.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Los Angeles Rams,-177.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Buffalo Bills,103.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Los Angeles Rams,-114.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Over,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Under,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Buffalo Bills,-102.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Los Angeles Rams,-118.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Buffalo Bills,135.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Los Angeles Rams,-167.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Los Angeles Rams,-121.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Over,-108.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Under,-113.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Buffalo Bills,-108.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Los Angeles Rams,-110.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Over,-108.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Over,-110.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-08T19:15:23Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Under,-110.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Over,-118.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Under,-102.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Buffalo Bills,148.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Los Angeles Rams,-176.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Los Angeles Rams,-104.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Buffalo Bills,138.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Los Angeles Rams,-177.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Buffalo Bills,104.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Los Angeles Rams,-115.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Over,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Under,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Buffalo Bills,-102.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Los Angeles Rams,-118.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Buffalo Bills,135.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Los Angeles Rams,-167.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Los Angeles Rams,-121.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Over,-108.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Under,-113.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Los Angeles Rams,100.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Over,-108.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Over,-115.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-09T18:46:10Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Under,-105.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Over,-118.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Under,-102.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Los Angeles Rams,-178.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Los Angeles Rams,-104.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Buffalo Bills,143.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Los Angeles Rams,-179.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Buffalo Bills,104.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Los Angeles Rams,-115.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Over,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Under,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Buffalo Bills,-102.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Los Angeles Rams,-118.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Buffalo Bills,135.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Los Angeles Rams,-167.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Buffalo Bills,-105.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Los Angeles Rams,-117.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Over,-112.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Under,-109.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Los Angeles Rams,-185.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Los Angeles Rams,-102.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Over,-108.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Buffalo Bills,155.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Los Angeles Rams,-180.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Buffalo Bills,-120.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Los Angeles Rams,100.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Over,-115.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-10T17:48:02Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Under,-105.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Over,-115.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Under,-105.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Buffalo Bills,148.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Los Angeles Rams,-176.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Los Angeles Rams,-104.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Los Angeles Rams,-186.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Buffalo Bills,-110.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Los Angeles Rams,100.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Over,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Under,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Los Angeles Rams,-177.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Los Angeles Rams,-104.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Over,-112.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Under,-109.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Los Angeles Rams,-185.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Los Angeles Rams,-102.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Over,-108.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Over,-115.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T15:35:54Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Under,-105.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Over,-115.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Under,-105.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Buffalo Bills,148.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Los Angeles Rams,-176.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Los Angeles Rams,-104.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Los Angeles Rams,-186.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Buffalo Bills,-110.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Los Angeles Rams,100.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Over,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Under,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Los Angeles Rams,-177.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Los Angeles Rams,-104.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Over,-112.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Under,-109.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Los Angeles Rams,-185.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Los Angeles Rams,-102.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Over,-108.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Buffalo Bills,150.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Buffalo Bills,100.0,3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Los Angeles Rams,-120.0,-3.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Over,-115.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-11T18:01:06Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Under,-105.0,54.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Buffalo Bills,154.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,h2h,Los Angeles Rams,-185.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Buffalo Bills,-118.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,spreads,Los Angeles Rams,-102.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Over,-118.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,draftkings,totals,Under,-102.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Buffalo Bills,154.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,h2h,Los Angeles Rams,-184.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Over,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,fanduel,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Buffalo Bills,153.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,h2h,Los Angeles Rams,-180.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Buffalo Bills,-120.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,spreads,Los Angeles Rams,100.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Over,-110.0,55.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,mybookieag,totals,Under,-110.0,55.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Buffalo Bills,155.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,h2h,Los Angeles Rams,-180.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Over,-110.0,55.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betus,totals,Under,-110.0,55.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Buffalo Bills,156.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,h2h,Los Angeles Rams,-178.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,spreads,Los Angeles Rams,104.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Over,-109.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,lowvig,totals,Under,-105.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Buffalo Bills,156.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,h2h,Los Angeles Rams,-178.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Buffalo Bills,-115.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Over,-110.0,55.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betonlineag,totals,Under,-110.0,55.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,h2h,Los Angeles Rams,-177.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Buffalo Bills,-117.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,spreads,Los Angeles Rams,-105.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Over,-114.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betrivers,totals,Under,-107.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Buffalo Bills,145.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,h2h,Los Angeles Rams,-175.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Buffalo Bills,-108.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,spreads,Los Angeles Rams,100.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Over,-120.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,betmgm,totals,Under,-110.0,54.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Buffalo Bills,155.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,h2h,Los Angeles Rams,-180.0,
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Buffalo Bills,-120.0,3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,spreads,Los Angeles Rams,100.0,-3.5
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Over,-110.0,55.0
+e6d00eedd87d367e510314bd8cab8f6f,2026-10-12T21:42:50Z,2026-10-13T00:15:00Z,Los Angeles Rams,Buffalo Bills,LA,BUF,bovada,totals,Under,-110.0,55.0
