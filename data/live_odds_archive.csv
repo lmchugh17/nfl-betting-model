@@ -42573,3 +42573,359 @@ f7679cf18454e4d88a8f2b990c3f08ac,2026-10-25T17:02:14Z,2026-10-25T20:25:00Z,Las V
 176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-25T17:02:14Z,2026-10-26T00:20:00Z,Seattle Seahawks,Kansas City Chiefs,SEA,KC,mybookieag,spreads,Seattle Seahawks,-105.0,-3.0
 176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-25T17:02:14Z,2026-10-26T00:20:00Z,Seattle Seahawks,Kansas City Chiefs,SEA,KC,mybookieag,totals,Over,-110.0,42.5
 176d474ed8b2bbf1eb4d7e9c56b4bf22,2026-10-25T17:02:14Z,2026-10-26T00:20:00Z,Seattle Seahawks,Kansas City Chiefs,SEA,KC,mybookieag,totals,Under,-110.0,42.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Philadelphia Eagles,185.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Dallas Cowboys,-112.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Philadelphia Eagles,-108.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Over,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Dallas Cowboys,-215.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Philadelphia Eagles,183.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Dallas Cowboys,-115.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Philadelphia Eagles,-105.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Dallas Cowboys,-220.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Philadelphia Eagles,184.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Over,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Dallas Cowboys,-115.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Philadelphia Eagles,-105.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Dallas Cowboys,-105.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Philadelphia Eagles,-105.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Over,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Under,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Dallas Cowboys,-220.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Dallas Cowboys,-112.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Philadelphia Eagles,-109.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Over,-112.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Under,-109.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Philadelphia Eagles,185.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Philadelphia Eagles,-108.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Over,-108.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-19T19:15:47Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Philadelphia Eagles,185.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Dallas Cowboys,-112.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Philadelphia Eagles,-108.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Over,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Dallas Cowboys,-200.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Philadelphia Eagles,170.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Dallas Cowboys,-110.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Philadelphia Eagles,-110.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Dallas Cowboys,-205.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Philadelphia Eagles,172.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Over,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Dallas Cowboys,-200.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Philadelphia Eagles,174.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Dallas Cowboys,-108.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Philadelphia Eagles,-112.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Dallas Cowboys,-200.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Philadelphia Eagles,174.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Dallas Cowboys,-103.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Philadelphia Eagles,-107.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Over,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Under,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Dallas Cowboys,-113.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Philadelphia Eagles,-108.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Over,-109.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Under,-112.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Dallas Cowboys,-210.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Philadelphia Eagles,170.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Dallas Cowboys,-110.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Philadelphia Eagles,-108.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Over,-105.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Under,-112.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Dallas Cowboys,-216.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Philadelphia Eagles,165.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Dallas Cowboys,-110.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Philadelphia Eagles,-110.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Dallas Cowboys,-210.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Philadelphia Eagles,175.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Dallas Cowboys,-105.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Philadelphia Eagles,-115.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-22T17:57:11Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Dallas Cowboys,-218.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Dallas Cowboys,-112.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Philadelphia Eagles,-108.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Over,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Dallas Cowboys,-200.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Philadelphia Eagles,170.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Dallas Cowboys,-105.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Philadelphia Eagles,-115.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Dallas Cowboys,-200.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Philadelphia Eagles,168.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Dallas Cowboys,-104.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Philadelphia Eagles,-118.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Over,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Dallas Cowboys,-200.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Philadelphia Eagles,174.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Dallas Cowboys,-104.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Philadelphia Eagles,-116.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Dallas Cowboys,-200.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Philadelphia Eagles,174.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Dallas Cowboys,104.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Philadelphia Eagles,-115.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Over,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Under,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Dallas Cowboys,-112.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Philadelphia Eagles,-109.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Over,-108.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Under,-113.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Dallas Cowboys,-210.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Philadelphia Eagles,175.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Dallas Cowboys,-110.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Philadelphia Eagles,-110.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Over,-105.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Under,-112.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Dallas Cowboys,-216.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Philadelphia Eagles,166.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Dallas Cowboys,-110.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Philadelphia Eagles,-110.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Dallas Cowboys,-210.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Philadelphia Eagles,175.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Dallas Cowboys,-105.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Philadelphia Eagles,-115.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-23T17:51:19Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Dallas Cowboys,-218.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Dallas Cowboys,-112.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Philadelphia Eagles,-108.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Over,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Dallas Cowboys,-215.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Philadelphia Eagles,183.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Dallas Cowboys,-110.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Philadelphia Eagles,-110.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Dallas Cowboys,-210.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Philadelphia Eagles,176.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Over,-105.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Under,-115.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Dallas Cowboys,-215.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Philadelphia Eagles,183.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Dallas Cowboys,-215.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Philadelphia Eagles,183.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Dallas Cowboys,-105.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Philadelphia Eagles,-105.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Over,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Under,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Dallas Cowboys,-113.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Philadelphia Eagles,-108.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Over,-108.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Under,-113.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Dallas Cowboys,-220.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Dallas Cowboys,-108.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Over,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Under,-120.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Dallas Cowboys,-220.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Philadelphia Eagles,175.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-24T16:33:03Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Dallas Cowboys,-205.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Philadelphia Eagles,170.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Dallas Cowboys,-108.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Philadelphia Eagles,-112.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Over,-118.0,43.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Under,-102.0,43.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Philadelphia Eagles,190.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Dallas Cowboys,-110.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Philadelphia Eagles,-110.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Dallas Cowboys,-230.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Philadelphia Eagles,190.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Dallas Cowboys,-115.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Philadelphia Eagles,-105.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Over,-102.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Under,-120.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Philadelphia Eagles,189.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Philadelphia Eagles,189.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Dallas Cowboys,-105.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Philadelphia Eagles,-105.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Over,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Under,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Dallas Cowboys,-113.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Philadelphia Eagles,-108.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Over,-108.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Under,-113.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Philadelphia Eagles,185.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Dallas Cowboys,-108.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Over,-108.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Dallas Cowboys,-226.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Dallas Cowboys,-230.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Philadelphia Eagles,190.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T13:41:39Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Dallas Cowboys,-218.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Dallas Cowboys,-108.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Philadelphia Eagles,-112.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Over,-118.0,43.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Under,-102.0,43.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Philadelphia Eagles,190.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Dallas Cowboys,-110.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Philadelphia Eagles,-110.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Dallas Cowboys,-230.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Philadelphia Eagles,190.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Dallas Cowboys,-115.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Philadelphia Eagles,-105.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Over,-102.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Under,-120.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Philadelphia Eagles,189.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Philadelphia Eagles,189.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Dallas Cowboys,-105.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Philadelphia Eagles,-105.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Over,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Under,-107.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Dallas Cowboys,-112.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Philadelphia Eagles,-109.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Over,-108.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Under,-113.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Philadelphia Eagles,185.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Dallas Cowboys,-108.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Over,-108.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Dallas Cowboys,-226.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Dallas Cowboys,-230.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Philadelphia Eagles,190.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Over,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-25T17:02:14Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Under,-110.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Dallas Cowboys,-218.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Dallas Cowboys,-108.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,spreads,Philadelphia Eagles,-112.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Over,-105.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,draftkings,totals,Under,-115.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Dallas Cowboys,-235.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,h2h,Philadelphia Eagles,200.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Dallas Cowboys,-110.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,spreads,Philadelphia Eagles,-110.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Over,-115.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betus,totals,Under,-105.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Dallas Cowboys,-210.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,h2h,Philadelphia Eagles,176.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Dallas Cowboys,-108.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,spreads,Philadelphia Eagles,-112.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Over,-120.0,43.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,fanduel,totals,Under,-102.0,43.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Dallas Cowboys,-223.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,h2h,Philadelphia Eagles,188.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Dallas Cowboys,-106.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,spreads,Philadelphia Eagles,-114.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Over,-115.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betonlineag,totals,Under,-105.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Dallas Cowboys,-223.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,h2h,Philadelphia Eagles,188.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Dallas Cowboys,-101.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,spreads,Philadelphia Eagles,-109.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Over,-113.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,lowvig,totals,Under,-102.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,h2h,Philadelphia Eagles,180.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Dallas Cowboys,-109.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,spreads,Philadelphia Eagles,-112.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Over,-109.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betrivers,totals,Under,-112.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Dallas Cowboys,-225.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,h2h,Philadelphia Eagles,185.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Dallas Cowboys,-102.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,spreads,Philadelphia Eagles,-108.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Over,-108.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,betmgm,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Dallas Cowboys,-234.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,h2h,Philadelphia Eagles,195.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Dallas Cowboys,-110.0,-4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,spreads,Philadelphia Eagles,-110.0,4.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Over,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,mybookieag,totals,Under,-110.0,44.5
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Dallas Cowboys,-235.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,h2h,Philadelphia Eagles,195.0,
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Dallas Cowboys,-115.0,-4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,spreads,Philadelphia Eagles,-105.0,4.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Over,-115.0,44.0
+4853610e63c246f2027a6a248e642c9a,2026-10-26T19:11:38Z,2026-10-27T00:15:00Z,Philadelphia Eagles,Dallas Cowboys,PHI,DAL,bovada,totals,Under,-105.0,44.0
