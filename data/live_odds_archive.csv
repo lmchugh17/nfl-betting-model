@@ -47667,3 +47667,435 @@ b9c60db63b1a19ad319f24b33c0defe8,2026-11-01T18:24:23Z,2026-11-02T01:20:00Z,Washi
 b9c60db63b1a19ad319f24b33c0defe8,2026-11-01T18:24:23Z,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,WAS,PHI,bovada,spreads,Washington Commanders,-108.0,-6.0
 b9c60db63b1a19ad319f24b33c0defe8,2026-11-01T18:24:23Z,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,WAS,PHI,bovada,totals,Over,-108.0,40.5
 b9c60db63b1a19ad319f24b33c0defe8,2026-11-01T18:24:23Z,2026-11-02T01:20:00Z,Washington Commanders,Philadelphia Eagles,WAS,PHI,bovada,totals,Under,-112.0,40.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,136.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-162.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,-110.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-115.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-105.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,134.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-158.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-114.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-106.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-114.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-106.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,133.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-162.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-118.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-104.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-112.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-109.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Chicago Bears,-116.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Seattle Seahawks,105.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Over,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Under,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Chicago Bears,-120.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Seattle Seahawks,100.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Chicago Bears,-120.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Seattle Seahawks,100.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-24T16:33:03Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,136.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-162.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,-110.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-115.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-105.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,134.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-158.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-114.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-106.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-114.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-106.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,133.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-162.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-118.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-104.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-112.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T13:41:39Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-109.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,136.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-162.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,-110.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-115.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-105.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,134.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-158.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-114.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-106.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-114.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-106.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,133.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-162.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-118.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-104.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-112.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-25T17:02:14Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-109.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,142.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,-102.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-118.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,148.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-176.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-104.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-118.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-114.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-106.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,143.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-177.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-117.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-109.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-112.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Chicago Bears,151.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Seattle Seahawks,-172.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Chicago Bears,102.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Seattle Seahawks,-113.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Over,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Under,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Chicago Bears,151.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Seattle Seahawks,-172.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Chicago Bears,146.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Chicago Bears,142.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Seattle Seahawks,-176.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Chicago Bears,145.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Seattle Seahawks,-118.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Under,-108.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Chicago Bears,145.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Chicago Bears,-110.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-26T19:11:38Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,142.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,142.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-168.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-106.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-114.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,143.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-106.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Chicago Bears,146.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Chicago Bears,141.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Seattle Seahawks,-174.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Chicago Bears,145.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Under,-108.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Chicago Bears,145.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Chicago Bears,-110.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-29T18:55:49Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,142.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,142.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-168.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,143.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-106.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-113.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-108.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Chicago Bears,150.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Seattle Seahawks,-171.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Chicago Bears,102.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Seattle Seahawks,-113.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Over,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Under,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Chicago Bears,150.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Seattle Seahawks,-171.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Chicago Bears,146.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Chicago Bears,141.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Seattle Seahawks,-174.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Chicago Bears,145.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Over,-108.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Chicago Bears,148.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Seattle Seahawks,-173.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-30T18:33:29Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,142.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,142.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-168.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,140.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-110.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-112.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-109.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Chicago Bears,150.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Seattle Seahawks,-171.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Chicago Bears,102.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Seattle Seahawks,-113.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Over,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Under,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Chicago Bears,150.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Seattle Seahawks,-171.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Chicago Bears,146.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Chicago Bears,141.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Seattle Seahawks,-174.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Chicago Bears,145.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Over,-108.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Chicago Bears,148.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Seattle Seahawks,-173.0,
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Chicago Bears,-108.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Seattle Seahawks,-112.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-10-31T17:39:34Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,140.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-166.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,146.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-174.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-102.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,140.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-110.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-112.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-109.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Chicago Bears,148.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Seattle Seahawks,-168.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Over,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Under,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Chicago Bears,148.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Seattle Seahawks,-168.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Chicago Bears,146.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Chicago Bears,141.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Seattle Seahawks,-174.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Chicago Bears,145.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Over,-108.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Chicago Bears,143.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Seattle Seahawks,-168.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Chicago Bears,-108.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Seattle Seahawks,-112.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T15:58:22Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,140.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-166.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,146.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-174.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-102.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,140.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-110.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-112.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-109.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Chicago Bears,148.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Seattle Seahawks,-168.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Seattle Seahawks,-110.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Over,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Under,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Chicago Bears,148.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Seattle Seahawks,-168.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Chicago Bears,146.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Chicago Bears,141.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Seattle Seahawks,-174.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Chicago Bears,150.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Chicago Bears,-105.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Seattle Seahawks,-115.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Over,-108.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Chicago Bears,143.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Seattle Seahawks,-168.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Chicago Bears,-108.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Seattle Seahawks,-112.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-01T18:24:23Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Chicago Bears,142.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Over,-108.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,draftkings,totals,Under,-112.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Chicago Bears,150.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,h2h,Seattle Seahawks,-178.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Chicago Bears,-120.0,3.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,spreads,Seattle Seahawks,-102.0,-3.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,fanduel,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Chicago Bears,145.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,h2h,Seattle Seahawks,-177.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Chicago Bears,-104.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,spreads,Seattle Seahawks,-118.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betrivers,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Chicago Bears,153.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,h2h,Seattle Seahawks,-175.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Chicago Bears,-118.0,3.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,spreads,Seattle Seahawks,107.0,-3.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Over,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,lowvig,totals,Under,-107.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Chicago Bears,157.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,h2h,Seattle Seahawks,-180.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betonlineag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Chicago Bears,146.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,h2h,Seattle Seahawks,-170.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betus,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Chicago Bears,151.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,h2h,Seattle Seahawks,-180.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Chicago Bears,100.0,3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,spreads,Seattle Seahawks,-120.0,-3.0
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Over,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,mybookieag,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Chicago Bears,155.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,h2h,Seattle Seahawks,-190.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Chicago Bears,-118.0,3.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,spreads,Seattle Seahawks,-102.0,-3.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Over,-108.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,betmgm,totals,Under,-110.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Chicago Bears,153.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,h2h,Seattle Seahawks,-178.0,
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Chicago Bears,-120.0,3.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Seattle Seahawks,100.0,-3.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Over,-112.0,46.5
+7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Under,-108.0,46.5
