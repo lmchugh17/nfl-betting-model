@@ -48099,3 +48099,247 @@ b9c60db63b1a19ad319f24b33c0defe8,2026-11-01T18:24:23Z,2026-11-02T01:20:00Z,Washi
 7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,spreads,Seattle Seahawks,100.0,-3.5
 7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Over,-112.0,46.5
 7d664fbcd39350e559d83c0068ba7169,2026-11-02T22:17:25Z,2026-11-03T01:20:00Z,Seattle Seahawks,Chicago Bears,SEA,CHI,bovada,totals,Under,-108.0,46.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Baltimore Ravens,-162.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Jacksonville Jaguars,136.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Baltimore Ravens,-105.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Jacksonville Jaguars,-115.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Over,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Under,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Baltimore Ravens,100.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Jacksonville Jaguars,-120.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Over,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Under,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Baltimore Ravens,-154.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Jacksonville Jaguars,130.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Baltimore Ravens,-105.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Jacksonville Jaguars,-115.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Over,-115.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Under,-105.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Baltimore Ravens,-159.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Jacksonville Jaguars,130.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Baltimore Ravens,-107.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Jacksonville Jaguars,-114.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Over,-112.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Under,-108.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Baltimore Ravens,-161.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Jacksonville Jaguars,131.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Baltimore Ravens,-110.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Jacksonville Jaguars,-110.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Over,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-29T18:55:49Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Under,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Baltimore Ravens,-155.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Jacksonville Jaguars,130.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Baltimore Ravens,-105.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Jacksonville Jaguars,-115.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Over,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Under,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Baltimore Ravens,100.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Jacksonville Jaguars,-120.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Over,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Under,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Baltimore Ravens,-154.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Jacksonville Jaguars,130.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Baltimore Ravens,-105.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Jacksonville Jaguars,-115.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Over,-115.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Under,-105.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Baltimore Ravens,-102.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Jacksonville Jaguars,-118.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Over,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Under,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Baltimore Ravens,103.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Jacksonville Jaguars,-114.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Over,-107.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Under,-107.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Baltimore Ravens,-159.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Jacksonville Jaguars,130.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Baltimore Ravens,-107.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Jacksonville Jaguars,-114.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Over,-112.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Under,-108.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Baltimore Ravens,-157.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Jacksonville Jaguars,128.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Baltimore Ravens,-110.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Jacksonville Jaguars,-110.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Over,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-30T18:33:29Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Under,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Baltimore Ravens,-155.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Jacksonville Jaguars,130.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Baltimore Ravens,-105.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Jacksonville Jaguars,-115.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Over,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Under,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Baltimore Ravens,100.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Jacksonville Jaguars,-120.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Over,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Under,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Baltimore Ravens,-148.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Jacksonville Jaguars,126.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Baltimore Ravens,-118.0,-2.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Jacksonville Jaguars,-104.0,2.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Over,-115.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Under,-105.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Baltimore Ravens,-102.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Jacksonville Jaguars,-118.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Over,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Under,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Baltimore Ravens,103.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Jacksonville Jaguars,-114.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Over,-107.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Under,-107.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Baltimore Ravens,-159.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Jacksonville Jaguars,130.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Baltimore Ravens,-107.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Jacksonville Jaguars,-114.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Over,-112.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Under,-108.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Baltimore Ravens,-153.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Jacksonville Jaguars,124.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Baltimore Ravens,-110.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Jacksonville Jaguars,-110.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Over,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-10-31T17:39:34Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Under,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Baltimore Ravens,-155.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Jacksonville Jaguars,130.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Baltimore Ravens,-105.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Jacksonville Jaguars,-115.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Over,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Under,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Baltimore Ravens,100.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Jacksonville Jaguars,-120.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Over,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Under,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Baltimore Ravens,-148.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Jacksonville Jaguars,126.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Baltimore Ravens,-118.0,-2.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Jacksonville Jaguars,-104.0,2.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Over,-115.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Under,-105.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Baltimore Ravens,-102.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Jacksonville Jaguars,-118.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Over,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Under,-110.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Baltimore Ravens,103.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Jacksonville Jaguars,-114.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Over,-107.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Under,-107.0,49.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Baltimore Ravens,-159.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Jacksonville Jaguars,130.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Baltimore Ravens,-107.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Jacksonville Jaguars,-114.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Over,-112.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Under,-108.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Baltimore Ravens,-153.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Jacksonville Jaguars,124.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Baltimore Ravens,-110.0,-3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Jacksonville Jaguars,-110.0,3.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Over,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-01T15:58:22Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Under,-110.0,48.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Baltimore Ravens,310.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Jacksonville Jaguars,-395.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Baltimore Ravens,-115.0,8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Jacksonville Jaguars,-105.0,-8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Over,-115.0,42.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Under,-105.0,42.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,h2h,Baltimore Ravens,330.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,h2h,Jacksonville Jaguars,-420.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Baltimore Ravens,-120.0,9.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Jacksonville Jaguars,100.0,-9.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Over,-110.0,42.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Under,-110.0,42.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Baltimore Ravens,370.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Jacksonville Jaguars,-480.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Baltimore Ravens,-110.0,8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Jacksonville Jaguars,-110.0,-8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Over,-105.0,43.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Under,-115.0,43.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,h2h,Baltimore Ravens,344.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,h2h,Jacksonville Jaguars,-440.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Baltimore Ravens,-110.0,8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Jacksonville Jaguars,-110.0,-8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Over,-110.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Under,-110.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,h2h,Baltimore Ravens,344.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,h2h,Jacksonville Jaguars,-440.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Baltimore Ravens,-108.0,8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Jacksonville Jaguars,-102.0,-8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Over,-107.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Under,-107.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Baltimore Ravens,335.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Jacksonville Jaguars,-455.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Baltimore Ravens,-109.0,8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Jacksonville Jaguars,-112.0,-8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Over,-113.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Under,-108.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Baltimore Ravens,330.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Jacksonville Jaguars,-450.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Baltimore Ravens,-110.0,8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Jacksonville Jaguars,-110.0,-8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Over,-110.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Under,-110.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,h2h,Baltimore Ravens,340.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,h2h,Jacksonville Jaguars,-450.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,spreads,Baltimore Ravens,-110.0,8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,spreads,Jacksonville Jaguars,-110.0,-8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,totals,Over,-110.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,totals,Under,-108.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,h2h,Baltimore Ravens,340.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,h2h,Jacksonville Jaguars,-440.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,spreads,Baltimore Ravens,-110.0,8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,spreads,Jacksonville Jaguars,-110.0,-8.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,totals,Over,-110.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-02T22:17:25Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,totals,Under,-110.0,43.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Baltimore Ravens,380.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,h2h,Jacksonville Jaguars,-500.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Baltimore Ravens,-115.0,10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,spreads,Jacksonville Jaguars,-105.0,-10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Over,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,draftkings,totals,Under,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,h2h,Baltimore Ravens,395.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,h2h,Jacksonville Jaguars,-510.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Baltimore Ravens,-115.0,10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,spreads,Jacksonville Jaguars,-105.0,-10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Over,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betus,totals,Under,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Baltimore Ravens,410.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,h2h,Jacksonville Jaguars,-550.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Baltimore Ravens,-102.0,9.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,spreads,Jacksonville Jaguars,-120.0,-9.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Over,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,fanduel,totals,Under,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,h2h,Baltimore Ravens,393.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,h2h,Jacksonville Jaguars,-515.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Baltimore Ravens,-122.0,10.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,spreads,Jacksonville Jaguars,102.0,-10.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Over,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betonlineag,totals,Under,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,h2h,Baltimore Ravens,393.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,h2h,Jacksonville Jaguars,-515.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Baltimore Ravens,-125.0,10.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,spreads,Jacksonville Jaguars,113.0,-10.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Over,-107.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,lowvig,totals,Under,-107.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Baltimore Ravens,375.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,h2h,Jacksonville Jaguars,-500.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Baltimore Ravens,-114.0,10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,spreads,Jacksonville Jaguars,-107.0,-10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Over,-114.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betrivers,totals,Under,-107.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Baltimore Ravens,390.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,h2h,Jacksonville Jaguars,-526.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Baltimore Ravens,-110.0,10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,spreads,Jacksonville Jaguars,-110.0,-10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Over,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,mybookieag,totals,Under,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,h2h,Baltimore Ravens,400.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,h2h,Jacksonville Jaguars,-500.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,spreads,Baltimore Ravens,-108.0,10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,spreads,Jacksonville Jaguars,-102.0,-10.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,totals,Over,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,betmgm,totals,Under,-110.0,39.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,h2h,Baltimore Ravens,375.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,h2h,Jacksonville Jaguars,-500.0,
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,spreads,Baltimore Ravens,-103.0,9.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,spreads,Jacksonville Jaguars,-117.0,-9.5
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,totals,Over,-105.0,40.0
+c75744790b7acf6260c78ba5e739c0e5,2026-11-05T20:36:47Z,2026-11-06T01:15:00Z,Baltimore Ravens,Jacksonville Jaguars,BAL,JAX,bovada,totals,Under,-115.0,40.0
