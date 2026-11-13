@@ -53377,3 +53377,423 @@ ac9d38a18d5c92814233a31aa9a48d78,2026-11-08T18:19:44Z,2026-11-08T21:25:00Z,San F
 9760d8f19f84bfee300a74ceb656c95d,2026-11-08T18:19:44Z,2026-11-09T01:20:00Z,Chicago Bears,Tampa Bay Buccaneers,CHI,TB,bovada,spreads,Tampa Bay Buccaneers,-108.0,6.0
 9760d8f19f84bfee300a74ceb656c95d,2026-11-08T18:19:44Z,2026-11-09T01:20:00Z,Chicago Bears,Tampa Bay Buccaneers,CHI,TB,bovada,totals,Over,-112.0,47.5
 9760d8f19f84bfee300a74ceb656c95d,2026-11-08T18:19:44Z,2026-11-09T01:20:00Z,Chicago Bears,Tampa Bay Buccaneers,CHI,TB,bovada,totals,Under,-108.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Buffalo Bills,-142.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Minnesota Vikings,120.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Buffalo Bills,-110.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Minnesota Vikings,-110.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Over,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Under,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Buffalo Bills,-138.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Minnesota Vikings,118.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Buffalo Bills,-110.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Minnesota Vikings,-110.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Over,-104.0,48.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Under,-118.0,48.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Buffalo Bills,-120.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Minnesota Vikings,100.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Over,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Under,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Buffalo Bills,-120.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Minnesota Vikings,100.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Over,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Under,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Buffalo Bills,-116.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Minnesota Vikings,105.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Over,-107.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Under,-107.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Buffalo Bills,-141.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Minnesota Vikings,117.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Buffalo Bills,-109.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Minnesota Vikings,-112.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Over,-110.0,48.0
+17ad7eff2f7875e20a8109abe40470e3,2026-10-31T17:39:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Under,-110.0,48.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Buffalo Bills,-142.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Minnesota Vikings,120.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Buffalo Bills,-110.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Minnesota Vikings,-110.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Over,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Under,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Buffalo Bills,-138.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Minnesota Vikings,118.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Buffalo Bills,-110.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Minnesota Vikings,-110.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Over,-104.0,48.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Under,-118.0,48.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Buffalo Bills,-120.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Minnesota Vikings,100.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Over,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Under,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Buffalo Bills,-120.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Minnesota Vikings,100.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Over,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Under,-110.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Buffalo Bills,-116.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Minnesota Vikings,105.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Over,-107.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Under,-107.0,47.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Buffalo Bills,-141.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Minnesota Vikings,117.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Buffalo Bills,-109.0,-2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Minnesota Vikings,-112.0,2.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Over,-110.0,48.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-01T15:58:22Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Under,-110.0,48.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Buffalo Bills,-180.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Buffalo Bills,-102.0,-3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Minnesota Vikings,-118.0,3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Over,-105.0,46.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Under,-115.0,46.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Buffalo Bills,-172.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Minnesota Vikings,144.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Over,-104.0,46.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Under,-118.0,46.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Over,-110.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Under,-110.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Buffalo Bills,-177.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Minnesota Vikings,155.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Buffalo Bills,-117.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Minnesota Vikings,-103.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Over,-110.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Under,-110.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Buffalo Bills,-177.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Minnesota Vikings,155.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Buffalo Bills,-118.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Minnesota Vikings,107.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Over,-107.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Under,-107.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Buffalo Bills,-177.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Buffalo Bills,-117.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Over,-114.0,46.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Under,-107.0,46.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Buffalo Bills,-182.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Minnesota Vikings,147.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Buffalo Bills,-110.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Minnesota Vikings,-110.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Over,-110.0,46.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Under,-110.0,46.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Buffalo Bills,-185.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Buffalo Bills,-125.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Over,-108.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Under,-110.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Buffalo Bills,-183.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Minnesota Vikings,158.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Buffalo Bills,-120.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Minnesota Vikings,100.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Over,-112.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-02T22:17:25Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Under,-108.0,46.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Buffalo Bills,-170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Minnesota Vikings,142.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Over,-115.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Under,-105.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Buffalo Bills,-176.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Minnesota Vikings,148.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Over,-102.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Under,-120.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Buffalo Bills,-170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Minnesota Vikings,146.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Over,-110.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Under,-110.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Buffalo Bills,-168.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Minnesota Vikings,148.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Over,-109.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Under,-111.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Buffalo Bills,-168.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Minnesota Vikings,148.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Buffalo Bills,-110.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Minnesota Vikings,100.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Over,-106.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Under,-108.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Buffalo Bills,-180.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Buffalo Bills,-118.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Minnesota Vikings,-104.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Over,-113.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Under,-108.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Buffalo Bills,-177.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Minnesota Vikings,144.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Buffalo Bills,-110.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Minnesota Vikings,-110.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Over,-110.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Under,-110.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Buffalo Bills,-120.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Minnesota Vikings,100.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Over,-108.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Under,-110.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Buffalo Bills,-173.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Minnesota Vikings,148.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Buffalo Bills,-117.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Minnesota Vikings,-103.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Over,-108.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-05T20:36:47Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Under,-112.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Buffalo Bills,-118.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Minnesota Vikings,-102.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Over,-105.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Under,-115.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Buffalo Bills,-178.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Over,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Under,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Buffalo Bills,-170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Minnesota Vikings,146.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Under,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Buffalo Bills,-168.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Minnesota Vikings,148.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Over,-105.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Under,-115.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Buffalo Bills,-168.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Minnesota Vikings,148.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Buffalo Bills,-110.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Minnesota Vikings,100.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Over,-102.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Under,-113.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Buffalo Bills,-180.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Minnesota Vikings,-106.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Over,-109.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Under,-112.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Buffalo Bills,-177.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Minnesota Vikings,143.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Over,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Under,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Buffalo Bills,-118.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Minnesota Vikings,-102.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Under,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Buffalo Bills,-173.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Minnesota Vikings,148.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Buffalo Bills,-117.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Minnesota Vikings,-103.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Over,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-06T19:56:30Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Under,-112.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Buffalo Bills,-170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Minnesota Vikings,142.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Over,-118.0,43.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Under,-102.0,43.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Buffalo Bills,-178.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Over,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Under,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Buffalo Bills,-180.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Buffalo Bills,-114.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Minnesota Vikings,-107.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Over,-109.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Under,-112.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Minnesota Vikings,142.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Under,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Minnesota Vikings,140.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Buffalo Bills,-112.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Under,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Buffalo Bills,-170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Over,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-07T18:00:18Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Under,-112.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Buffalo Bills,-170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Minnesota Vikings,142.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Buffalo Bills,-118.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Minnesota Vikings,-102.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Over,-118.0,43.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Under,-102.0,43.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Buffalo Bills,-174.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Minnesota Vikings,146.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Over,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Under,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Buffalo Bills,-170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Minnesota Vikings,146.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Under,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Buffalo Bills,-170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Minnesota Vikings,149.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Buffalo Bills,-110.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Minnesota Vikings,-110.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Over,-105.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Under,-115.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Buffalo Bills,-170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Minnesota Vikings,149.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Buffalo Bills,-109.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Minnesota Vikings,-101.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Over,-102.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Under,-113.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Buffalo Bills,-180.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Buffalo Bills,-114.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Minnesota Vikings,-107.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Over,-113.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Under,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Buffalo Bills,-176.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Minnesota Vikings,142.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Buffalo Bills,-110.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Minnesota Vikings,-110.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Under,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Minnesota Vikings,140.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Buffalo Bills,-112.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Under,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Buffalo Bills,-117.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Minnesota Vikings,-103.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Over,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T15:55:34Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Under,-112.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Buffalo Bills,-118.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Minnesota Vikings,-102.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Over,-118.0,43.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Under,-102.0,43.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Buffalo Bills,-174.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Minnesota Vikings,146.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Over,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Under,-110.0,44.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Under,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Buffalo Bills,-177.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Minnesota Vikings,155.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Buffalo Bills,-110.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Minnesota Vikings,-110.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Over,-105.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Under,-115.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Buffalo Bills,-177.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Minnesota Vikings,155.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Buffalo Bills,-109.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Minnesota Vikings,-101.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Over,-102.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Under,-113.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Buffalo Bills,-180.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Buffalo Bills,-114.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Minnesota Vikings,-107.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Over,-113.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Under,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Buffalo Bills,-178.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Minnesota Vikings,144.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Buffalo Bills,-110.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Minnesota Vikings,-110.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Under,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Minnesota Vikings,145.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Buffalo Bills,-115.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Minnesota Vikings,-105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Over,-110.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Under,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Buffalo Bills,-175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Buffalo Bills,-117.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Minnesota Vikings,-103.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Over,-108.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-08T18:19:44Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Under,-112.0,44.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Buffalo Bills,-198.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,h2h,Minnesota Vikings,164.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Buffalo Bills,-105.0,-3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,spreads,Minnesota Vikings,-115.0,3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Over,-110.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,draftkings,totals,Under,-110.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Buffalo Bills,-188.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,h2h,Minnesota Vikings,158.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Buffalo Bills,-120.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,spreads,Minnesota Vikings,100.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Over,-105.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,fanduel,totals,Under,-115.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Buffalo Bills,-190.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,h2h,Minnesota Vikings,163.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Buffalo Bills,-125.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,spreads,Minnesota Vikings,105.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Over,-110.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betus,totals,Under,-110.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Buffalo Bills,-194.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,h2h,Minnesota Vikings,169.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Buffalo Bills,100.0,-3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,spreads,Minnesota Vikings,-120.0,3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Over,-110.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betonlineag,totals,Under,-110.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Buffalo Bills,-194.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,h2h,Minnesota Vikings,169.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Buffalo Bills,105.0,-3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,spreads,Minnesota Vikings,-116.0,3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Over,-107.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,lowvig,totals,Under,-107.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Buffalo Bills,-186.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,h2h,Minnesota Vikings,150.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Buffalo Bills,-104.0,-3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,spreads,Minnesota Vikings,-118.0,3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Over,-109.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betrivers,totals,Under,-112.0,45.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Buffalo Bills,-204.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,h2h,Minnesota Vikings,170.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Buffalo Bills,-110.0,-3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,spreads,Minnesota Vikings,-110.0,3.0
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Over,-110.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,mybookieag,totals,Under,-110.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Buffalo Bills,-200.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,h2h,Minnesota Vikings,165.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Buffalo Bills,-105.0,-3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,spreads,Minnesota Vikings,-115.0,3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Over,-108.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,betmgm,totals,Under,-110.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Buffalo Bills,-210.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,h2h,Minnesota Vikings,175.0,
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Buffalo Bills,-105.0,-3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Minnesota Vikings,-115.0,3.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Over,-115.0,45.5
+17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Under,-105.0,45.5
