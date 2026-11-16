@@ -53797,3 +53797,237 @@ ac9d38a18d5c92814233a31aa9a48d78,2026-11-08T18:19:44Z,2026-11-08T21:25:00Z,San F
 17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,spreads,Minnesota Vikings,-115.0,3.5
 17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Over,-115.0,45.5
 17ad7eff2f7875e20a8109abe40470e3,2026-11-09T22:57:59Z,2026-11-10T01:15:00Z,Minnesota Vikings,Buffalo Bills,MIN,BUF,bovada,totals,Under,-105.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,New York Giants,-118.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,Washington Commanders,-102.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,New York Giants,-105.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,Washington Commanders,-115.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Over,-110.0,44.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Under,-110.0,44.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,New York Giants,-120.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,Washington Commanders,102.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,New York Giants,-108.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,Washington Commanders,-112.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Over,-105.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Under,-115.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Over,-110.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Under,-110.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Over,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Under,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,New York Giants,-105.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,Washington Commanders,-105.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Over,-107.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Under,-107.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,New York Giants,-121.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,Washington Commanders,100.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,New York Giants,-108.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,Washington Commanders,-113.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Over,-108.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Under,-113.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,New York Giants,-121.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,Washington Commanders,-101.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Over,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-05T20:36:47Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Under,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,New York Giants,-118.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,Washington Commanders,-102.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,New York Giants,-105.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,Washington Commanders,-115.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Over,-110.0,44.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Under,-110.0,44.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,New York Giants,-120.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,Washington Commanders,102.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Over,-105.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Under,-115.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Over,-110.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Under,-110.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Over,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Under,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,New York Giants,-105.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,Washington Commanders,-105.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Over,-107.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Under,-107.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,New York Giants,-121.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,Washington Commanders,100.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,New York Giants,-108.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,Washington Commanders,-113.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Over,-108.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Under,-113.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,New York Giants,-121.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,Washington Commanders,-101.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Over,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-06T19:56:30Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Under,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,New York Giants,-118.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,Washington Commanders,-102.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,New York Giants,-105.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,Washington Commanders,-115.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Over,-110.0,44.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Under,-110.0,44.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,New York Giants,-120.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,Washington Commanders,102.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Over,-105.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Under,-115.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Over,-110.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Under,-110.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Over,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Under,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,New York Giants,-105.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,Washington Commanders,-105.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Over,-107.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Under,-107.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,New York Giants,-121.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,Washington Commanders,100.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,New York Giants,-108.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,Washington Commanders,-113.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Over,-108.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Under,-113.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,New York Giants,-121.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,Washington Commanders,-101.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Over,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-07T18:00:18Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Under,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,New York Giants,-118.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,Washington Commanders,-102.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,New York Giants,-105.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,Washington Commanders,-115.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Over,-110.0,44.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Under,-110.0,44.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,New York Giants,-120.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,Washington Commanders,102.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Over,-105.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Under,-115.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,New York Giants,-121.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,Washington Commanders,100.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,New York Giants,-108.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,Washington Commanders,-113.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Over,-108.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Under,-113.0,45.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,New York Giants,-121.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,Washington Commanders,-101.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Over,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-08T15:55:34Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Under,-110.0,45.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,New York Giants,-135.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,Washington Commanders,114.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,New York Giants,-110.0,-2.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,Washington Commanders,-110.0,2.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Over,-105.0,42.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Under,-115.0,42.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,New York Giants,-124.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,Washington Commanders,106.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Over,-110.0,42.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Under,-110.0,42.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,New York Giants,-110.0,-2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,Washington Commanders,-110.0,2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Over,-110.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Under,-110.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,New York Giants,-125.0,0.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,Washington Commanders,105.0,0.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Over,-110.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Under,-110.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,New York Giants,-112.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,Washington Commanders,101.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Over,-107.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Under,-107.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,New York Giants,-125.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,Washington Commanders,104.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,New York Giants,-108.0,-2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,Washington Commanders,-113.0,2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Over,-113.0,42.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Under,-108.0,42.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,New York Giants,-128.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,Washington Commanders,105.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,New York Giants,-110.0,-2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,Washington Commanders,-110.0,2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Over,-110.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Under,-110.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,h2h,New York Giants,-130.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,h2h,Washington Commanders,110.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,spreads,New York Giants,-110.0,-2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,spreads,Washington Commanders,-108.0,2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,totals,Over,-108.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,totals,Under,-110.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,h2h,New York Giants,-135.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,h2h,Washington Commanders,115.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,spreads,New York Giants,-112.0,-2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,spreads,Washington Commanders,-108.0,2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,totals,Over,-112.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-09T22:57:59Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,totals,Under,-108.0,42.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,New York Giants,-130.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,h2h,Washington Commanders,110.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,New York Giants,-110.0,-2.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,spreads,Washington Commanders,-110.0,2.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Over,-115.0,40.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,draftkings,totals,Under,-105.0,40.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,New York Giants,-132.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,h2h,Washington Commanders,112.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,New York Giants,-115.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,spreads,Washington Commanders,-105.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Over,-115.0,40.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,fanduel,totals,Under,-105.0,40.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,h2h,New York Giants,-125.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,h2h,Washington Commanders,105.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,New York Giants,-115.0,-1.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,spreads,Washington Commanders,-105.0,1.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Over,-110.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betus,totals,Under,-110.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,h2h,New York Giants,-125.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,h2h,Washington Commanders,105.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,New York Giants,-115.0,-1.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,spreads,Washington Commanders,-105.0,1.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Over,-108.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betonlineag,totals,Under,-112.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,h2h,New York Giants,-125.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,h2h,Washington Commanders,105.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,New York Giants,-114.0,-1.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,spreads,Washington Commanders,103.0,1.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Over,-105.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,lowvig,totals,Under,-109.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,New York Giants,-136.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,h2h,Washington Commanders,112.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,New York Giants,-108.0,-2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,spreads,Washington Commanders,-113.0,2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Over,-114.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betrivers,totals,Under,-107.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,New York Giants,-128.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,h2h,Washington Commanders,109.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Over,-110.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,mybookieag,totals,Under,-110.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,h2h,New York Giants,-125.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,h2h,Washington Commanders,105.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,spreads,New York Giants,-102.0,-2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,spreads,Washington Commanders,-108.0,2.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,totals,Over,-105.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,betmgm,totals,Under,-112.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,h2h,New York Giants,-127.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,h2h,Washington Commanders,107.0,
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,spreads,New York Giants,-110.0,-1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,spreads,Washington Commanders,-110.0,1.5
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,totals,Over,-112.0,41.0
+74d39e19225caf211ad2c8eb4110179f,2026-11-12T20:45:52Z,2026-11-13T01:15:00Z,New York Giants,Washington Commanders,NYG,WAS,bovada,totals,Under,-108.0,41.0
