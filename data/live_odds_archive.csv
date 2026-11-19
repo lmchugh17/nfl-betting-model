@@ -57659,3 +57659,795 @@ b5700b4d938fd94429f60d4622cc9c0a,2026-11-15T16:17:22Z,2026-11-15T18:00:00Z,India
 6079a5cbabf99b265a17edfc92a1da60,2026-11-15T19:20:40Z,2026-11-15T21:05:00Z,Las Vegas Raiders,Seattle Seahawks,LV,SEA,bovada,spreads,Seattle Seahawks,-108.0,-6.5
 6079a5cbabf99b265a17edfc92a1da60,2026-11-15T19:20:40Z,2026-11-15T21:05:00Z,Las Vegas Raiders,Seattle Seahawks,LV,SEA,bovada,totals,Over,-105.0,41.0
 6079a5cbabf99b265a17edfc92a1da60,2026-11-15T19:20:40Z,2026-11-15T21:05:00Z,Las Vegas Raiders,Seattle Seahawks,LV,SEA,bovada,totals,Under,-115.0,41.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,Dallas Cowboys,170.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,Dallas Cowboys,-110.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,San Francisco 49ers,-110.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Over,-110.0,53.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Under,-110.0,53.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,Dallas Cowboys,176.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,Dallas Cowboys,-120.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,San Francisco 49ers,100.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Over,-115.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Under,-105.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,Dallas Cowboys,-110.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,San Francisco 49ers,-110.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Over,-110.0,55.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Under,-110.0,55.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,Dallas Cowboys,-105.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,San Francisco 49ers,-105.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Over,-107.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Under,-107.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,Dallas Cowboys,-110.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,San Francisco 49ers,-110.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Over,-110.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Under,-110.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,San Francisco 49ers,-215.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,Dallas Cowboys,-108.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,San Francisco 49ers,-113.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Over,-108.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-06T19:56:30Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Under,-113.0,54.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Cincinnati Bengals,-180.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Pittsburgh Steelers,150.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Over,-110.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Under,-110.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Cincinnati Bengals,-115.0,-3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Pittsburgh Steelers,-105.0,3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Over,-110.0,48.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Under,-110.0,48.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Cincinnati Bengals,-168.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Pittsburgh Steelers,142.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Cincinnati Bengals,100.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Pittsburgh Steelers,-120.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Over,-115.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Under,-105.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Cincinnati Bengals,-110.0,-3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Pittsburgh Steelers,100.0,3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Over,-113.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Under,-102.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Cincinnati Bengals,-115.0,-3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Pittsburgh Steelers,-105.0,3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Over,-115.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Under,-105.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Cincinnati Bengals,-177.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Pittsburgh Steelers,143.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Cincinnati Bengals,-104.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Pittsburgh Steelers,-118.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Over,-107.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-06T19:56:30Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Under,-114.0,47.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,Dallas Cowboys,164.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,San Francisco 49ers,-198.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,Dallas Cowboys,-110.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,San Francisco 49ers,-110.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Over,-110.0,53.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Under,-110.0,53.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,Dallas Cowboys,176.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,Dallas Cowboys,-120.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,San Francisco 49ers,100.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Over,-115.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Under,-105.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,Dallas Cowboys,-110.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,San Francisco 49ers,-110.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Over,-110.0,55.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Under,-110.0,55.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,Dallas Cowboys,-105.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,San Francisco 49ers,-105.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Over,-107.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Under,-107.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,Dallas Cowboys,-110.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,San Francisco 49ers,-110.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Over,-110.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Under,-110.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,San Francisco 49ers,-215.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,Dallas Cowboys,-108.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,San Francisco 49ers,-113.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Over,-108.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-07T18:00:18Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Under,-113.0,54.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Cincinnati Bengals,-180.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Pittsburgh Steelers,150.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Over,-110.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Under,-110.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Cincinnati Bengals,-115.0,-3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Pittsburgh Steelers,-105.0,3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Over,-110.0,48.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Under,-110.0,48.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Cincinnati Bengals,-162.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Pittsburgh Steelers,136.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Cincinnati Bengals,-110.0,-3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Over,-115.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Under,-105.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Cincinnati Bengals,-101.0,-3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Pittsburgh Steelers,-109.0,3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Over,-113.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Under,-102.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Cincinnati Bengals,-106.0,-3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Pittsburgh Steelers,-114.0,3.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Over,-115.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Under,-105.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Cincinnati Bengals,-177.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Pittsburgh Steelers,143.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Cincinnati Bengals,-104.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Pittsburgh Steelers,-118.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Over,-107.0,47.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-07T18:00:18Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Under,-114.0,47.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,Dallas Cowboys,164.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,San Francisco 49ers,-198.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,Dallas Cowboys,-110.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,San Francisco 49ers,-110.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Over,-110.0,53.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Under,-110.0,53.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,Dallas Cowboys,176.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,Dallas Cowboys,-120.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,San Francisco 49ers,100.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Over,-115.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Under,-105.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,San Francisco 49ers,-215.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,Dallas Cowboys,-108.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,San Francisco 49ers,-113.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Over,-108.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Under,-113.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,Dallas Cowboys,166.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,San Francisco 49ers,-208.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Over,-110.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-08T15:55:34Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Under,-110.0,54.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,San Francisco 49ers,-218.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,Dallas Cowboys,-108.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,San Francisco 49ers,-112.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Over,-115.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Under,-105.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,San Francisco 49ers,-215.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,Dallas Cowboys,-120.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,San Francisco 49ers,100.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Over,-115.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Under,-105.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,Dallas Cowboys,-110.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,San Francisco 49ers,-110.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,Dallas Cowboys,-105.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,San Francisco 49ers,-105.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Over,-102.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Under,-113.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,Dallas Cowboys,-110.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,San Francisco 49ers,-110.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Over,-105.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Under,-115.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,San Francisco 49ers,-225.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,Dallas Cowboys,-114.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,San Francisco 49ers,-107.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Over,-108.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Under,-113.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,Dallas Cowboys,174.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,San Francisco 49ers,-218.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,San Francisco 49ers,-220.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,Dallas Cowboys,-112.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,San Francisco 49ers,-105.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Under,-108.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,Dallas Cowboys,176.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,San Francisco 49ers,-215.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,Dallas Cowboys,-112.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,San Francisco 49ers,-108.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-09T22:57:59Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Under,-110.0,56.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Cincinnati Bengals,-180.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Pittsburgh Steelers,150.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Over,-108.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Under,-112.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Cincinnati Bengals,-195.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Pittsburgh Steelers,167.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Over,-110.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Under,-110.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Cincinnati Bengals,-198.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Pittsburgh Steelers,166.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Over,-110.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Under,-110.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Cincinnati Bengals,-196.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Pittsburgh Steelers,171.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Cincinnati Bengals,-104.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Pittsburgh Steelers,-106.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Over,-108.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Under,-106.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Cincinnati Bengals,-196.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Pittsburgh Steelers,171.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Cincinnati Bengals,-109.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Pittsburgh Steelers,-111.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Over,-111.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Under,-109.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Cincinnati Bengals,-195.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Pittsburgh Steelers,150.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Over,-113.0,48.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Under,-108.0,48.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Cincinnati Bengals,-196.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Pittsburgh Steelers,158.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Over,-110.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Under,-110.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Cincinnati Bengals,-190.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Pittsburgh Steelers,160.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Cincinnati Bengals,-108.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Over,-110.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Under,-108.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Cincinnati Bengals,-200.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Pittsburgh Steelers,170.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Cincinnati Bengals,-108.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Pittsburgh Steelers,-112.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Over,-108.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-09T22:57:59Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Under,-112.0,48.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,Dallas Cowboys,170.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,Dallas Cowboys,-105.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,San Francisco 49ers,-115.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Over,-118.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Under,-102.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,Dallas Cowboys,176.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,Dallas Cowboys,-120.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,San Francisco 49ers,100.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Over,-115.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Under,-105.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Under,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,Dallas Cowboys,-107.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,San Francisco 49ers,-103.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Over,-107.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Under,-107.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,Dallas Cowboys,-112.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,San Francisco 49ers,-108.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Under,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,Dallas Cowboys,170.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,San Francisco 49ers,-215.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,Dallas Cowboys,-112.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,San Francisco 49ers,-109.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Over,-108.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Under,-113.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,Dallas Cowboys,170.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,San Francisco 49ers,-212.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,Dallas Cowboys,185.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,San Francisco 49ers,-225.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,San Francisco 49ers,-108.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Over,-108.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,Dallas Cowboys,172.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,Dallas Cowboys,-105.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,San Francisco 49ers,-115.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-12T20:45:52Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Under,-110.0,55.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Cincinnati Bengals,-180.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Pittsburgh Steelers,150.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Over,-108.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Under,-112.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Pittsburgh Steelers,159.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Over,-110.0,50.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Under,-110.0,50.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Cincinnati Bengals,-184.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Pittsburgh Steelers,154.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Cincinnati Bengals,-102.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Pittsburgh Steelers,-108.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Under,-104.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Cincinnati Bengals,-107.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Pittsburgh Steelers,-113.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Over,-113.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Under,-107.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Cincinnati Bengals,-195.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Pittsburgh Steelers,155.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Cincinnati Bengals,-112.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Pittsburgh Steelers,-109.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Over,-112.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Under,-109.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Cincinnati Bengals,-189.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Pittsburgh Steelers,153.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Cincinnati Bengals,-190.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Pittsburgh Steelers,155.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Cincinnati Bengals,-108.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Under,-108.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Cincinnati Bengals,-183.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Pittsburgh Steelers,158.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Cincinnati Bengals,-103.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Pittsburgh Steelers,-117.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Over,-112.0,49.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-12T20:45:52Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Under,-108.0,49.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,Dallas Cowboys,170.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,Dallas Cowboys,-102.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,San Francisco 49ers,-118.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Over,-118.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Under,-102.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,San Francisco 49ers,-215.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,Dallas Cowboys,-120.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,San Francisco 49ers,100.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Over,-115.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Under,-105.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Under,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,Dallas Cowboys,-107.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,San Francisco 49ers,-103.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Over,-107.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Under,-107.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,Dallas Cowboys,-112.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,San Francisco 49ers,-108.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Under,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,Dallas Cowboys,170.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,San Francisco 49ers,-215.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,Dallas Cowboys,-112.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,San Francisco 49ers,-109.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Over,-108.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Under,-113.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,Dallas Cowboys,170.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,San Francisco 49ers,-212.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,San Francisco 49ers,-220.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,Dallas Cowboys,-108.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Under,-108.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,Dallas Cowboys,172.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,Dallas Cowboys,-112.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,San Francisco 49ers,-108.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-13T20:27:00Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Under,-110.0,55.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Cincinnati Bengals,-180.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Pittsburgh Steelers,150.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Over,-108.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Under,-112.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Pittsburgh Steelers,159.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Over,-110.0,50.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Under,-110.0,50.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Cincinnati Bengals,-178.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Pittsburgh Steelers,150.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Over,-115.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Under,-105.0,48.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Cincinnati Bengals,-102.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Pittsburgh Steelers,-108.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Under,-104.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Cincinnati Bengals,-107.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Pittsburgh Steelers,-113.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Over,-113.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Under,-107.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Cincinnati Bengals,-195.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Pittsburgh Steelers,155.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Cincinnati Bengals,-112.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Pittsburgh Steelers,-109.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Over,-112.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Under,-109.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Cincinnati Bengals,-187.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Pittsburgh Steelers,151.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Cincinnati Bengals,-190.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Pittsburgh Steelers,155.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Cincinnati Bengals,-108.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Over,-108.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Cincinnati Bengals,-183.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Pittsburgh Steelers,158.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Cincinnati Bengals,-103.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Pittsburgh Steelers,-117.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Over,-112.0,49.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-13T20:27:00Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Under,-108.0,49.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,San Francisco 49ers,-218.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,Dallas Cowboys,-115.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,San Francisco 49ers,-105.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Over,-118.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Under,-102.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,Dallas Cowboys,184.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,San Francisco 49ers,-220.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,Dallas Cowboys,-115.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,San Francisco 49ers,-105.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Over,-115.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Under,-105.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,Dallas Cowboys,185.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,San Francisco 49ers,-220.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,Dallas Cowboys,-105.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,San Francisco 49ers,-105.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Over,-107.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Under,-107.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Under,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,San Francisco 49ers,-215.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,Dallas Cowboys,181.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,San Francisco 49ers,-228.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,San Francisco 49ers,-220.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,Dallas Cowboys,-105.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,San Francisco 49ers,-112.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Over,-108.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,Dallas Cowboys,172.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,Dallas Cowboys,-112.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,San Francisco 49ers,-108.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Over,-110.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-14T18:43:20Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Under,-110.0,55.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Cincinnati Bengals,-180.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Pittsburgh Steelers,150.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Cincinnati Bengals,-108.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Pittsburgh Steelers,-112.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Over,-105.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Under,-115.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Pittsburgh Steelers,159.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Over,-110.0,49.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Under,-110.0,49.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Cincinnati Bengals,-178.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Pittsburgh Steelers,150.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Over,-105.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Under,-115.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Cincinnati Bengals,-102.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Pittsburgh Steelers,-108.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Under,-104.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Cincinnati Bengals,-107.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Pittsburgh Steelers,-113.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Over,-113.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Under,-107.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Cincinnati Bengals,-195.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Pittsburgh Steelers,155.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Cincinnati Bengals,-113.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Pittsburgh Steelers,-108.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Cincinnati Bengals,-187.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Pittsburgh Steelers,151.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Cincinnati Bengals,-190.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Pittsburgh Steelers,155.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Cincinnati Bengals,-108.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Over,-108.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Cincinnati Bengals,-183.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Pittsburgh Steelers,158.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Cincinnati Bengals,-103.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Pittsburgh Steelers,-117.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Over,-112.0,49.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-14T18:43:20Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Under,-108.0,49.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,San Francisco 49ers,-218.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,Dallas Cowboys,-112.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,San Francisco 49ers,-108.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Over,-118.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Under,-102.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,Dallas Cowboys,188.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,San Francisco 49ers,-225.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,Dallas Cowboys,-110.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,San Francisco 49ers,-110.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Over,-115.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Under,-105.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,Dallas Cowboys,-115.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,San Francisco 49ers,-105.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,Dallas Cowboys,177.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,Dallas Cowboys,-101.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,San Francisco 49ers,-109.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Over,-102.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Under,-113.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,Dallas Cowboys,177.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,Dallas Cowboys,-115.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,San Francisco 49ers,-105.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Over,-105.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Under,-115.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,San Francisco 49ers,-225.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,Dallas Cowboys,-114.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,San Francisco 49ers,-107.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,San Francisco 49ers,-208.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,Dallas Cowboys,-110.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,San Francisco 49ers,-110.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,San Francisco 49ers,-220.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,Dallas Cowboys,-105.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,San Francisco 49ers,-112.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Over,-108.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,Dallas Cowboys,-115.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,San Francisco 49ers,-105.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Over,-108.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T16:17:22Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Under,-112.0,56.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Cincinnati Bengals,-192.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Pittsburgh Steelers,160.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Over,-105.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Under,-115.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Pittsburgh Steelers,159.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Cincinnati Bengals,-105.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Pittsburgh Steelers,-115.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Over,-110.0,49.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Under,-110.0,49.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Cincinnati Bengals,-186.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Pittsburgh Steelers,156.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Over,-105.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Under,-115.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Cincinnati Bengals,-107.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Pittsburgh Steelers,-103.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Over,-107.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Under,-107.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Cincinnati Bengals,-107.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Pittsburgh Steelers,-113.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Cincinnati Bengals,-195.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Pittsburgh Steelers,155.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Cincinnati Bengals,-113.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Pittsburgh Steelers,-108.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Cincinnati Bengals,-200.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Pittsburgh Steelers,167.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Cincinnati Bengals,-190.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Pittsburgh Steelers,160.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Cincinnati Bengals,-108.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Over,-108.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Cincinnati Bengals,-190.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Pittsburgh Steelers,165.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Cincinnati Bengals,-112.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Pittsburgh Steelers,-108.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Over,-108.0,50.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T16:17:22Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Under,-112.0,50.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,h2h,San Francisco 49ers,-218.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,Dallas Cowboys,-112.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,spreads,San Francisco 49ers,-108.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Over,-118.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,draftkings,totals,Under,-102.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,Dallas Cowboys,176.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,Dallas Cowboys,-115.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,spreads,San Francisco 49ers,-105.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Over,-115.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,fanduel,totals,Under,-105.0,55.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,Dallas Cowboys,-115.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,spreads,San Francisco 49ers,-105.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betus,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,Dallas Cowboys,177.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,Dallas Cowboys,-101.0,3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,spreads,San Francisco 49ers,-109.0,-3.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Over,-102.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,lowvig,totals,Under,-113.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,Dallas Cowboys,177.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,h2h,San Francisco 49ers,-205.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,Dallas Cowboys,-114.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,spreads,San Francisco 49ers,-106.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Over,-105.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betonlineag,totals,Under,-115.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,Dallas Cowboys,180.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,h2h,San Francisco 49ers,-225.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,Dallas Cowboys,-114.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,spreads,San Francisco 49ers,-107.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betrivers,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,Dallas Cowboys,182.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,h2h,San Francisco 49ers,-218.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,Dallas Cowboys,-110.0,4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,spreads,San Francisco 49ers,-110.0,-4.5
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Over,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,mybookieag,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,Dallas Cowboys,-105.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,spreads,San Francisco 49ers,-105.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Over,-108.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,betmgm,totals,Under,-110.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,Dallas Cowboys,175.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,h2h,San Francisco 49ers,-210.0,
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,Dallas Cowboys,-112.0,4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,spreads,San Francisco 49ers,-108.0,-4.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Over,-108.0,56.0
+7627192fd89b05120ab6c712aa23fd81,2026-11-15T19:20:40Z,2026-11-15T21:25:00Z,Dallas Cowboys,San Francisco 49ers,DAL,SF,bovada,totals,Under,-112.0,56.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Cincinnati Bengals,-192.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,h2h,Pittsburgh Steelers,160.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Over,-105.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,draftkings,totals,Under,-115.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,h2h,Pittsburgh Steelers,159.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Cincinnati Bengals,-105.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,spreads,Pittsburgh Steelers,-115.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Over,-110.0,49.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betus,totals,Under,-110.0,49.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Cincinnati Bengals,-190.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,h2h,Pittsburgh Steelers,160.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Over,-105.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,fanduel,totals,Under,-115.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Cincinnati Bengals,-107.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,spreads,Pittsburgh Steelers,-103.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Over,-107.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,lowvig,totals,Under,-107.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Cincinnati Bengals,-185.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,h2h,Pittsburgh Steelers,161.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Cincinnati Bengals,-107.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,spreads,Pittsburgh Steelers,-113.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betonlineag,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Cincinnati Bengals,-195.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,h2h,Pittsburgh Steelers,155.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Cincinnati Bengals,-113.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,spreads,Pittsburgh Steelers,-108.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betrivers,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Cincinnati Bengals,-200.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,h2h,Pittsburgh Steelers,169.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Cincinnati Bengals,-110.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,mybookieag,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Cincinnati Bengals,-200.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,h2h,Pittsburgh Steelers,165.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Cincinnati Bengals,-108.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,spreads,Pittsburgh Steelers,-110.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Over,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,betmgm,totals,Under,-110.0,49.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Cincinnati Bengals,-190.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,h2h,Pittsburgh Steelers,165.0,
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Cincinnati Bengals,-112.0,-3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Pittsburgh Steelers,-108.0,3.5
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Over,-108.0,50.0
+48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Under,-112.0,50.0
