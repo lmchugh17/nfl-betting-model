@@ -58451,3 +58451,415 @@ b5700b4d938fd94429f60d4622cc9c0a,2026-11-15T16:17:22Z,2026-11-15T18:00:00Z,India
 48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,spreads,Pittsburgh Steelers,-108.0,3.5
 48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Over,-108.0,50.0
 48e497c230e6c9afcb3b600091d28e17,2026-11-15T19:20:40Z,2026-11-16T01:20:00Z,Cincinnati Bengals,Pittsburgh Steelers,CIN,PIT,bovada,totals,Under,-112.0,50.0
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Baltimore Ravens,-118.0,
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Los Angeles Chargers,-102.0,
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Baltimore Ravens,-105.0,-1.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Los Angeles Chargers,-115.0,1.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Over,-110.0,37.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Under,-110.0,37.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Baltimore Ravens,-126.0,
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Los Angeles Chargers,108.0,
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Baltimore Ravens,-110.0,-1.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Los Angeles Chargers,-110.0,1.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Baltimore Ravens,-121.0,
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Los Angeles Chargers,100.0,
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Baltimore Ravens,-108.0,-1.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Los Angeles Chargers,-113.0,1.5
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Over,-109.0,38.0
+35e3bdff558b5d1506251e814986f164,2026-11-07T18:00:18Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Under,-112.0,38.0
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Baltimore Ravens,-130.0,
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Los Angeles Chargers,110.0,
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Baltimore Ravens,-105.0,-2.5
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Los Angeles Chargers,-115.0,2.5
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Over,-110.0,37.5
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Under,-110.0,37.5
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Baltimore Ravens,-144.0,
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Los Angeles Chargers,124.0,
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Baltimore Ravens,-105.0,-3.0
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Los Angeles Chargers,-115.0,3.0
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Baltimore Ravens,-121.0,
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Los Angeles Chargers,100.0,
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Baltimore Ravens,-108.0,-1.5
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Los Angeles Chargers,-113.0,1.5
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Over,-109.0,38.0
+35e3bdff558b5d1506251e814986f164,2026-11-08T15:55:34Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Under,-112.0,38.0
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Baltimore Ravens,-238.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Los Angeles Chargers,195.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Baltimore Ravens,-105.0,-5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Los Angeles Chargers,-115.0,5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Baltimore Ravens,-240.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Los Angeles Chargers,203.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Baltimore Ravens,-110.0,-5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Los Angeles Chargers,-110.0,5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Baltimore Ravens,-235.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Los Angeles Chargers,194.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Baltimore Ravens,-105.0,-5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Los Angeles Chargers,-115.0,5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Over,-115.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Under,-105.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Baltimore Ravens,-240.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Los Angeles Chargers,200.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Baltimore Ravens,-105.0,-5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Los Angeles Chargers,-105.0,5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Over,-107.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Under,-107.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Baltimore Ravens,-240.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Los Angeles Chargers,200.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Baltimore Ravens,-110.0,-5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Los Angeles Chargers,-110.0,5.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Los Angeles Chargers,185.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Baltimore Ravens,-110.0,-5.0
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Los Angeles Chargers,-110.0,5.0
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Over,-108.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Under,-113.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Baltimore Ravens,-235.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Los Angeles Chargers,195.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Baltimore Ravens,-110.0,-5.0
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Los Angeles Chargers,-108.0,5.0
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Under,-108.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Baltimore Ravens,-235.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Los Angeles Chargers,195.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Baltimore Ravens,-110.0,-5.0
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Los Angeles Chargers,-110.0,5.0
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Baltimore Ravens,-250.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Los Angeles Chargers,198.0,
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Over,-110.0,38.0
+35e3bdff558b5d1506251e814986f164,2026-11-09T22:57:59Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Under,-110.0,38.0
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Los Angeles Chargers,190.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Los Angeles Chargers,188.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Over,-115.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Under,-105.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Baltimore Ravens,-103.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Los Angeles Chargers,-107.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Over,-107.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Under,-107.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Los Angeles Chargers,170.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Baltimore Ravens,-112.0,-4.0
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Los Angeles Chargers,-109.0,4.0
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Over,-113.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Under,-108.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Los Angeles Chargers,188.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Under,-108.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Over,-112.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Under,-108.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Los Angeles Chargers,183.0,
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-12T20:45:52Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Baltimore Ravens,-218.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Baltimore Ravens,-105.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Los Angeles Chargers,-115.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Los Angeles Chargers,188.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Over,-115.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Under,-105.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Baltimore Ravens,-103.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Los Angeles Chargers,-107.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Over,-107.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Under,-107.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Los Angeles Chargers,170.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Baltimore Ravens,-112.0,-4.0
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Los Angeles Chargers,-109.0,4.0
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Over,-113.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Under,-108.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Under,-108.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Over,-112.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Under,-108.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Los Angeles Chargers,183.0,
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-13T20:27:00Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Baltimore Ravens,-218.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Baltimore Ravens,-110.0,-4.0
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Los Angeles Chargers,-110.0,4.0
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Los Angeles Chargers,188.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Over,-115.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Under,-105.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Baltimore Ravens,-215.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Los Angeles Chargers,183.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Baltimore Ravens,-103.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Los Angeles Chargers,-107.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Under,-104.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Baltimore Ravens,-215.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Los Angeles Chargers,183.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Over,-113.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Under,-107.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Baltimore Ravens,-113.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Los Angeles Chargers,-109.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Over,-107.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Under,-114.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Over,-108.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Under,-110.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Over,-112.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Under,-108.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Los Angeles Chargers,183.0,
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-14T18:43:20Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Los Angeles Chargers,185.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Los Angeles Chargers,184.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Over,-115.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Under,-105.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Baltimore Ravens,-215.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Los Angeles Chargers,183.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Baltimore Ravens,-103.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Los Angeles Chargers,-107.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Over,-107.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Under,-107.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Baltimore Ravens,-215.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Los Angeles Chargers,183.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Over,-110.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Under,-110.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Baltimore Ravens,-113.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Los Angeles Chargers,-109.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Over,-107.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Under,-114.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Over,-108.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Under,-110.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Over,-112.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Under,-108.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Los Angeles Chargers,183.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T16:17:22Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Los Angeles Chargers,185.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Baltimore Ravens,-112.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Los Angeles Chargers,-108.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Over,-115.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Under,-105.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Los Angeles Chargers,190.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Over,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Under,-110.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Los Angeles Chargers,190.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Over,-115.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Under,-105.0,38.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Los Angeles Chargers,186.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Baltimore Ravens,-106.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Los Angeles Chargers,-104.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Over,-107.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Under,-107.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Los Angeles Chargers,186.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Baltimore Ravens,-111.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Los Angeles Chargers,-109.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Over,-110.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Under,-110.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Baltimore Ravens,-113.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Los Angeles Chargers,-109.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Over,-107.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Under,-114.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Los Angeles Chargers,185.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Baltimore Ravens,-108.0,-5.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Los Angeles Chargers,-110.0,5.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Over,-108.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Under,-110.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Los Angeles Chargers,185.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Over,-112.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Under,-108.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Baltimore Ravens,-236.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Los Angeles Chargers,188.0,
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Over,-110.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-15T19:20:40Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Under,-110.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,h2h,Los Angeles Chargers,185.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Baltimore Ravens,-112.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,spreads,Los Angeles Chargers,-108.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Over,-108.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,draftkings,totals,Under,-112.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Baltimore Ravens,-215.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,h2h,Los Angeles Chargers,183.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Over,-110.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betus,totals,Under,-110.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Baltimore Ravens,-230.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,h2h,Los Angeles Chargers,190.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Over,-105.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,fanduel,totals,Under,-115.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Baltimore Ravens,-106.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,spreads,Los Angeles Chargers,-104.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Over,-109.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,lowvig,totals,Under,-105.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Baltimore Ravens,-210.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Over,-110.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betonlineag,totals,Under,-110.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Baltimore Ravens,-240.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,h2h,Los Angeles Chargers,190.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Baltimore Ravens,-113.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,spreads,Los Angeles Chargers,-108.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Over,-108.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betrivers,totals,Under,-113.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Baltimore Ravens,-225.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,h2h,Los Angeles Chargers,185.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Over,-108.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,betmgm,totals,Under,-110.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Baltimore Ravens,-220.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,h2h,Los Angeles Chargers,180.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Baltimore Ravens,-108.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,spreads,Los Angeles Chargers,-112.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Over,-112.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,bovada,totals,Under,-108.0,39.0
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Baltimore Ravens,-224.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,h2h,Los Angeles Chargers,187.0,
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Baltimore Ravens,-110.0,-4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Los Angeles Chargers,-110.0,4.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Over,-110.0,39.5
+35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Under,-110.0,39.5
