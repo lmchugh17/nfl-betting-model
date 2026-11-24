@@ -58863,3 +58863,243 @@ b5700b4d938fd94429f60d4622cc9c0a,2026-11-15T16:17:22Z,2026-11-15T18:00:00Z,India
 35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,spreads,Los Angeles Chargers,-110.0,4.5
 35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Over,-110.0,39.5
 35e3bdff558b5d1506251e814986f164,2026-11-16T22:50:58Z,2026-11-17T01:15:00Z,Baltimore Ravens,Los Angeles Chargers,BAL,LAC,mybookieag,totals,Under,-110.0,39.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Houston Texans,-455.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Indianapolis Colts,350.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Over,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Under,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Houston Texans,-550.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Indianapolis Colts,410.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Houston Texans,-115.0,-9.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Indianapolis Colts,-105.0,9.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Over,100.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Under,-120.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Houston Texans,-105.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Indianapolis Colts,-105.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Over,-107.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Under,-107.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Houston Texans,-500.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Indianapolis Colts,375.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Houston Texans,-114.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Indianapolis Colts,-107.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Over,-113.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Under,-108.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Houston Texans,-549.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Indianapolis Colts,390.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-12T20:45:52Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Houston Texans,-455.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Indianapolis Colts,350.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Over,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Under,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Houston Texans,-550.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Indianapolis Colts,410.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Houston Texans,-115.0,-9.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Indianapolis Colts,-105.0,9.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Over,100.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Under,-120.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Houston Texans,-105.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Indianapolis Colts,-105.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Over,-107.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Under,-107.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Houston Texans,-500.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Indianapolis Colts,375.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Houston Texans,-114.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Indianapolis Colts,-107.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Over,-113.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Under,-108.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Houston Texans,-549.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Indianapolis Colts,390.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-13T20:27:00Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Houston Texans,-455.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Indianapolis Colts,350.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Over,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Under,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Houston Texans,-550.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Indianapolis Colts,410.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Houston Texans,-115.0,-9.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Indianapolis Colts,-105.0,9.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Over,100.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Under,-120.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Houston Texans,-105.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Indianapolis Colts,-105.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Over,-107.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Under,-107.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Houston Texans,-500.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Indianapolis Colts,375.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Houston Texans,-114.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Indianapolis Colts,-107.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Over,-113.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Under,-108.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Houston Texans,-549.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Indianapolis Colts,390.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-14T18:43:20Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Houston Texans,-455.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Indianapolis Colts,350.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Over,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Under,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Houston Texans,-550.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Indianapolis Colts,410.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Houston Texans,-115.0,-9.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Indianapolis Colts,-105.0,9.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Over,100.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Under,-120.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Houston Texans,-500.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Indianapolis Colts,375.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Houston Texans,-114.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Indianapolis Colts,-107.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Over,-113.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Under,-108.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Houston Texans,-549.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Indianapolis Colts,380.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Houston Texans,-110.0,-10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Indianapolis Colts,-110.0,10.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Over,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-15T16:17:22Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Under,-110.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Houston Texans,-650.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Indianapolis Colts,470.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Houston Texans,-110.0,-11.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Indianapolis Colts,-110.0,11.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Over,-105.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Under,-115.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Houston Texans,-650.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Indianapolis Colts,480.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Houston Texans,-115.0,-10.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Indianapolis Colts,-105.0,10.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Over,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Under,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,h2h,Houston Texans,-700.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,h2h,Indianapolis Colts,500.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Houston Texans,-105.0,-12.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Indianapolis Colts,-115.0,12.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Over,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Under,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,h2h,Houston Texans,-685.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,h2h,Indianapolis Colts,497.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Houston Texans,-105.0,-12.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Indianapolis Colts,-115.0,12.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Over,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Under,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,h2h,Houston Texans,-685.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,h2h,Indianapolis Colts,497.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Houston Texans,-102.0,-12.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Indianapolis Colts,-108.0,12.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Over,-107.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Under,-107.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Houston Texans,-670.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Indianapolis Colts,475.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Houston Texans,-109.0,-11.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Indianapolis Colts,-112.0,11.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Over,-107.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Under,-114.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Houston Texans,-676.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Indianapolis Colts,460.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Houston Texans,-110.0,-11.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Indianapolis Colts,-110.0,11.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Over,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Under,-110.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,h2h,Houston Texans,-650.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,h2h,Indianapolis Colts,500.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,spreads,Houston Texans,-108.0,-11.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,spreads,Indianapolis Colts,-110.0,11.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,totals,Over,-105.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,totals,Under,-112.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,h2h,Houston Texans,-700.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,h2h,Indianapolis Colts,500.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,spreads,Houston Texans,-108.0,-11.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,spreads,Indianapolis Colts,-112.0,11.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,totals,Over,-112.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-16T22:50:58Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,totals,Under,-108.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Houston Texans,-700.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,h2h,Indianapolis Colts,502.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Houston Texans,-106.0,-12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,spreads,Indianapolis Colts,-114.0,12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Over,-104.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,draftkings,totals,Under,-116.0,44.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Houston Texans,-820.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,h2h,Indianapolis Colts,570.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Houston Texans,-105.0,-12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,spreads,Indianapolis Colts,-115.0,12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Over,-120.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,fanduel,totals,Under,100.0,43.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,h2h,Houston Texans,-735.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,h2h,Indianapolis Colts,525.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Houston Texans,-110.0,-12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,spreads,Indianapolis Colts,-110.0,12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Over,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betus,totals,Under,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,h2h,Houston Texans,-735.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,h2h,Indianapolis Colts,526.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Houston Texans,-110.0,-12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,spreads,Indianapolis Colts,-110.0,12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Over,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betonlineag,totals,Under,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,h2h,Houston Texans,-735.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,h2h,Indianapolis Colts,526.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Houston Texans,-105.0,-12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,spreads,Indianapolis Colts,-105.0,12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Over,-107.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,lowvig,totals,Under,-107.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Houston Texans,-770.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,h2h,Indianapolis Colts,510.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Houston Texans,-113.0,-12.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,spreads,Indianapolis Colts,-108.0,12.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Over,-113.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betrivers,totals,Under,-108.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Houston Texans,-750.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,h2h,Indianapolis Colts,515.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Houston Texans,-110.0,-12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,spreads,Indianapolis Colts,-110.0,12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Over,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,mybookieag,totals,Under,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,h2h,Houston Texans,-700.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,h2h,Indianapolis Colts,525.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,spreads,Houston Texans,-105.0,-12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,spreads,Indianapolis Colts,-105.0,12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,totals,Over,-110.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,betmgm,totals,Under,-108.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,h2h,Houston Texans,-725.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,h2h,Indianapolis Colts,500.0,
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,spreads,Houston Texans,-110.0,-12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,spreads,Indianapolis Colts,-110.0,12.5
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,totals,Over,-108.0,44.0
+66f9e83cf025d58acee12bce18661fb3,2026-11-19T21:24:02Z,2026-11-20T01:15:00Z,Houston Texans,Indianapolis Colts,HOU,IND,bovada,totals,Under,-112.0,44.0
