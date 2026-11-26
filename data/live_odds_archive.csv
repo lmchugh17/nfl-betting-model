@@ -63029,3 +63029,423 @@ cbe45bafcc2615fc1d96cbc12840377a,2026-11-22T17:04:14Z,2026-11-22T18:00:00Z,Phila
 8ba112fabf4e87639338a5f437c5abfe,2026-11-22T20:17:49Z,2026-11-22T21:25:00Z,New York Giants,Jacksonville Jaguars,NYG,JAX,bovada,spreads,New York Giants,-105.0,6.0
 8ba112fabf4e87639338a5f437c5abfe,2026-11-22T20:17:49Z,2026-11-22T21:25:00Z,New York Giants,Jacksonville Jaguars,NYG,JAX,bovada,totals,Over,-110.0,45.0
 8ba112fabf4e87639338a5f437c5abfe,2026-11-22T20:17:49Z,2026-11-22T21:25:00Z,New York Giants,Jacksonville Jaguars,NYG,JAX,bovada,totals,Under,-110.0,45.0
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,Minnesota Vikings,170.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,San Francisco 49ers,-205.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,Minnesota Vikings,-105.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,San Francisco 49ers,-115.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Over,-115.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Under,-105.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,Minnesota Vikings,188.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,San Francisco 49ers,-225.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,Minnesota Vikings,-110.0,4.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,San Francisco 49ers,-110.0,-4.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,Minnesota Vikings,-110.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,San Francisco 49ers,-110.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,Minnesota Vikings,175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,San Francisco 49ers,-220.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,Minnesota Vikings,-110.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,San Francisco 49ers,-110.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Over,-110.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Under,-110.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,Minnesota Vikings,105.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,San Francisco 49ers,-116.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Over,-113.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Under,-102.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,Minnesota Vikings,100.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,San Francisco 49ers,-120.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Over,-115.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Under,-105.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,Minnesota Vikings,170.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,San Francisco 49ers,-210.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,Minnesota Vikings,-107.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,San Francisco 49ers,-114.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Over,-109.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-13T20:27:00Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Under,-112.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,Minnesota Vikings,170.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,San Francisco 49ers,-205.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,Minnesota Vikings,-105.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,San Francisco 49ers,-115.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Over,-115.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Under,-105.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,Minnesota Vikings,188.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,San Francisco 49ers,-225.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,Minnesota Vikings,-110.0,4.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,San Francisco 49ers,-110.0,-4.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,Minnesota Vikings,-110.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,San Francisco 49ers,-110.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,Minnesota Vikings,175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,San Francisco 49ers,-220.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,Minnesota Vikings,-110.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,San Francisco 49ers,-110.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Over,-110.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Under,-110.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,Minnesota Vikings,105.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,San Francisco 49ers,-116.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Over,-113.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Under,-102.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,Minnesota Vikings,100.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,San Francisco 49ers,-120.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Over,-115.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Under,-105.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,Minnesota Vikings,170.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,San Francisco 49ers,-210.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,Minnesota Vikings,-107.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,San Francisco 49ers,-114.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Over,-109.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-14T18:43:20Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Under,-112.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,Minnesota Vikings,170.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,San Francisco 49ers,-205.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,Minnesota Vikings,-105.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,San Francisco 49ers,-115.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Over,-115.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Under,-105.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,Minnesota Vikings,188.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,San Francisco 49ers,-225.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,Minnesota Vikings,-110.0,4.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,San Francisco 49ers,-110.0,-4.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,Minnesota Vikings,175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,San Francisco 49ers,-220.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,Minnesota Vikings,-110.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,San Francisco 49ers,-110.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Over,-110.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Under,-110.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,Minnesota Vikings,170.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,San Francisco 49ers,-210.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,Minnesota Vikings,-107.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,San Francisco 49ers,-114.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Over,-109.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-15T16:17:22Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Under,-112.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,Minnesota Vikings,140.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,San Francisco 49ers,-166.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,Minnesota Vikings,-108.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,San Francisco 49ers,-112.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Over,-108.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Under,-112.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,Minnesota Vikings,144.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,San Francisco 49ers,-172.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,Minnesota Vikings,100.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,San Francisco 49ers,-120.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,Minnesota Vikings,138.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,San Francisco 49ers,-165.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,Minnesota Vikings,-108.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,San Francisco 49ers,-110.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Over,-108.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,Minnesota Vikings,134.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,San Francisco 49ers,-155.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,Minnesota Vikings,-110.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,San Francisco 49ers,-110.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Over,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Under,-115.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,Minnesota Vikings,136.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,San Francisco 49ers,-168.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,Minnesota Vikings,-110.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,San Francisco 49ers,-110.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,Minnesota Vikings,137.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,San Francisco 49ers,-157.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,Minnesota Vikings,-105.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,San Francisco 49ers,-105.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Over,-102.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Under,-113.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,Minnesota Vikings,137.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,San Francisco 49ers,-157.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,Minnesota Vikings,-110.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,San Francisco 49ers,-110.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Over,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Under,-115.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,Minnesota Vikings,140.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,Minnesota Vikings,-120.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,San Francisco 49ers,-103.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Over,-109.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Under,-112.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,Minnesota Vikings,143.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,San Francisco 49ers,-168.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,Minnesota Vikings,-105.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,San Francisco 49ers,-115.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Over,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-16T22:50:58Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Under,-115.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,Minnesota Vikings,140.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,San Francisco 49ers,-167.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,Minnesota Vikings,-107.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,San Francisco 49ers,-112.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Over,-109.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,Minnesota Vikings,138.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,San Francisco 49ers,-164.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,Minnesota Vikings,100.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,San Francisco 49ers,-120.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Over,-115.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Under,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,Minnesota Vikings,140.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,San Francisco 49ers,-165.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,Minnesota Vikings,-105.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,San Francisco 49ers,-112.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Under,-108.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,Minnesota Vikings,142.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,San Francisco 49ers,-165.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,Minnesota Vikings,-105.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,San Francisco 49ers,-115.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Over,-115.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Under,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,Minnesota Vikings,138.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,San Francisco 49ers,-170.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,Minnesota Vikings,-110.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,San Francisco 49ers,-110.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,Minnesota Vikings,145.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,San Francisco 49ers,-165.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,Minnesota Vikings,-113.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,San Francisco 49ers,102.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Over,-113.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Under,-102.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,Minnesota Vikings,145.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,San Francisco 49ers,-165.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,Minnesota Vikings,-104.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,San Francisco 49ers,-116.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Over,-115.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Under,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,Minnesota Vikings,138.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,San Francisco 49ers,-167.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,Minnesota Vikings,-118.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,San Francisco 49ers,-104.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,Minnesota Vikings,153.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,San Francisco 49ers,-178.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,Minnesota Vikings,-120.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,San Francisco 49ers,100.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-19T21:24:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,Minnesota Vikings,144.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,San Francisco 49ers,-171.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,Minnesota Vikings,-101.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,San Francisco 49ers,-118.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Over,-109.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,Minnesota Vikings,140.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,San Francisco 49ers,-166.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,Minnesota Vikings,-120.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,San Francisco 49ers,100.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Over,-120.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Under,100.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,Minnesota Vikings,145.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,Minnesota Vikings,-102.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,San Francisco 49ers,-118.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Over,-105.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Under,-112.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,Minnesota Vikings,150.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,Minnesota Vikings,-120.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,San Francisco 49ers,100.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Over,-110.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Under,-110.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,Minnesota Vikings,143.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,San Francisco 49ers,-176.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,Minnesota Vikings,-110.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,San Francisco 49ers,-120.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,Minnesota Vikings,153.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,Minnesota Vikings,-114.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,San Francisco 49ers,103.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Over,-107.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Under,-107.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,Minnesota Vikings,153.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,Minnesota Vikings,-118.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,San Francisco 49ers,-102.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Over,-110.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Under,-110.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,Minnesota Vikings,138.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,San Francisco 49ers,-167.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,Minnesota Vikings,-117.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,San Francisco 49ers,-105.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,Minnesota Vikings,150.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,Minnesota Vikings,-120.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,San Francisco 49ers,100.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-20T21:01:08Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,Minnesota Vikings,145.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,San Francisco 49ers,-172.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,Minnesota Vikings,-101.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,San Francisco 49ers,-118.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Over,-109.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,Minnesota Vikings,142.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,San Francisco 49ers,-168.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,Minnesota Vikings,-120.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,San Francisco 49ers,100.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Over,-116.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Under,-104.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,Minnesota Vikings,145.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,Minnesota Vikings,-102.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,San Francisco 49ers,-118.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Over,-105.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Under,-112.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,Minnesota Vikings,150.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,Minnesota Vikings,100.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,San Francisco 49ers,-120.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Over,-110.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Under,-110.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,Minnesota Vikings,143.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,San Francisco 49ers,-176.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,Minnesota Vikings,-110.0,3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,San Francisco 49ers,-120.0,-3.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,Minnesota Vikings,153.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,Minnesota Vikings,-114.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,San Francisco 49ers,103.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Over,-107.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Under,-107.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,Minnesota Vikings,153.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,San Francisco 49ers,-175.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,Minnesota Vikings,-118.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,San Francisco 49ers,-102.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Over,-110.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Under,-110.0,47.0
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,Minnesota Vikings,138.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,San Francisco 49ers,-167.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,Minnesota Vikings,-120.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,San Francisco 49ers,-103.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Over,-112.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Under,-109.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,Minnesota Vikings,153.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,San Francisco 49ers,-178.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,Minnesota Vikings,-120.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,San Francisco 49ers,100.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Over,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-21T20:02:02Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Under,-110.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,Minnesota Vikings,148.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,San Francisco 49ers,-176.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,Minnesota Vikings,-114.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,San Francisco 49ers,-105.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Over,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Under,-114.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,Minnesota Vikings,146.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,San Francisco 49ers,-174.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,Minnesota Vikings,-115.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,San Francisco 49ers,-105.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Over,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Under,-115.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,Minnesota Vikings,155.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,San Francisco 49ers,-185.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,Minnesota Vikings,-112.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,San Francisco 49ers,-105.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Over,-108.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Under,-110.0,46.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,Minnesota Vikings,159.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,San Francisco 49ers,-185.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,Minnesota Vikings,-115.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,San Francisco 49ers,-105.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,Minnesota Vikings,150.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,San Francisco 49ers,-178.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,Minnesota Vikings,-120.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,San Francisco 49ers,100.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,Minnesota Vikings,163.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,San Francisco 49ers,-187.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,Minnesota Vikings,-107.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,San Francisco 49ers,-103.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Over,-102.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Under,-113.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,Minnesota Vikings,163.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,San Francisco 49ers,-187.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,Minnesota Vikings,-112.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,San Francisco 49ers,-108.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Over,-105.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Under,-115.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,Minnesota Vikings,145.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,San Francisco 49ers,-177.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,Minnesota Vikings,-112.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,San Francisco 49ers,-109.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,Minnesota Vikings,155.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,San Francisco 49ers,-180.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,Minnesota Vikings,-115.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,San Francisco 49ers,-105.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Over,-108.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T17:04:14Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Under,-112.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,Minnesota Vikings,159.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,h2h,San Francisco 49ers,-190.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,Minnesota Vikings,-107.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,spreads,San Francisco 49ers,-112.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Over,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,draftkings,totals,Under,-114.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,Minnesota Vikings,158.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,h2h,San Francisco 49ers,-188.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,Minnesota Vikings,-110.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,spreads,San Francisco 49ers,-110.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Over,-105.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,fanduel,totals,Under,-115.0,46.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,Minnesota Vikings,165.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,h2h,San Francisco 49ers,-200.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,Minnesota Vikings,-110.0,4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,spreads,San Francisco 49ers,-108.0,-4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betmgm,totals,Under,-108.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,Minnesota Vikings,167.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,h2h,San Francisco 49ers,-195.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,Minnesota Vikings,-110.0,4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,spreads,San Francisco 49ers,-110.0,-4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betus,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,Minnesota Vikings,163.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,h2h,San Francisco 49ers,-194.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,Minnesota Vikings,-115.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,spreads,San Francisco 49ers,-105.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,mybookieag,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,Minnesota Vikings,170.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,h2h,San Francisco 49ers,-195.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,Minnesota Vikings,-105.0,4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,spreads,San Francisco 49ers,-105.0,-4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Over,-102.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,lowvig,totals,Under,-113.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,Minnesota Vikings,170.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,h2h,San Francisco 49ers,-195.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,Minnesota Vikings,-110.0,4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,spreads,San Francisco 49ers,-110.0,-4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Over,-105.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betonlineag,totals,Under,-115.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,Minnesota Vikings,145.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,h2h,San Francisco 49ers,-177.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,Minnesota Vikings,-112.0,3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,spreads,San Francisco 49ers,-109.0,-3.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Over,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,betrivers,totals,Under,-110.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,Minnesota Vikings,167.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,h2h,San Francisco 49ers,-195.0,
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,Minnesota Vikings,-112.0,4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,San Francisco 49ers,-108.0,-4.0
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Over,-108.0,45.5
+60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Under,-112.0,45.5
