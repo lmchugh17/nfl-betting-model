@@ -63449,3 +63449,441 @@ cbe45bafcc2615fc1d96cbc12840377a,2026-11-22T17:04:14Z,2026-11-22T18:00:00Z,Phila
 60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,spreads,San Francisco 49ers,-108.0,-4.0
 60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Over,-108.0,45.5
 60e1d27b083a335b722c2c852ea85612,2026-11-22T20:17:49Z,2026-11-23T01:20:00Z,San Francisco 49ers,Minnesota Vikings,SF,MIN,bovada,totals,Under,-112.0,45.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-205.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,170.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-115.0,-3.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-105.0,3.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Cincinnati Bengals,-110.0,-4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Washington Commanders,-110.0,4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Over,-110.0,51.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Under,-110.0,51.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Cincinnati Bengals,-210.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Washington Commanders,176.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Cincinnati Bengals,100.0,-4.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Washington Commanders,-120.0,4.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Over,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Under,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Cincinnati Bengals,-210.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Washington Commanders,170.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Cincinnati Bengals,-108.0,-4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Washington Commanders,-113.0,4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Over,-108.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Under,-113.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-208.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,168.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Cincinnati Bengals,-110.0,-4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Washington Commanders,-110.0,4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Over,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-14T18:43:20Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Under,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-205.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,170.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-115.0,-3.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-105.0,3.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Cincinnati Bengals,-210.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Washington Commanders,176.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Cincinnati Bengals,100.0,-4.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Washington Commanders,-120.0,4.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Over,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Under,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Cincinnati Bengals,-210.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Washington Commanders,170.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Cincinnati Bengals,-108.0,-4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Washington Commanders,-113.0,4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Over,-108.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Under,-113.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-210.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,169.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Cincinnati Bengals,-110.0,-4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Washington Commanders,-110.0,4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Over,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T16:17:22Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Under,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-205.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,170.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-115.0,-3.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-105.0,3.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-208.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,167.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Cincinnati Bengals,-110.0,-4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Washington Commanders,-110.0,4.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Over,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-15T19:20:40Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Under,-110.0,51.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-305.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,245.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-108.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-112.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-115.0,52.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-105.0,52.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Cincinnati Bengals,-280.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Cincinnati Bengals,-110.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Washington Commanders,-110.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Over,-110.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Under,-110.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Cincinnati Bengals,-295.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Cincinnati Bengals,-120.0,-5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Washington Commanders,100.0,5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Over,-115.0,52.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Under,-105.0,52.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Cincinnati Bengals,-280.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Washington Commanders,230.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Cincinnati Bengals,-110.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Washington Commanders,-110.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Over,-110.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Under,-110.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Cincinnati Bengals,-280.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Washington Commanders,230.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Cincinnati Bengals,-102.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Washington Commanders,-108.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Over,-107.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Under,-107.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Cincinnati Bengals,-278.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Washington Commanders,220.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Cincinnati Bengals,-113.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Washington Commanders,-108.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Over,-112.0,52.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Under,-109.0,52.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-280.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,221.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Cincinnati Bengals,-295.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Cincinnati Bengals,-108.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Washington Commanders,-110.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Over,-110.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Under,-108.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Cincinnati Bengals,-285.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Cincinnati Bengals,-108.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Washington Commanders,-112.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Over,-108.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-16T22:50:58Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Under,-112.0,53.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-292.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,238.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-107.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-116.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-103.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Cincinnati Bengals,-280.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Cincinnati Bengals,-105.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Washington Commanders,-115.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Cincinnati Bengals,-270.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Washington Commanders,220.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Cincinnati Bengals,-115.0,-5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Washington Commanders,-105.0,5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Over,-115.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Under,-105.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Washington Commanders,237.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Cincinnati Bengals,-105.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Washington Commanders,-115.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Washington Commanders,237.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Cincinnati Bengals,104.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Washington Commanders,-115.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Over,-107.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Under,-107.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Cincinnati Bengals,-305.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Washington Commanders,-109.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Over,-112.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Under,-109.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-272.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,210.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Cincinnati Bengals,-110.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Washington Commanders,-110.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Cincinnati Bengals,-275.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Washington Commanders,230.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Cincinnati Bengals,-108.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Over,-108.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Cincinnati Bengals,-115.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Washington Commanders,-105.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Over,-108.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-19T21:24:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Under,-112.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-294.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-115.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-105.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-116.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-103.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Cincinnati Bengals,-285.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Washington Commanders,238.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Cincinnati Bengals,100.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Washington Commanders,-120.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Cincinnati Bengals,-280.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Washington Commanders,230.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Cincinnati Bengals,-120.0,-5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Washington Commanders,100.0,5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Over,-115.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Under,-105.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Washington Commanders,237.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Cincinnati Bengals,100.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Washington Commanders,-120.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Washington Commanders,237.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Cincinnati Bengals,107.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Washington Commanders,-118.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Over,-107.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Under,-107.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Cincinnati Bengals,-295.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Cincinnati Bengals,-113.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Washington Commanders,-108.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Over,-109.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Under,-112.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-315.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,242.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Cincinnati Bengals,-110.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Washington Commanders,-110.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Cincinnati Bengals,-285.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Washington Commanders,230.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Washington Commanders,-108.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Over,-108.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Washington Commanders,-108.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Over,-108.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-20T21:01:08Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Under,-112.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-303.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,247.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-115.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-105.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-105.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-114.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Cincinnati Bengals,-285.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Washington Commanders,238.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Cincinnati Bengals,-120.0,-5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Washington Commanders,100.0,5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Over,-115.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Under,-105.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Cincinnati Bengals,-300.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Washington Commanders,245.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Cincinnati Bengals,100.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Washington Commanders,-120.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Cincinnati Bengals,-300.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Washington Commanders,245.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Cincinnati Bengals,102.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Washington Commanders,-113.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Over,-107.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Under,-107.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Cincinnati Bengals,-286.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Washington Commanders,230.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Over,-107.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Under,-113.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-305.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Under,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Cincinnati Bengals,-295.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Washington Commanders,-108.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Under,-108.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Washington Commanders,-108.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Over,-108.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-21T20:02:02Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Under,-112.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-296.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,241.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-107.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-116.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-103.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Cincinnati Bengals,-285.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Washington Commanders,238.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Over,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Under,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Cincinnati Bengals,-120.0,-5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Washington Commanders,100.0,5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Over,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Under,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Cincinnati Bengals,-292.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Washington Commanders,239.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Over,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Under,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Cincinnati Bengals,-292.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Washington Commanders,239.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Cincinnati Bengals,-105.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Washington Commanders,-105.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Over,-107.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Under,-107.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Cincinnati Bengals,-295.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Washington Commanders,230.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Washington Commanders,-109.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Over,-109.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Under,-112.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-318.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,244.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Over,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Under,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Cincinnati Bengals,-295.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Cincinnati Bengals,-108.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Over,-108.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Under,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Washington Commanders,-108.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Over,-108.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T17:04:14Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Under,-112.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-296.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,241.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-107.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-116.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-103.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Cincinnati Bengals,-285.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Washington Commanders,238.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Over,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Under,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Cincinnati Bengals,-290.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Cincinnati Bengals,-120.0,-5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Washington Commanders,100.0,5.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Over,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Under,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Cincinnati Bengals,-292.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Washington Commanders,239.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Over,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Under,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Cincinnati Bengals,-292.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Washington Commanders,239.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Cincinnati Bengals,-105.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Washington Commanders,-105.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Over,100.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Under,-115.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Cincinnati Bengals,-295.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Washington Commanders,230.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Washington Commanders,-109.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Over,-109.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Under,-112.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-318.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,244.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Cincinnati Bengals,-110.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Over,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Under,-110.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Cincinnati Bengals,-295.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Cincinnati Bengals,-108.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Washington Commanders,-110.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Over,-105.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Under,-112.0,55.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Cincinnati Bengals,-285.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Washington Commanders,-108.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Over,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-22T20:17:49Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Under,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Cincinnati Bengals,-310.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,h2h,Washington Commanders,252.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Cincinnati Bengals,-109.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,spreads,Washington Commanders,-110.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Over,-106.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,draftkings,totals,Under,-113.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Cincinnati Bengals,-310.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,h2h,Washington Commanders,255.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Cincinnati Bengals,-105.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,spreads,Washington Commanders,-115.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Over,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betus,totals,Under,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Cincinnati Bengals,-300.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,h2h,Washington Commanders,245.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Cincinnati Bengals,-108.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,spreads,Washington Commanders,-112.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Over,-120.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,fanduel,totals,Under,100.0,53.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Cincinnati Bengals,-305.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,h2h,Washington Commanders,249.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Cincinnati Bengals,-115.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,spreads,Washington Commanders,-105.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Over,-105.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betonlineag,totals,Under,-115.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Cincinnati Bengals,-305.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,h2h,Washington Commanders,249.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Cincinnati Bengals,-103.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,spreads,Washington Commanders,-107.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Over,-102.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,lowvig,totals,Under,-113.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Cincinnati Bengals,-315.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,h2h,Washington Commanders,245.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Cincinnati Bengals,-110.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,spreads,Washington Commanders,-110.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Over,-112.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betrivers,totals,Under,-109.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Cincinnati Bengals,-315.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,h2h,Washington Commanders,255.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Cincinnati Bengals,-110.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,spreads,Washington Commanders,-110.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Over,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,mybookieag,totals,Under,-110.0,54.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Cincinnati Bengals,-300.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,h2h,Washington Commanders,240.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Cincinnati Bengals,-108.0,-6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,spreads,Washington Commanders,-110.0,6.5
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Over,-110.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,betmgm,totals,Under,-108.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Cincinnati Bengals,-285.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,h2h,Washington Commanders,235.0,
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Cincinnati Bengals,-112.0,-6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,spreads,Washington Commanders,-108.0,6.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Over,-112.0,54.0
+3a60ed1d20004aa4d4772b2c1a2272e7,2026-11-24T00:44:37Z,2026-11-24T01:15:00Z,Washington Commanders,Cincinnati Bengals,WAS,CIN,bovada,totals,Under,-108.0,54.0
